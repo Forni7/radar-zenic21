@@ -4,7 +4,7 @@ Vigila 24/7 lo viral de la NBA y la NFL para el canal de Shorts **Zenic21**: med
 
 | Pieza | Dónde | Cada cuánto | Coste |
 |---|---|---|---|
-| Radar (26 fuentes + calendario de ESPN) | GitHub Actions | cada ~10 min | 0 € |
+| Radar (25 fuentes + calendario de ESPN) | GitHub Actions | cada ~10 min | 0 € |
 | Avisos | Bot de Telegram | al instante | 0 € |
 | Panel | GitHub Pages (`docs/`) | se actualiza solo | 0 € |
 | Fichas de Short verificadas | Rutina programada de Claude | 8:30 y 19:30 (Madrid) | incluido en el plan |

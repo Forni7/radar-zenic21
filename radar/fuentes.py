@@ -16,7 +16,6 @@ FEEDS = [
     ("SB Nation NBA", "https://www.sbnation.com/rss/nba/index.xml", False, "nba"),
     ("SB Nation NFL", "https://www.sbnation.com/rss/nfl/index.xml", False, "nfl"),
     ("BasketballNews", "https://www.basketballnews.com/feed/", False, "nba"),
-    ("Sportskeeda NBA", "https://www.sportskeeda.com/feed/basketball", False, "nba"),
     ("Awful Announcing", "https://awfulannouncing.com/feed", False, None),
     ("ClutchPoints", "https://clutchpoints.com/feed", False, None),
     ("EssentiallySports", "https://www.essentiallysports.com/feed/", False, None),
