@@ -1,127 +1,169 @@
 {
- "c1714a7241": {
-  "titular": "Draymond, expulsado por tirar a Maluach y encararse con Dillon Brooks",
-  "formato": "noticia viral",
-  "resumen": "El 2 de noviembre de 2026, en el Warriors-Suns, Draymond Green fue expulsado al inicio del tercer cuarto por dos técnicas en la misma jugada: tras derribar a Khaman Maluach y por el encontronazo con Dillon Brooks. Fue su primera expulsión de la temporada. Los Warriors remontaron y ganaron, y Curry dijo: «He lit a fire in all of us».",
-  "por_que": "Pelea + Draymond + Dillon Brooks (rivalidad con Curry) es combustible puro y la jugada se entiende sin contexto en un segundo.",
-  "datos_clave": [
-   "Dos técnicas en la misma secuencia: derribo a Maluach y rifirrafe con Brooks (ESPN, Yahoo, AP)",
-   "Primera expulsión de la temporada; 23.ª en temporada regular y 8 en playoffs (31 en total) (ESPN/Yahoo)",
-   "Golden State remontó tras la expulsión y encadenó su quinta victoria (ESPN)"
-  ],
-  "verificacion": "confirmado",
-  "fuentes": [
-   {
-    "n": "ESPN",
-    "u": "https://www.espn.com/nba/story/_/id/50365914/warriors-draymond-green-ejected-scuffle-suns"
-   },
-   {
-    "n": "Yahoo Sports",
-    "u": "https://sports.yahoo.com/nba/breaking-news/article/warriors-star-draymond-green-ejected-after-throwing-khaman-maluach-down-getting-into-scuffle-with-dillon-brooks-044807627.html"
-   },
-   {
-    "n": "AP (WRAL)",
-    "u": "https://www.wral.com/news/ap/cb3b1-warriors-center-draymond-green-ejected-after-consecutive-technical-fouls-on-one-play-against-suns/"
-   }
-  ],
-  "potencial": 9,
-  "duracion": "20-30",
-  "fotograma1": "Plano de Draymond y Brooks separados por compañeros, con texto enorme 'EJECTED 💀' y contador '31st career ejection'",
-  "gancho": "Draymond just got ejected… again.",
-  "estructura": "1) Plano del derribo a Maluach (0-6 s). 2) La segunda técnica con Brooks (6-14 s). 3) Salida del campo y reacción de Kerr/Curry (14-22 s). 4) Remontada y frase de Curry (22-30 s).",
-  "cierre": "Vuelve al plano inicial de la expulsión con el contador de expulsiones en 31, para enlazar con el gancho.",
-  "clips": "House of Highlights https://www.youtube.com/watch?v=JsXh-QA-NKk ; Bleacher Report https://www.youtube.com/shorts/c2fADcuWCw4 ; ESPN https://www.youtube.com/shorts/xe8xhLAlLMg (verificar resolución 1080p+; buscar también el vídeo largo de highlights oficial NBA)",
-  "grafismos": "1) Contador de expulsiones 23 + 8 = 31 en el segundo 3. 2) Cara a cara Draymond vs Brooks con altura/equipo. 3) Cita de Curry en pantalla al final. 4) Cronología del tercer cuarto.",
-  "titulo_yt": "Draymond got EJECTED for this 😳",
-  "descripcion": "Draymond Green gets ejected after a scuffle with Dillon Brooks 😳🔥",
-  "hashtags": "#draymondgreen #warriors #nba #basketball #shorts",
-  "musica": "Tema agresivo/trap del catálogo del canal",
-  "caducidad": "🔴 publicar antes del 5 de noviembre (la sanción de la liga puede cambiar la historia)",
-  "avisos": "Posible sanción de la NBA aún sin confirmar: no decirla. Las fuentes difieren en el minuto exacto de la expulsión; no poner el reloj. Clips de la NBA/ESPN: riesgo de copyright.",
-  "analizado": "2026-11-03T15:30:00Z"
- },
- "c82776e97c": {
-  "titular": "LeBron se choca con la grada y se bebe el vino de un aficionado de los Sixers",
-  "formato": "gracioso",
-  "resumen": "En el tercer cuarto del 76ers-Bulls (126-107) del 2 de noviembre de 2026, LeBron James acabó en la grada tras un pase fallido a Maxey, chocó con el abonado Troy Clemons y dio un sorbo a su copa. El aficionado dijo que era vino tinto. Después LeBron dijo: «I crashed into him, spilled some of his wine… It was alright».",
-  "por_que": "Es gracioso, viral y con LeBron como protagonista; el remate llega en segundos y su reacción en rueda de prensa es la guinda.",
-  "datos_clave": [
-   "Ocurrió en el 3.er cuarto del 76ers-Bulls, victoria 126-107 (Yahoo Sports / ClutchPoints)",
-   "El aficionado es Troy Clemons, abonado; dijo que era vino tinto (Yahoo Sports)",
-   "LeBron: 15 puntos, 9 asistencias y 7 rebotes (ClutchPoints)",
-   "La NBA no ha anunciado ninguna sanción (Yahoo Sports)"
-  ],
-  "verificacion": "confirmado",
-  "fuentes": [
-   {
-    "n": "Yahoo Sports",
-    "u": "https://sports.yahoo.com/articles/watch-lebron-james-takes-sip-115135492.html"
-   },
-   {
-    "n": "NBC Sports Philadelphia",
-    "u": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/lebron-james-fan-wine-sixers-vs-bulls/764036/"
-   },
-   {
-    "n": "ClutchPoints",
-    "u": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-lebron-james-wine-review-fan-sip-midgame-bulls"
-   }
-  ],
-  "potencial": 9,
-  "duracion": "20-30",
-  "fotograma1": "LeBron con el vaso en la mano en plena grada, texto grande 'LEBRON DRANK A FAN'S WINE 😭'",
-  "gancho": "LeBron just crashed into the crowd… and took a sip.",
-  "estructura": "1) Pase fallido y choque con la grada (0-6 s). 2) El sorbo (6-12 s). 3) Reacción del aficionado (12-20 s). 4) Rueda de prensa de LeBron con su frase (20-30 s).",
-  "cierre": "Cierra con su frase 'It was alright' y vuelve al plano del sorbo para enlazar con el principio.",
-  "clips": "Bleacher Report https://www.youtube.com/watch?v=J_t3aBX7t5Q ; NBA https://www.youtube.com/shorts/bvefSGrjDgE (verificar 1080p+; buscar la rueda de prensa de LeBron en YouTube)",
-  "grafismos": "1) Marcador 126-107 con el cuarto. 2) Cita de LeBron en pantalla. 3) Ficha del aficionado 'Troy Clemons, season-ticket holder'. 4) Línea de precedente: Mike Scott 2019 sin multa.",
-  "titulo_yt": "LeBron drank a fan's wine mid-game 😭🍷",
-  "descripcion": "LeBron James crashes into the crowd and sips a fan's wine 😭🍷",
-  "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
-  "musica": "Tema ligero/divertido del catálogo del canal",
-  "caducidad": "🟡 publicar esta semana",
-  "avisos": "No afirmar que habrá multa (no hay sanción anunciada). Que era vino lo dice el aficionado. Algunos titulares hablan de Lakers/Heat: no es así, fue con los Sixers.",
-  "analizado": "2026-11-03T15:30:00Z"
- },
- "47df7ecb8d": {
-  "titular": "Los Thunder retirarán el dorsal 0 de Westbrook el 7 de febrero ante los Knicks",
-  "formato": "superación",
-  "resumen": "Sam Presti anunció el 2 de noviembre de 2026 que el dorsal 0 de Russell Westbrook se retirará el 7 de febrero de 2027 en el Paycom Center, en un partido contra los Knicks. Westbrook, que se retiró en agosto de 2026, estaba en el escenario y se emocionó. Será el segundo dorsal retirado del club, tras el 4 de Nick Collison.",
-  "por_que": "Es un homenaje emotivo a una leyenda con cifras históricas y mucho material de archivo para montar un edit potente.",
-  "datos_clave": [
-   "Ceremonia el 7 de febrero de 2027 vs. Knicks, Paycom Center (CBS Sports / Hoops Rumors)",
-   "Líder histórico de la franquicia en puntos: 18.857 (Yahoo Sports)",
-   "Segundo dorsal retirado, tras el 4 de Collison (ESPN)",
-   "Retiro anunciado el 12 de agosto de 2026 tras 18 temporadas (KGOU)"
-  ],
-  "verificacion": "anunciado",
-  "fuentes": [
-   {
-    "n": "CBS Sports",
-    "u": "https://www.cbssports.com/nba/news/russell-westbrook-thunder-number-retirement/"
-   },
-   {
-    "n": "ESPN",
-    "u": "https://www.espn.com/nba/story/_/id/50360248/thunder-retire-russell-westbrook-no-0"
-   },
-   {
-    "n": "Hoops Rumors",
-    "u": "https://www.hoopsrumors.com/2026/11/thunder-to-retire-russell-westbrooks-jersey-on-feb-7.html"
-   }
-  ],
-  "potencial": 6,
-  "duracion": "25-40",
-  "fotograma1": "Westbrook llorando en el escenario con un 0 gigante y el texto 'NUMBER 0 RETIRED 💔'",
-  "gancho": "Russell Westbrook's number is going to the rafters.",
-  "estructura": "1) Anuncio de Presti con Westbrook emocionado (0-8 s). 2) Cifras: 18.857 puntos y triple-dobles (8-18 s). 3) Jugadas icónicas en OKC (18-30 s). 4) Fecha de la ceremonia (30-36 s).",
-  "cierre": "Vuelve al plano de las lágrimas con la fecha 'Feb 7' en pantalla.",
-  "clips": "Buscar en YouTube el vídeo oficial de OKC Thunder del anuncio y los highlights de Westbrook en OKC (no localizados con enlace verificado; exigir 1080p+)",
-  "grafismos": "1) Contador de puntos 18,857. 2) Dorsal 0 subiendo a las vigas. 3) Cronología 2008-2019 en OKC. 4) Fecha 'Feb 7 vs Knicks'.",
-  "titulo_yt": "Westbrook is getting his number RETIRED 💔",
-  "descripcion": "The Thunder will retire Russell Westbrook's No. 0 🙏",
-  "hashtags": "#russellwestbrook #thunder #nba #basketball #shorts",
-  "musica": "Cinderella – Mac Miller",
-  "caducidad": "🟡 publicar esta semana",
-  "avisos": "Cifra de 18.857 puntos solo de Yahoo Sports: contrastar con el club antes de publicar. Sin clip enlazado verificado: potencial limitado.",
-  "analizado": "2026-11-03T15:30:00Z"
- }
+  "c1714a7241": {
+    "titular": "Draymond, expulsado por tirar a Maluach y encararse con Dillon Brooks",
+    "formato": "noticia viral",
+    "resumen": "El 2 de noviembre de 2026, en el Warriors-Suns, Draymond Green fue expulsado al inicio del tercer cuarto por dos técnicas en la misma jugada: tras derribar a Khaman Maluach y por el encontronazo con Dillon Brooks. Fue su primera expulsión de la temporada. Los Warriors remontaron y ganaron, y Curry dijo: «He lit a fire in all of us».",
+    "por_que": "Pelea + Draymond + Dillon Brooks (rivalidad con Curry) es combustible puro y la jugada se entiende sin contexto en un segundo.",
+    "datos_clave": [
+      "Dos técnicas en la misma secuencia: derribo a Maluach y rifirrafe con Brooks (ESPN, Yahoo, AP)",
+      "Primera expulsión de la temporada; 23.ª en temporada regular y 8 en playoffs (31 en total) (ESPN/Yahoo)",
+      "Golden State remontó tras la expulsión y encadenó su quinta victoria (ESPN)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nba/story/_/id/50365914/warriors-draymond-green-ejected-scuffle-suns"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/nba/breaking-news/article/warriors-star-draymond-green-ejected-after-throwing-khaman-maluach-down-getting-into-scuffle-with-dillon-brooks-044807627.html"
+      },
+      {
+        "n": "AP (WRAL)",
+        "u": "https://www.wral.com/news/ap/cb3b1-warriors-center-draymond-green-ejected-after-consecutive-technical-fouls-on-one-play-against-suns/"
+      }
+    ],
+    "potencial": 9,
+    "duracion": "20-30",
+    "fotograma1": "Plano de Draymond y Brooks separados por compañeros, con texto enorme 'EJECTED 💀' y contador '31st career ejection'",
+    "gancho": "Draymond just got ejected… again.",
+    "estructura": "1) Plano del derribo a Maluach (0-6 s). 2) La segunda técnica con Brooks (6-14 s). 3) Salida del campo y reacción de Kerr/Curry (14-22 s). 4) Remontada y frase de Curry (22-30 s).",
+    "cierre": "Vuelve al plano inicial de la expulsión con el contador de expulsiones en 31, para enlazar con el gancho.",
+    "clips": "House of Highlights https://www.youtube.com/watch?v=JsXh-QA-NKk ; Bleacher Report https://www.youtube.com/shorts/c2fADcuWCw4 ; ESPN https://www.youtube.com/shorts/xe8xhLAlLMg (verificar resolución 1080p+; buscar también el vídeo largo de highlights oficial NBA)",
+    "grafismos": "1) Contador de expulsiones 23 + 8 = 31 en el segundo 3. 2) Cara a cara Draymond vs Brooks con altura/equipo. 3) Cita de Curry en pantalla al final. 4) Cronología del tercer cuarto.",
+    "titulo_yt": "Draymond got EJECTED for this 😳",
+    "descripcion": "Draymond Green gets ejected after a scuffle with Dillon Brooks 😳🔥",
+    "hashtags": "#draymondgreen #warriors #nba #basketball #shorts",
+    "musica": "Tema agresivo/trap del catálogo del canal",
+    "caducidad": "🔴 publicar antes del 5 de noviembre (la sanción de la liga puede cambiar la historia)",
+    "avisos": "Posible sanción de la NBA aún sin confirmar: no decirla. Las fuentes difieren en el minuto exacto de la expulsión; no poner el reloj. Clips de la NBA/ESPN: riesgo de copyright.",
+    "analizado": "2026-11-03T15:30:00Z"
+  },
+  "c82776e97c": {
+    "titular": "LeBron se choca con la grada y se bebe el vino de un aficionado de los Sixers",
+    "formato": "gracioso",
+    "resumen": "En el tercer cuarto del 76ers-Bulls (126-107) del 2 de noviembre de 2026, LeBron James acabó en la grada tras un pase fallido a Maxey, chocó con el abonado Troy Clemons y dio un sorbo a su copa. El aficionado dijo que era vino tinto. Después LeBron dijo: «I crashed into him, spilled some of his wine… It was alright».",
+    "por_que": "Es gracioso, viral y con LeBron como protagonista; el remate llega en segundos y su reacción en rueda de prensa es la guinda.",
+    "datos_clave": [
+      "Ocurrió en el 3.er cuarto del 76ers-Bulls, victoria 126-107 (Yahoo Sports / ClutchPoints)",
+      "El aficionado es Troy Clemons, abonado; dijo que era vino tinto (Yahoo Sports)",
+      "LeBron: 15 puntos, 9 asistencias y 7 rebotes (ClutchPoints)",
+      "La NBA no ha anunciado ninguna sanción (Yahoo Sports)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/watch-lebron-james-takes-sip-115135492.html"
+      },
+      {
+        "n": "NBC Sports Philadelphia",
+        "u": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/lebron-james-fan-wine-sixers-vs-bulls/764036/"
+      },
+      {
+        "n": "ClutchPoints",
+        "u": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-lebron-james-wine-review-fan-sip-midgame-bulls"
+      }
+    ],
+    "potencial": 9,
+    "duracion": "20-30",
+    "fotograma1": "LeBron con el vaso en la mano en plena grada, texto grande 'LEBRON DRANK A FAN'S WINE 😭'",
+    "gancho": "LeBron just crashed into the crowd… and took a sip.",
+    "estructura": "1) Pase fallido y choque con la grada (0-6 s). 2) El sorbo (6-12 s). 3) Reacción del aficionado (12-20 s). 4) Rueda de prensa de LeBron con su frase (20-30 s).",
+    "cierre": "Cierra con su frase 'It was alright' y vuelve al plano del sorbo para enlazar con el principio.",
+    "clips": "Bleacher Report https://www.youtube.com/watch?v=J_t3aBX7t5Q ; NBA https://www.youtube.com/shorts/bvefSGrjDgE (verificar 1080p+; buscar la rueda de prensa de LeBron en YouTube)",
+    "grafismos": "1) Marcador 126-107 con el cuarto. 2) Cita de LeBron en pantalla. 3) Ficha del aficionado 'Troy Clemons, season-ticket holder'. 4) Línea de precedente: Mike Scott 2019 sin multa.",
+    "titulo_yt": "LeBron drank a fan's wine mid-game 😭🍷",
+    "descripcion": "LeBron James crashes into the crowd and sips a fan's wine 😭🍷",
+    "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
+    "musica": "Tema ligero/divertido del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No afirmar que habrá multa (no hay sanción anunciada). Que era vino lo dice el aficionado. Algunos titulares hablan de Lakers/Heat: no es así, fue con los Sixers.",
+    "analizado": "2026-11-03T15:30:00Z"
+  },
+  "47df7ecb8d": {
+    "titular": "Los Thunder retirarán el dorsal 0 de Westbrook el 7 de febrero ante los Knicks",
+    "formato": "superación",
+    "resumen": "Sam Presti anunció el 2 de noviembre de 2026 que el dorsal 0 de Russell Westbrook se retirará el 7 de febrero de 2027 en el Paycom Center, en un partido contra los Knicks. Westbrook, que se retiró en agosto de 2026, estaba en el escenario y se emocionó. Será el segundo dorsal retirado del club, tras el 4 de Nick Collison.",
+    "por_que": "Es un homenaje emotivo a una leyenda con cifras históricas y mucho material de archivo para montar un edit potente.",
+    "datos_clave": [
+      "Ceremonia el 7 de febrero de 2027 vs. Knicks, Paycom Center (CBS Sports / Hoops Rumors)",
+      "Líder histórico de la franquicia en puntos: 18.857 (Yahoo Sports)",
+      "Segundo dorsal retirado, tras el 4 de Collison (ESPN)",
+      "Retiro anunciado el 12 de agosto de 2026 tras 18 temporadas (KGOU)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "CBS Sports",
+        "u": "https://www.cbssports.com/nba/news/russell-westbrook-thunder-number-retirement/"
+      },
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nba/story/_/id/50360248/thunder-retire-russell-westbrook-no-0"
+      },
+      {
+        "n": "Hoops Rumors",
+        "u": "https://www.hoopsrumors.com/2026/11/thunder-to-retire-russell-westbrooks-jersey-on-feb-7.html"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "25-40",
+    "fotograma1": "Westbrook llorando en el escenario con un 0 gigante y el texto 'NUMBER 0 RETIRED 💔'",
+    "gancho": "Russell Westbrook's number is going to the rafters.",
+    "estructura": "1) Anuncio de Presti con Westbrook emocionado (0-8 s). 2) Cifras: 18.857 puntos y triple-dobles (8-18 s). 3) Jugadas icónicas en OKC (18-30 s). 4) Fecha de la ceremonia (30-36 s).",
+    "cierre": "Vuelve al plano de las lágrimas con la fecha 'Feb 7' en pantalla.",
+    "clips": "Buscar en YouTube el vídeo oficial de OKC Thunder del anuncio y los highlights de Westbrook en OKC (no localizados con enlace verificado; exigir 1080p+)",
+    "grafismos": "1) Contador de puntos 18,857. 2) Dorsal 0 subiendo a las vigas. 3) Cronología 2008-2019 en OKC. 4) Fecha 'Feb 7 vs Knicks'.",
+    "titulo_yt": "Westbrook is getting his number RETIRED 💔",
+    "descripcion": "The Thunder will retire Russell Westbrook's No. 0 🙏",
+    "hashtags": "#russellwestbrook #thunder #nba #basketball #shorts",
+    "musica": "Cinderella – Mac Miller",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Cifra de 18.857 puntos solo de Yahoo Sports: contrastar con el club antes de publicar. Sin clip enlazado verificado: potencial limitado.",
+    "analizado": "2026-11-03T15:30:00Z"
+  },
+  "4bbfe8847b": {
+    "titular": "Jeffery Simmons debuta con los Bears: sack a Darnold y paliza 34-17 a los Seahawks",
+    "formato": "noticia viral",
+    "resumen": "Los Bears ganaron 34-17 a los Seahawks en el Monday Night Football del 2 de noviembre de 2026. Jeffery Simmons, fichado a los Titans el jueves anterior a cambio de dos primeras rondas (2027 y 2028), debutó con un sack a Sam Darnold en el primer cuarto. Acabó con seis tackles, dos tackles para pérdida y un pase desviado, según CBS Sports. Caleb Williams lanzó para 247 yardas con un 71 % de acierto.",
+    "por_que": "Un traspaso de impacto, un debut inmediato en prime time y una afición de Chicago celebrándolo: encaja con el formato de noticia viral de esta semana y se entiende en segundos.",
+    "datos_clave": [
+      "Resultado 34-17 Bears (ESPN, Yahoo Sports)",
+      "Sack a Darnold en el primer cuarto; 6 tackles, 2 TFL y 1 pase desviado (CBS Sports, Yahoo Sports)",
+      "Traspaso por dos primeras rondas, 2027 y 2028 (AP, Bleacher Report)",
+      "Seattle convirtió 1 de 11 en tercer down (resumen de prensa)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN – Bears 34-17 Seahawks",
+        "u": "https://www.espn.com/nfl/recap?gameId=401873036"
+      },
+      {
+        "n": "Yahoo Sports – Simmons sack in Bears debut",
+        "u": "https://sports.yahoo.com/nfl/breaking-news/article/jeffery-simmons-gets-huge-sack-on-sam-darnold-in-first-game-with-the-bears-015753847.html"
+      },
+      {
+        "n": "CBS Sports – Bears dominate Seahawks",
+        "u": "https://www.cbssports.com/nfl/news/seahawks-vs-bears-live-updates-score-highlights/live/"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "20-40",
+    "fotograma1": "Plano de Simmons derribando a Darnold, con texto grande 'TWO FIRST-ROUND PICKS' y el 99 de Chicago",
+    "gancho": "Chicago gave up two first-round picks for this.",
+    "estructura": "1) Gancho con el sack ya empezado. 2) Contador de las dos primeras rondas. 3) Resto de la jugada en cámara lenta. 4) Ficha con su línea estadística. 5) Reacción de la afición.",
+    "cierre": "Vuelve al sack del inicio con la pregunta 'Worth it?' para que se vuelva a ver.",
+    "clips": "PENDIENTE: no se ha podido confirmar ningún enlace de YouTube en 1080p+ (sin acceso a YouTube en esta ejecución). Buscar el resumen oficial de NFL/Bears y la rueda de prensa posdebut; por eso el potencial se queda en 6.",
+    "grafismos": "Contador de picks (0:03), ficha del jugador con su línea de estadísticas (0:12), cara a cara Simmons vs Darnold (0:06), cronología del traspaso del jueves al lunes (0:18).",
+    "titulo_yt": "Jeffery Simmons got a SACK in his Bears debut 😳",
+    "descripcion": "Jeffery Simmons makes an instant impact for the Bears 🐻🔥",
+    "hashtags": "#jefferysimmons #chicagobears #nfl #football #shorts",
+    "musica": "Canción enérgica del catálogo del canal (no emocional)",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No afirmar que el clip se hizo viral con cifras de visualizaciones: no está verificado. Las citas y los clips no están confirmados; comprobar los derechos de la NFL.",
+    "analizado": "2026-11-03T18:50:00Z"
+  }
 }
