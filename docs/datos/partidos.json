@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T02:45:46.476819+00:00",
+ "actualizado": "2026-11-06T09:57:32.985969+00:00",
  "lista": [
   {
    "id": "nba-401909287",
@@ -428,7 +428,7 @@
      "nombre": "Orlando Magic",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
      "casa": false,
-     "balance": "2-5",
+     "balance": "2-6",
      "puntos": "0"
     },
     {
@@ -436,7 +436,7 @@
      "nombre": "Golden State Warriors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
      "casa": true,
-     "balance": "5-3",
+     "balance": "6-3",
      "puntos": "0"
     }
    ],
@@ -468,7 +468,7 @@
      "nombre": "Phoenix Suns",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
      "casa": true,
-     "balance": "1-5",
+     "balance": "2-5",
      "puntos": "0"
     }
    ],
@@ -1118,7 +1118,7 @@
      "nombre": "Miami Heat",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
      "casa": false,
-     "balance": "3-5",
+     "balance": "3-6",
      "puntos": "0"
     },
     {
