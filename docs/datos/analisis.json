@@ -243,5 +243,140 @@
     "caducidad": "🟡 publicar esta semana",
     "avisos": "Tono sobrio. No dar plazo de regreso: solo hay «al menos una semana» oficial; cifras de 3-4 semanas vienen de reportes sin confirmar.",
     "analizado": "2026-11-04T07:55:00Z"
+  },
+  "0bc4f0973e": {
+    "titular": "LeBron, primer jugador de la historia con 16.000 canastas de campo",
+    "formato": "noticia viral",
+    "resumen": "El 4 de noviembre de 2026, en la victoria de los Sixers 112-106 en Detroit, LeBron James anotó su canasta de campo número 16.000, la segunda del partido, con un bandeja de izquierda sobre John Collins a falta de 10:35 del segundo cuarto. Acabó con 13 puntos, 10 rebotes y 8 asistencias. Philadelphia mejora a 8-1.",
+    "por_que": "Un récord histórico de LeBron que se entiende en un segundo y que se ilustra con un contador; el aficionado quiere ver el momento exacto.",
+    "datos_clave": [
+      "Primer jugador con 16.000 tiros de campo anotados (Yahoo Sports, Bleacher Report, beIN)",
+      "Sixers 112-106 Pistons; 8-1 de balance (Yahoo/Inquirer)",
+      "Línea: 13 pts, 10 reb, 8 ast en 33 min (resumen de medios)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/lebron-james-becomes-first-nba-013506149.html"
+      },
+      {
+        "n": "Bleacher Report",
+        "u": "https://bleacherreport.com/articles/25529411-watch-lebron-james-make-nba-history-new-career-milestone-during-76ers-vs-pistons"
+      },
+      {
+        "n": "beIN Sports",
+        "u": "https://www.beinsports.com/en-us/basketball/articles/lebron-james-reaches-16-000-made-field-goals-in-nba-history-2026-11-05"
+      },
+      {
+        "n": "76ers PR Stats",
+        "u": "https://x.com/76ersPR_stats/status/2118143541624832262"
+      }
+    ],
+    "potencial": 7,
+    "duracion": "20-30",
+    "fotograma1": "Plano de la bandeja de LeBron sobre Collins con un contador gigante «16,000» sobre la imagen",
+    "gancho": "LeBron James just became the first player in NBA history to make 16,000 field goals.",
+    "estructura": "1) Canasta 16.000 con contador (0-5 s). 2) Comparar con Kareem (15.837) con cara a cara (5-12 s). 3) Camino de LeBron: cifras de carrera (12-22 s). 4) Reacción en pista y banquillo (22-30 s).",
+    "cierre": "Vuelve a la bandeja con el contador en 16.000 para que enlace con el primer segundo.",
+    "clips": "Pendiente de elegir: highlight oficial NBA/Bleacher Report del partido Sixers-Pistons (4-nov-2026), minuto ~10:35 del 2.º cuarto. Resolución 1080p sin comprobar; revisar antes de editar.",
+    "grafismos": "Contador 15.837→16.000 en el segundo 0; cara a cara LeBron vs Kareem; ficha del partido (13/10/8); línea de tiempo de récords.",
+    "titulo_yt": "LeBron just made NBA HISTORY 🐐",
+    "descripcion": "LeBron James hits 16,000 career field goals, a first in NBA history 👑",
+    "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
+    "musica": "Tema épico del catálogo del canal (tipo Cinderella de Mac Miller si se quiere tono emotivo)",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Cifra de Kareem (15.837) citada por un solo resumen; confirmar antes de ponerla. Fecha: partido del 4-nov (hora local). Clip y resolución sin comprobar.",
+    "analizado": "2026-11-06T03:10:00Z"
+  },
+  "e7ba9f171d": {
+    "titular": "Luka hace expulsar a un aficionado que tiró el balón a una árbitra",
+    "formato": "noticia viral",
+    "resumen": "El 4 de noviembre de 2026, en el Kings-Lakers (116-103), un aficionado de primera fila lanzó con fuerza el balón a la árbitra Chelisa Painter a final del tercer cuarto. Luka Doncic lo señaló, le preguntó «What the f*** are you doing?» y avisó a oficiales y seguridad; el aficionado fue retirado del pabellón. Luka firmó 40 puntos, 9 rebotes y 7 asistencias.",
+    "por_que": "Luka defendiendo a una árbitra es viral por sí solo y mezcla estrella, polémica y un momento claro en vídeo.",
+    "datos_clave": [
+      "Lakers 116-103 en Sacramento (resúmenes de Yahoo/ClutchPoints)",
+      "Luka: 40 pts, 9 reb, 7 ast (resúmenes)",
+      "Árbitra: Chelisa Painter, primer año en plantilla (medios)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/luka-doncic-steps-defend-female-113000858.html"
+      },
+      {
+        "n": "Yahoo News Canada",
+        "u": "https://ca.news.yahoo.com/lakers-luka-doncic-gets-fan-162613150.html"
+      },
+      {
+        "n": "Basketnews",
+        "u": "https://basketnews.com/news-258860-luka-doncic-reveals-what-he-told-kings-fan-after-ugly-referee-incident.html"
+      },
+      {
+        "n": "IBTimes",
+        "u": "https://www.ibtimes.co.uk/luka-doncic-confronts-fan-ball-thrown-referee-lakers-win-1830532"
+      }
+    ],
+    "potencial": 8,
+    "duracion": "20-30",
+    "fotograma1": "Luka señalando al aficionado con el balón en la mano y texto grande «LUKA FLIPPED» ",
+    "gancho": "A fan hit a referee with the ball — and Luka lost it.",
+    "estructura": "1) Luka señala al fan (0-4 s). 2) El lanzamiento en repetición (4-10 s). 3) Retirada del fan y pulgar de la árbitra (10-18 s). 4) Su reacción postpartido y 40 pts (18-28 s).",
+    "cierre": "Vuelve al plano de Luka señalando, enlazando con el inicio.",
+    "clips": "House of Highlights: https://www.youtube.com/watch?v=nX2ksTFuqwU (highlights de Luka vs Kings); buscar el clip del incidente en YouTube oficial. Resolución 1080p sin comprobar.",
+    "grafismos": "Rótulo con nombre de la árbitra; marcador 116-103; línea de 40/9/7; cita de Luka.",
+    "titulo_yt": "Luka got a fan EJECTED for this 😳",
+    "descripcion": "Luka Doncic stands up for the ref and gets a fan thrown out 😳",
+    "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
+    "musica": "Tema tenso/épico del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Los medios discrepan en si el balón golpeó a la árbitra o lo desvió, y en quién retiró al fan: no afirmarlo. No decir que el fan la atacó por ser mujer. La cita incluye una palabrota: censurarla.",
+    "analizado": "2026-11-06T03:10:00Z"
+  },
+  "387da62b76": {
+    "titular": "Embiid y Tolu Smith se empujan en el Sixers-Pistons y Embiid ve técnica",
+    "formato": "noticia viral",
+    "resumen": "El 4 de noviembre de 2026, en la victoria de los Sixers 112-106 sobre los Pistons, Tolu Smith empujó a Embiid tras un balón muerto y Embiid respondió con un empujón; el equipo arbitral, tras revisarlo, le pitó técnica a Embiid, la primera de su temporada. La NBA le añadió después una Flagrant 1 por una patada a Cade Cunningham. Embiid acabó con 26 puntos y 15 rebotes.",
+    "por_que": "Pelea con Embiid y un rival joven más una sanción posterior: tiene conflicto y un clip corto.",
+    "datos_clave": [
+      "Técnica a Embiid, la primera de la temporada (Yahoo Sports)",
+      "Flagrant 1 posterior por patada a Cunningham (Yahoo Sports)",
+      "26 pts y 15 reb; Sixers 8-1 (resúmenes)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/nba/article/76ers-star-joel-embiid-gets-technical-foul-for-shoving-match-with-tolu-smith-in-win-over-pistons-031746006.html"
+      },
+      {
+        "n": "Yahoo Sports (Flagrant 1)",
+        "u": "https://sports.yahoo.com/articles/76ers-joe-embiid-retroactively-slapped-013731739.html"
+      },
+      {
+        "n": "Larry Brown Sports",
+        "u": "https://larrybrownsports.com/basketball/joel-embiid-technical-foul-pistons-tolu-smith/777164"
+      },
+      {
+        "n": "Inquirer",
+        "u": "https://inquirer.com/sixers/sixers-pistons-score-highlights-jaylen-brown-lebron-james-joel-embiid-20261104.html"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "20-30",
+    "fotograma1": "Plano del empujón Embiid-Smith con texto grande «EMBIID SHOVED BACK»",
+    "gancho": "Embiid got a technical for this shove.",
+    "estructura": "1) Empujón (0-5 s). 2) Revisión y técnica (5-12 s). 3) Patada a Cunningham y Flagrant 1 (12-22 s). 4) Cifras de Embiid (22-28 s).",
+    "cierre": "Repetición del empujón.",
+    "clips": "Bleacher Report: https://www.youtube.com/shorts/0s0a6y81OtI (Short, baja resolución probable). Buscar highlights oficiales NBA en 1080p; sin confirmar.",
+    "grafismos": "Cara a cara Embiid vs Smith; contador de técnicas; ficha de sanción.",
+    "titulo_yt": "Embiid got a TECH for this shove 😳",
+    "descripcion": "Joel Embiid and Tolu Smith get heated in Sixers-Pistons 😳",
+    "hashtags": "#joelembiid #76ers #nba #basketball #shorts",
+    "musica": "Tema de tensión del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Las fuentes discrepan en el minuto exacto del incidente. Quién empujó primero: Smith según los medios; no lo afirmes sin ver el vídeo. Clip sin 1080p confirmado.",
+    "analizado": "2026-11-06T03:10:00Z"
   }
 }
