@@ -1,100 +1,6 @@
 {
- "actualizado": "2026-11-05T22:25:28.726885+00:00",
+ "actualizado": "2026-11-06T02:45:46.476819+00:00",
  "lista": [
-  {
-   "id": "nfl-401873037",
-   "liga": "nfl",
-   "nombre": "Jacksonville Jaguars at Baltimore Ravens",
-   "corto": "JAX @ BAL",
-   "fecha": "2026-11-06T01:15Z",
-   "cadenas": [
-    "Prime Video"
-   ],
-   "equipos": [
-    {
-     "abr": "JAX",
-     "nombre": "Jacksonville Jaguars",
-     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
-     "casa": false,
-     "balance": "5-2",
-     "puntos": "0"
-    },
-    {
-     "abr": "BAL",
-     "nombre": "Baltimore Ravens",
-     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-     "casa": true,
-     "balance": "4-4",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/5 - 8:15 PM EST",
-   "grande": true
-  },
-  {
-   "id": "nba-401909936",
-   "liga": "nba",
-   "nombre": "Orlando Magic at Phoenix Suns",
-   "corto": "ORL @ PHX",
-   "fecha": "2026-11-06T02:00Z",
-   "cadenas": [
-    "Suns Live",
-    "Arizona's Family 3TV"
-   ],
-   "equipos": [
-    {
-     "abr": "ORL",
-     "nombre": "Orlando Magic",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-     "casa": false,
-     "balance": "2-5",
-     "puntos": "0"
-    },
-    {
-     "abr": "PHX",
-     "nombre": "Phoenix Suns",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-     "casa": true,
-     "balance": "1-5",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/5 - 9:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401909937",
-   "liga": "nba",
-   "nombre": "Miami Heat at Golden State Warriors",
-   "corto": "MIA @ GS",
-   "fecha": "2026-11-06T03:00Z",
-   "cadenas": [
-    "NBA TV"
-   ],
-   "equipos": [
-    {
-     "abr": "MIA",
-     "nombre": "Miami Heat",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-     "casa": false,
-     "balance": "3-5",
-     "puntos": "0"
-    },
-    {
-     "abr": "GS",
-     "nombre": "Golden State Warriors",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-     "casa": true,
-     "balance": "5-3",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/5 - 10:00 PM EST",
-   "grande": true
-  },
   {
    "id": "nba-401909287",
    "liga": "nba",
@@ -601,6 +507,631 @@
    ],
    "estado": "STATUS_SCHEDULED",
    "estado_txt": "11/7 - 10:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873038",
+   "liga": "nfl",
+   "nombre": "Cincinnati Bengals at Atlanta Falcons",
+   "corto": "CIN VS ATL",
+   "fecha": "2026-11-08T14:30Z",
+   "cadenas": [
+    "NFL Net"
+   ],
+   "equipos": [
+    {
+     "abr": "CIN",
+     "nombre": "Cincinnati Bengals",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+     "casa": false,
+     "balance": "5-2",
+     "puntos": "0"
+    },
+    {
+     "abr": "ATL",
+     "nombre": "Atlanta Falcons",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+     "casa": true,
+     "balance": "3-5",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 9:30 AM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873040",
+   "liga": "nfl",
+   "nombre": "Dallas Cowboys at Indianapolis Colts",
+   "corto": "DAL @ IND",
+   "fecha": "2026-11-08T18:00Z",
+   "cadenas": [
+    "Fox"
+   ],
+   "equipos": [
+    {
+     "abr": "DAL",
+     "nombre": "Dallas Cowboys",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+     "casa": false,
+     "balance": "3-5",
+     "puntos": "0"
+    },
+    {
+     "abr": "IND",
+     "nombre": "Indianapolis Colts",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+     "casa": true,
+     "balance": "2-6",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873045",
+   "liga": "nfl",
+   "nombre": "New York Jets at Kansas City Chiefs",
+   "corto": "NYJ @ KC",
+   "fecha": "2026-11-08T18:00Z",
+   "cadenas": [
+    "CBS"
+   ],
+   "equipos": [
+    {
+     "abr": "NYJ",
+     "nombre": "New York Jets",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+     "casa": false,
+     "balance": "2-6",
+     "puntos": "0"
+    },
+    {
+     "abr": "KC",
+     "nombre": "Kansas City Chiefs",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
+     "casa": true,
+     "balance": "5-2",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873042",
+   "liga": "nfl",
+   "nombre": "Detroit Lions at Miami Dolphins",
+   "corto": "DET @ MIA",
+   "fecha": "2026-11-08T18:00Z",
+   "cadenas": [
+    "Fox"
+   ],
+   "equipos": [
+    {
+     "abr": "DET",
+     "nombre": "Detroit Lions",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+     "casa": false,
+     "balance": "5-2",
+     "puntos": "0"
+    },
+    {
+     "abr": "MIA",
+     "nombre": "Miami Dolphins",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+     "casa": true,
+     "balance": "1-6",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873039",
+   "liga": "nfl",
+   "nombre": "Cleveland Browns at New Orleans Saints",
+   "corto": "CLE @ NO",
+   "fecha": "2026-11-08T18:00Z",
+   "cadenas": [
+    "CBS"
+   ],
+   "equipos": [
+    {
+     "abr": "CLE",
+     "nombre": "Cleveland Browns",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+     "casa": false,
+     "balance": "5-3",
+     "puntos": "0"
+    },
+    {
+     "abr": "NO",
+     "nombre": "New Orleans Saints",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+     "casa": true,
+     "balance": "2-5",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873044",
+   "liga": "nfl",
+   "nombre": "New York Giants at Philadelphia Eagles",
+   "corto": "NYG @ PHI",
+   "fecha": "2026-11-08T18:00Z",
+   "cadenas": [
+    "Fox"
+   ],
+   "equipos": [
+    {
+     "abr": "NYG",
+     "nombre": "New York Giants",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+     "casa": false,
+     "balance": "4-2-1",
+     "puntos": "0"
+    },
+    {
+     "abr": "PHI",
+     "nombre": "Philadelphia Eagles",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+     "casa": true,
+     "balance": "2-6",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873043",
+   "liga": "nfl",
+   "nombre": "Los Angeles Rams at Washington Commanders",
+   "corto": "LAR @ WSH",
+   "fecha": "2026-11-08T18:00Z",
+   "cadenas": [
+    "Fox"
+   ],
+   "equipos": [
+    {
+     "abr": "LAR",
+     "nombre": "Los Angeles Rams",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+     "casa": false,
+     "balance": "4-4",
+     "puntos": "0"
+    },
+    {
+     "abr": "WSH",
+     "nombre": "Washington Commanders",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+     "casa": true,
+     "balance": "2-4-1",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873041",
+   "liga": "nfl",
+   "nombre": "Denver Broncos at Carolina Panthers",
+   "corto": "DEN @ CAR",
+   "fecha": "2026-11-08T18:00Z",
+   "cadenas": [
+    "CBS"
+   ],
+   "equipos": [
+    {
+     "abr": "DEN",
+     "nombre": "Denver Broncos",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+     "casa": false,
+     "balance": "6-2",
+     "puntos": "0"
+    },
+    {
+     "abr": "CAR",
+     "nombre": "Carolina Panthers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+     "casa": true,
+     "balance": "3-4",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909945",
+   "liga": "nba",
+   "nombre": "Philadelphia 76ers at Chicago Bulls",
+   "corto": "PHI @ CHI",
+   "fecha": "2026-11-08T20:30Z",
+   "cadenas": [],
+   "equipos": [
+    {
+     "abr": "PHI",
+     "nombre": "Philadelphia 76ers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+     "casa": false,
+     "balance": "8-1",
+     "puntos": "0"
+    },
+    {
+     "abr": "CHI",
+     "nombre": "Chicago Bulls",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+     "casa": true,
+     "balance": "1-7",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 3:30 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873046",
+   "liga": "nfl",
+   "nombre": "Houston Texans at Los Angeles Chargers",
+   "corto": "HOU @ LAC",
+   "fecha": "2026-11-08T21:05Z",
+   "cadenas": [
+    "CBS"
+   ],
+   "equipos": [
+    {
+     "abr": "HOU",
+     "nombre": "Houston Texans",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+     "casa": false,
+     "balance": "2-5",
+     "puntos": "0"
+    },
+    {
+     "abr": "LAC",
+     "nombre": "Los Angeles Chargers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+     "casa": true,
+     "balance": "0-7",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 4:05 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873049",
+   "liga": "nfl",
+   "nombre": "Green Bay Packers at New England Patriots",
+   "corto": "GB @ NE",
+   "fecha": "2026-11-08T21:25Z",
+   "cadenas": [
+    "Fox"
+   ],
+   "equipos": [
+    {
+     "abr": "GB",
+     "nombre": "Green Bay Packers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+     "casa": false,
+     "balance": "5-3",
+     "puntos": "0"
+    },
+    {
+     "abr": "NE",
+     "nombre": "New England Patriots",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+     "casa": true,
+     "balance": "5-3",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 4:25 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873047",
+   "liga": "nfl",
+   "nombre": "Las Vegas Raiders at San Francisco 49ers",
+   "corto": "LV @ SF",
+   "fecha": "2026-11-08T21:25Z",
+   "cadenas": [
+    "Fox"
+   ],
+   "equipos": [
+    {
+     "abr": "LV",
+     "nombre": "Las Vegas Raiders",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+     "casa": false,
+     "balance": "4-4",
+     "puntos": "0"
+    },
+    {
+     "abr": "SF",
+     "nombre": "San Francisco 49ers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+     "casa": true,
+     "balance": "6-1",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 4:25 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873048",
+   "liga": "nfl",
+   "nombre": "Arizona Cardinals at Seattle Seahawks",
+   "corto": "ARI @ SEA",
+   "fecha": "2026-11-08T21:25Z",
+   "cadenas": [
+    "Fox"
+   ],
+   "equipos": [
+    {
+     "abr": "ARI",
+     "nombre": "Arizona Cardinals",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+     "casa": false,
+     "balance": "3-5",
+     "puntos": "0"
+    },
+    {
+     "abr": "SEA",
+     "nombre": "Seattle Seahawks",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+     "casa": true,
+     "balance": "4-4",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 4:25 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909946",
+   "liga": "nba",
+   "nombre": "Los Angeles Lakers at Detroit Pistons",
+   "corto": "LAL @ DET",
+   "fecha": "2026-11-08T23:00Z",
+   "cadenas": [
+    "NBA TV",
+    "Spectrum Sports Net",
+    "Spectrum Sports Net +"
+   ],
+   "equipos": [
+    {
+     "abr": "LAL",
+     "nombre": "Los Angeles Lakers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+     "casa": false,
+     "balance": "7-2",
+     "puntos": "0"
+    },
+    {
+     "abr": "DET",
+     "nombre": "Detroit Pistons",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+     "casa": true,
+     "balance": "6-2",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 6:00 PM EST",
+   "grande": true
+  },
+  {
+   "id": "nba-401909947",
+   "liga": "nba",
+   "nombre": "Utah Jazz at Minnesota Timberwolves",
+   "corto": "UTAH @ MIN",
+   "fecha": "2026-11-09T00:00Z",
+   "cadenas": [
+    "DAZN MIN",
+    "KJZZ-TV",
+    "Jazz+"
+   ],
+   "equipos": [
+    {
+     "abr": "UTAH",
+     "nombre": "Utah Jazz",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
+     "casa": false,
+     "balance": "1-7",
+     "puntos": "0"
+    },
+    {
+     "abr": "MIN",
+     "nombre": "Minnesota Timberwolves",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+     "casa": true,
+     "balance": "6-3",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 7:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909948",
+   "liga": "nba",
+   "nombre": "Brooklyn Nets at Dallas Mavericks",
+   "corto": "BKN @ DAL",
+   "fecha": "2026-11-09T00:30Z",
+   "cadenas": [
+    "DAZN (YES)",
+    "KFAA-TV",
+    "MavsTV"
+   ],
+   "equipos": [
+    {
+     "abr": "BKN",
+     "nombre": "Brooklyn Nets",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
+     "casa": false,
+     "balance": "2-6",
+     "puntos": "0"
+    },
+    {
+     "abr": "DAL",
+     "nombre": "Dallas Mavericks",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+     "casa": true,
+     "balance": "4-4",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 7:30 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909949",
+   "liga": "nba",
+   "nombre": "Boston Celtics at Milwaukee Bucks",
+   "corto": "BOS @ MIL",
+   "fecha": "2026-11-09T01:00Z",
+   "cadenas": [
+    "MyMi",
+    "Bucks App"
+   ],
+   "equipos": [
+    {
+     "abr": "BOS",
+     "nombre": "Boston Celtics",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+     "casa": false,
+     "balance": "6-2",
+     "puntos": "0"
+    },
+    {
+     "abr": "MIL",
+     "nombre": "Milwaukee Bucks",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
+     "casa": true,
+     "balance": "1-7",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 8:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nfl-401873050",
+   "liga": "nfl",
+   "nombre": "Tampa Bay Buccaneers at Chicago Bears",
+   "corto": "TB @ CHI",
+   "fecha": "2026-11-09T01:20Z",
+   "cadenas": [
+    "NBC"
+   ],
+   "equipos": [
+    {
+     "abr": "TB",
+     "nombre": "Tampa Bay Buccaneers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+     "casa": false,
+     "balance": "3-5",
+     "puntos": "0"
+    },
+    {
+     "abr": "CHI",
+     "nombre": "Chicago Bears",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+     "casa": true,
+     "balance": "6-2",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 8:20 PM EST",
+   "grande": true
+  },
+  {
+   "id": "nba-401909950",
+   "liga": "nba",
+   "nombre": "New Orleans Pelicans at LA Clippers",
+   "corto": "NO @ LAC",
+   "fecha": "2026-11-09T02:00Z",
+   "cadenas": [
+    "ClipperVision",
+    "GCSEN",
+    "Pelicans.com"
+   ],
+   "equipos": [
+    {
+     "abr": "NO",
+     "nombre": "New Orleans Pelicans",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+     "casa": false,
+     "balance": "4-4",
+     "puntos": "0"
+    },
+    {
+     "abr": "LAC",
+     "nombre": "LA Clippers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+     "casa": true,
+     "balance": "1-7",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 9:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909951",
+   "liga": "nba",
+   "nombre": "Miami Heat at Sacramento Kings",
+   "corto": "MIA @ SAC",
+   "fecha": "2026-11-09T02:00Z",
+   "cadenas": [],
+   "equipos": [
+    {
+     "abr": "MIA",
+     "nombre": "Miami Heat",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+     "casa": false,
+     "balance": "3-5",
+     "puntos": "0"
+    },
+    {
+     "abr": "SAC",
+     "nombre": "Sacramento Kings",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+     "casa": true,
+     "balance": "1-7",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/8 - 9:00 PM EST",
    "grande": false
   }
  ]
