@@ -378,5 +378,131 @@
     "caducidad": "🟡 publicar esta semana",
     "avisos": "Las fuentes discrepan en el minuto exacto del incidente. Quién empujó primero: Smith según los medios; no lo afirmes sin ver el vídeo. Clip sin 1080p confirmado.",
     "analizado": "2026-11-06T03:10:00Z"
+  },
+  "9de4371e78": {
+    "titular": "LeBron y Luka mandan cartas de cese a Bron AI por usar su imagen en un anuncio de apuestas",
+    "formato": "noticia viral",
+    "resumen": "El 4 de noviembre de 2026 el CEO de Bron AI, Anish Gupta, publicó en X un anuncio con un doble de LeBron con camiseta del 23 y 'Bron'. El equipo legal de LeBron envió una carta de cese y desistimiento (Front Office Sports la obtuvo) y un representante de Luka Dončić confirmó que él también envió otra. Las publicaciones se retiraron de X y Gupta respondió con un vídeo anunciando un cambio de nombre.",
+    "por_que": "Mezcla dos superestrellas, apuestas, IA y una respuesta troll de la empresa: es una noticia de esta semana que se entiende en 5 segundos.",
+    "datos_clave": [
+      "Carta de LeBron citando su acuerdo exclusivo con Polymarket y que el anuncio sugiere que apuesta en baloncesto, algo que prohíbe la NBA (Front Office Sports, Yahoo Sports)",
+      "Un representante de Dončić confirmó otra carta de cese (Front Office Sports)",
+      "Bron AI pertenece a PlayVision Inc., fundada en 2025 y respaldada por Y Combinator (Inc.)",
+      "Gupta: 'We heard y'all loud and clear, so we went back in the arena' (Yahoo Sports)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/bron-ai-fires-back-hysterical-225837647.html"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/lebron-james-demands-ai-betting-161149843.html"
+      },
+      {
+        "n": "Inc.",
+        "u": "https://www.inc.com/liyana-illyas/lebron-james-y-combinator-startup-cease-and-desist-may-have-been-point/91431970"
+      }
+    ],
+    "potencial": 7,
+    "duracion": "20-30",
+    "fotograma1": "Captura del anuncio con el doble de LeBron con el 23 y texto enorme 'CEASE & DESIST 😳' sobre las caras de LeBron y Luka",
+    "gancho": "LeBron and Luka just sued… a fake LeBron.",
+    "estructura": "1) El anuncio con el doble (0-7 s). 2) La carta y el motivo Polymarket (7-15 s). 3) Luka también envía la suya (15-21 s). 4) El vídeo troll de Gupta y el cambio de nombre (21-30 s).",
+    "cierre": "Vuelve al doble de LeBron con el sello 'DELETED' para enlazar con el primer plano.",
+    "clips": "Vídeo de la noticia https://www.youtube.com/watch?v=zDls7qHHH4E ; https://www.youtube.com/watch?v=eq_9NkgLzZU ; https://www.youtube.com/shorts/fLqz7m6LA34 (listados en el radar; resolución 1080p+ NO verificada, y el anuncio original solo está en X)",
+    "grafismos": "1) Ficha de la carta con la cita clave en el segundo 8. 2) Cara a cara LeBron-Luka con el sello 'C&D' en el segundo 15. 3) Cronología 4 nov anuncio / 5 nov cartas / 6 nov cambio de nombre. 4) Cita de Gupta al final.",
+    "titulo_yt": "LeBron & Luka SENT LEGAL LETTERS to this fake LeBron 😳",
+    "descripcion": "LeBron James and Luka Doncic hit Bron AI with cease-and-desist letters ⚖️🏀",
+    "hashtags": "#lebronjames #lukadoncic #lakers #nba #shorts",
+    "musica": "Canción de tono humorístico del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No afirmar que hay demanda: solo cartas de cese. No decir cuál será el nuevo nombre. Los clips de terceros pueden dar problemas de copyright; el anuncio original solo está en X.",
+    "analizado": "2026-11-07T18:55:00+00:00"
+  },
+  "9912f9e86d": {
+    "titular": "Luka mete 53 a los Blazers líderes del Oeste y promedia más de 40 puntos",
+    "formato": "INSANE",
+    "resumen": "El 6 de noviembre de 2026 Luka Dončić anotó 53 puntos (récord de la temporada) en el 124-118 de los Lakers sobre los Trail Blazers, líderes del Oeste, tras remontar 16 puntos. Fue su cuarto partido seguido con 40 o más y el sexto en los diez primeros. Promedia 40,1 puntos y se une a Wilt Chamberlain como único jugador con 40+ de media en sus nueve primeros partidos.",
+    "por_que": "Un jugador anotando 40 por partido y comparado con Wilt es un titular que para el dedo; el MVP es tema de debate constante.",
+    "datos_clave": [
+      "53 puntos, 5 rebotes y 5 asistencias; Lakers 124-118 Blazers (ESPN, Yahoo)",
+      "4.º partido seguido con 40+; 6.º en los 10 primeros (ESPN)",
+      "Promedio de 40,1 puntos, igualado con Wilt Chamberlain en los 9 primeros partidos (ESPN)",
+      "Remontada de 16 puntos; tiro en la zona a 27 s del final (ESPN)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/luka-doncic-scores-53-points-070913550.html"
+      },
+      {
+        "n": "ABC7",
+        "u": "https://abc7.com/post/luka-doncics-53-point-explosion-pushes-scoring-average-past-40-lakers-roll/20021920/"
+      }
+    ],
+    "potencial": 8,
+    "duracion": "20-30",
+    "fotograma1": "Luka celebrando tras un triple, con contador enorme '53 PTS' y debajo '40.1 PPG'",
+    "gancho": "Luka is averaging OVER 40 points. Only Wilt did this.",
+    "estructura": "1) Triple clave y contador 53 (0-6 s). 2) Remontada de 16 puntos (6-14 s). 3) Comparación con Wilt y promedio (14-22 s). 4) Jumper a 27 s del final (22-30 s).",
+    "cierre": "Termina en el contador de 40.1 de promedio, igual que el primer fotograma.",
+    "clips": "https://www.youtube.com/shorts/_cX9FzfLLe4 ; https://www.youtube.com/shorts/2HQHupxGJsM (del radar; resolución 1080p+ NO verificada; buscar highlights completos oficiales de la NBA)",
+    "grafismos": "1) Contador 53 puntos en el segundo 2. 2) Gráfico Luka vs Wilt (40+ en 9 primeros partidos) en el segundo 15. 3) Barra de la remontada de 16 puntos. 4) Racha de 4 partidos de 40+.",
+    "titulo_yt": "Luka Doncic just put up 53 on the #1 seed 💀",
+    "descripcion": "Luka Doncic drops 53 and joins Wilt Chamberlain in the record books 🔥",
+    "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
+    "musica": "Tema intenso del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No usar 'MVP lock' como hecho: es opinión. Los clips de la NBA pueden dar problemas de copyright.",
+    "analizado": "2026-11-07T18:55:00+00:00"
+  },
+  "edeaf3869a": {
+    "titular": "LeBron vuelve a Cleveland con los Sixers: 8 puntos, 6 pérdidas y pitos mezclados con ovación",
+    "formato": "noticia viral",
+    "resumen": "El 6 de noviembre de 2026, en su regreso a Cleveland con los 76ers, LeBron James fue recibido con ovaciones y algunos abucheos. Anotó 8 puntos con 3 de 12 en tiros y 6 pérdidas en la derrota 119-95 ante los Cavaliers, que cortaron la racha de cinco victorias de Filadelfia. Donovan Mitchell hizo 23 y Evan Mobley 22. LeBron admitió: «I did not feel in a good rhythm offensively».",
+    "por_que": "El regreso emocional de LeBron a su casa que acaba fatal sigue un guion que engancha, con una cita del propio jugador.",
+    "datos_clave": [
+      "8 puntos, 3/12 en tiros, 6 pérdidas (ESPN, Türkiye Today)",
+      "Cavaliers 119-95 Sixers; fin de racha de 5 victorias de Filadelfia (ESPN/Yahoo)",
+      "Mitchell 23 y Mobley 22 (Türkiye Today)",
+      "Cita: «I did not feel in a good rhythm offensively» (ESPN)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nba/story/_/id/50405401/lebron-james-find-good-rhythm-cleveland-return"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/cavs-thump-76ers-james-return-042638628.html"
+      },
+      {
+        "n": "Al Jazeera",
+        "u": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball"
+      }
+    ],
+    "potencial": 7,
+    "duracion": "25-35",
+    "fotograma1": "LeBron en el túnel de Cleveland con texto enorme 'HOMECOMING GONE WRONG 💔' y '8 PTS · 6 TO'",
+    "gancho": "LeBron went home… and it was a disaster.",
+    "estructura": "1) Presentación con ovación y pitos (0-8 s). 2) Estadística 3/12 y 6 pérdidas (8-16 s). 3) Marcador 119-95 (16-24 s). 4) Cita de LeBron (24-32 s).",
+    "cierre": "Vuelve a la presentación inicial con el contador final de 8 puntos.",
+    "clips": "Buscar en YouTube highlights oficiales NBA/ESPN del Sixers-Cavs del 6-nov-2026 y la rueda de prensa de LeBron (1080p+ NO verificado; no hay enlace concreto aún)",
+    "grafismos": "1) Ficha estadística de LeBron (8 pts, 3/12, 6 TO) en el segundo 9. 2) Marcador 119-95 con la racha cortada. 3) Cita de LeBron en pantalla. 4) Cara a cara con Mitchell y Mobley.",
+    "titulo_yt": "LeBron's Cleveland return went WRONG 💔",
+    "descripcion": "LeBron James struggles in his return to Cleveland as the Cavs rout the Sixers 😳",
+    "hashtags": "#lebronjames #sixers #cavaliers #nba #shorts",
+    "musica": "Cinderella de Mac Miller",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Sin clip concreto verificado en 1080p. Evitar tono burlón: usar tono neutro con la cita de LeBron.",
+    "analizado": "2026-11-07T18:55:00+00:00"
   }
 }
