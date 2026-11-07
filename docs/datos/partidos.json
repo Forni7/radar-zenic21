@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T19:24:32.044800+00:00",
+ "actualizado": "2026-11-07T22:56:06.188932+00:00",
  "lista": [
   {
    "id": "nba-401909938",
@@ -18,7 +18,7 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
      "casa": false,
      "balance": "4-3",
-     "puntos": "0"
+     "puntos": "41"
     },
     {
      "abr": "IND",
@@ -26,11 +26,11 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
      "casa": true,
      "balance": "3-6",
-     "puntos": "0"
+     "puntos": "28"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/7 - 5:00 PM EST",
+   "estado": "STATUS_IN_PROGRESS",
+   "estado_txt": "8:28 - 2nd",
    "grande": true
   },
   {
