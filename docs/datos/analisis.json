@@ -629,5 +629,47 @@
     "caducidad": "🔴 publicar antes del domingo 8-nov (partido)",
     "avisos": "Es un regreso 'esperado', no confirmado hasta el partido. No dar estadísticas de Garrett o Donald sin comprobarlas. Falta clip de calidad de la cita.",
     "analizado": "2026-11-08T12:30:00+00:00"
+  },
+  "0c8092ae5a": {
+    "titular": "Curry mete 41 puntos y los Warriors ganan en la prórroga a los Magic (7.ª seguida)",
+    "formato": "noticia viral",
+    "resumen": "El 7 de noviembre de 2026, en el Chase Center, los Warriors ganaron 126-119 en la prórroga a los Magic. Stephen Curry firmó 41 puntos, 6 rebotes y 6 asistencias, y anotó 17 de ellos en los últimos siete minutos (ESPN). Orlando había remontado de -16 a +6 en el cuarto periodo antes de que Curry tirase del equipo. Es la séptima victoria seguida de Golden State tras empezar 0-3.",
+    "por_que": "Curry carga con el equipo en un final de locos y hay un récord de por medio (más partidos de 40+ puntos con más de 35 años); es fácil de entender en 30 s y los clips están disponibles.",
+    "datos_clave": [
+      "41 pts, 6 reb, 6 ast; 17 de los 41 en los últimos 7 minutos (ESPN)",
+      "Es su 16.º partido de 40+ puntos pasados los 35 años, récord NBA (ESPN)",
+      "Golden State, segundo equipo en encadenar 7 victorias tras un 0-3 inicial, junto a los Celtics 1950-51 (ESPN)",
+      "Canasta que puso 110-108 con 25,2 s; Orlando empató con un rebote ofensivo y forzó la prórroga (ESPN)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nba/story/_/id/50417316/remarkable-curry-latest-history-making-night-keeps-warriors-rolling"
+      },
+      {
+        "n": "NBA.com Warriors",
+        "u": "https://www.nba.com/warriors/news/gameday-recap-20261107"
+      },
+      {
+        "n": "The Washington Post (AP)",
+        "u": "https://www.washingtonpost.com/sports/nba/2026/11/07/magic-warriors-score/8ee48f14-db2e-11f1-930a-e08f8086f5ac_story.html"
+      }
+    ],
+    "potencial": 8,
+    "duracion": "20-30",
+    "fotograma1": "Plano de Curry celebrando tras un triple en la prórroga, con texto enorme '41 PTS 🔥' y debajo '16th 40-pt game after 35'",
+    "gancho": "Steph Curry just did it again.",
+    "estructura": "1) Plano de Curry con el marcador 0-3 → 7 victorias (0-5 s). 2) Remontada de Orlando de -16 a +6 (5-12 s). 3) Canastas clave de Curry en los últimos minutos (12-22 s). 4) Prórroga y récord de 40+ con más de 35 años (22-30 s). Minutos exactos a fijar al ver los vídeos.",
+    "cierre": "Vuelve al plano inicial de Curry con el contador de 41 puntos y el récord, para que se repita el bucle.",
+    "clips": "Highlights completos https://www.youtube.com/watch?v=mNYr5rutO0Q ; OT https://www.youtube.com/watch?v=Wr1dw6aQYXU ; postpartido https://www.youtube.com/watch?v=fVl2pDVJ4r8 ; récord 40+ https://www.youtube.com/watch?v=mGmFJNewwY8 (resolución 1080p+ sin comprobar; minutos clave por fijar)",
+    "grafismos": "1) Contador de puntos hasta 41 en la prórroga. 2) Gráfico 0-3 → 7 victorias seguidas. 3) Ficha 'Curry 40+ pts después de los 35: 16'. 4) Cronología del último cuarto (-16 a +6).",
+    "titulo_yt": "Steph Curry was UNSTOPPABLE in OT 🔥",
+    "descripcion": "Stephen Curry drops 41 as the Warriors win their 7th straight 🔥",
+    "hashtags": "#stephcurry #warriors #nba #basketball #shorts",
+    "musica": "Canción enérgica del catálogo del canal (hype/trap), no emocional",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "El marcador final varía: la mayoría de medios dan 126-119 y el recap de NBA.com 124-119; usar 126-119 (ESPN/AP) o no mostrarlo. No se ha verificado ningún récord frente a LeBron o Jordan. Los clips de la NBA pueden dar problemas de copyright.",
+    "analizado": "2026-11-08T17:30:00+00:00"
   }
 }
