@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T09:02:25.814913+00:00",
+ "actualizado": "2026-11-08T15:55:11.906065+00:00",
  "lista": [
   {
    "id": "nfl-401873038",
@@ -17,7 +17,7 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
      "casa": false,
      "balance": "5-2",
-     "puntos": "0"
+     "puntos": "21"
     },
     {
      "abr": "ATL",
@@ -25,11 +25,11 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
      "casa": true,
      "balance": "3-5",
-     "puntos": "0"
+     "puntos": "10"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/8 - 9:30 AM EST",
+   "estado": "STATUS_IN_PROGRESS",
+   "estado_txt": "0:57 - 2nd",
    "grande": false
   },
   {
