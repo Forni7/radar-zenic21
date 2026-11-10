@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T03:48:50.591788+00:00",
+ "actualizado": "2026-11-10T11:52:26.700777+00:00",
  "lista": [
   {
    "id": "nba-401909960",
@@ -89,7 +89,7 @@
      "nombre": "Phoenix Suns",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
      "casa": true,
-     "balance": "3-5",
+     "balance": "3-6",
      "puntos": "0"
     }
    ],
@@ -298,7 +298,7 @@
      "nombre": "San Antonio Spurs",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
      "casa": false,
-     "balance": "8-2",
+     "balance": "9-2",
      "puntos": "0"
     },
     {
@@ -327,7 +327,7 @@
      "nombre": "Denver Nuggets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
      "casa": false,
-     "balance": "5-3",
+     "balance": "5-4",
      "puntos": "0"
     },
     {
@@ -402,7 +402,7 @@
      "nombre": "New Orleans Pelicans",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
      "casa": true,
-     "balance": "4-6",
+     "balance": "4-7",
      "puntos": "0"
     }
    ],
@@ -457,7 +457,7 @@
      "nombre": "Golden State Warriors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
      "casa": false,
-     "balance": "7-3",
+     "balance": "8-3",
      "puntos": "0"
     },
     {
@@ -465,7 +465,7 @@
      "nombre": "Houston Rockets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
      "casa": true,
-     "balance": "7-3",
+     "balance": "8-3",
      "puntos": "0"
     }
    ],
@@ -655,7 +655,7 @@
      "nombre": "Phoenix Suns",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
      "casa": true,
-     "balance": "3-5",
+     "balance": "3-6",
      "puntos": "0"
     }
    ],
