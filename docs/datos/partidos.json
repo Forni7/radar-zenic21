@@ -1,294 +1,6 @@
 {
- "actualizado": "2026-11-09T21:36:15.088623+00:00",
+ "actualizado": "2026-11-10T03:48:50.591788+00:00",
  "lista": [
-  {
-   "id": "nba-401909952",
-   "liga": "nba",
-   "nombre": "Los Angeles Lakers at Atlanta Hawks",
-   "corto": "LAL @ ATL",
-   "fecha": "2026-11-10T00:00Z",
-   "cadenas": [
-    "Spectrum Sports Net",
-    "Spectrum Sports Net +"
-   ],
-   "equipos": [
-    {
-     "abr": "LAL",
-     "nombre": "Los Angeles Lakers",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-     "casa": false,
-     "balance": "9-2",
-     "puntos": "0"
-    },
-    {
-     "abr": "ATL",
-     "nombre": "Atlanta Hawks",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-     "casa": true,
-     "balance": "7-4",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 7:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401909953",
-   "liga": "nba",
-   "nombre": "Cleveland Cavaliers at Charlotte Hornets",
-   "corto": "CLE @ CHA",
-   "fecha": "2026-11-10T00:00Z",
-   "cadenas": [
-    "DAZN CLE"
-   ],
-   "equipos": [
-    {
-     "abr": "CLE",
-     "nombre": "Cleveland Cavaliers",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-     "casa": false,
-     "balance": "5-5",
-     "puntos": "0"
-    },
-    {
-     "abr": "CHA",
-     "nombre": "Charlotte Hornets",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-     "casa": true,
-     "balance": "3-7",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 7:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401909954",
-   "liga": "nba",
-   "nombre": "Washington Wizards at Detroit Pistons",
-   "corto": "WSH @ DET",
-   "fecha": "2026-11-10T00:00Z",
-   "cadenas": [
-    "NBCSN"
-   ],
-   "equipos": [
-    {
-     "abr": "WSH",
-     "nombre": "Washington Wizards",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-     "casa": false,
-     "balance": "4-6",
-     "puntos": "0"
-    },
-    {
-     "abr": "DET",
-     "nombre": "Detroit Pistons",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-     "casa": true,
-     "balance": "6-3",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 7:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401909955",
-   "liga": "nba",
-   "nombre": "Memphis Grizzlies at Toronto Raptors",
-   "corto": "MEM @ TOR",
-   "fecha": "2026-11-10T00:30Z",
-   "cadenas": [
-    "DAZN MEM"
-   ],
-   "equipos": [
-    {
-     "abr": "MEM",
-     "nombre": "Memphis Grizzlies",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-     "casa": false,
-     "balance": "6-3",
-     "puntos": "0"
-    },
-    {
-     "abr": "TOR",
-     "nombre": "Toronto Raptors",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-     "casa": true,
-     "balance": "5-4",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 7:30 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401909956",
-   "liga": "nba",
-   "nombre": "Indiana Pacers at Dallas Mavericks",
-   "corto": "IND @ DAL",
-   "fecha": "2026-11-10T01:00Z",
-   "cadenas": [
-    "KFAA-TV",
-    "MavsTV",
-    "DAZN IND"
-   ],
-   "equipos": [
-    {
-     "abr": "IND",
-     "nombre": "Indiana Pacers",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-     "casa": false,
-     "balance": "3-7",
-     "puntos": "0"
-    },
-    {
-     "abr": "DAL",
-     "nombre": "Dallas Mavericks",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-     "casa": true,
-     "balance": "6-4",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 8:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nfl-401873051",
-   "liga": "nfl",
-   "nombre": "Buffalo Bills at Minnesota Vikings",
-   "corto": "BUF @ MIN",
-   "fecha": "2026-11-10T01:15Z",
-   "cadenas": [
-    "ESPN",
-    "ABC"
-   ],
-   "equipos": [
-    {
-     "abr": "BUF",
-     "nombre": "Buffalo Bills",
-     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-     "casa": false,
-     "balance": "6-1",
-     "puntos": "0"
-    },
-    {
-     "abr": "MIN",
-     "nombre": "Minnesota Vikings",
-     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
-     "casa": true,
-     "balance": "6-1",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 8:15 PM EST",
-   "grande": true
-  },
-  {
-   "id": "nba-401909957",
-   "liga": "nba",
-   "nombre": "Denver Nuggets at Houston Rockets",
-   "corto": "DEN @ HOU",
-   "fecha": "2026-11-10T01:30Z",
-   "cadenas": [
-    "ALT2/KTVD",
-    "KUSA-TV (9NEWS)"
-   ],
-   "equipos": [
-    {
-     "abr": "DEN",
-     "nombre": "Denver Nuggets",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-     "casa": false,
-     "balance": "5-3",
-     "puntos": "0"
-    },
-    {
-     "abr": "HOU",
-     "nombre": "Houston Rockets",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-     "casa": true,
-     "balance": "7-3",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 8:30 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401909958",
-   "liga": "nba",
-   "nombre": "San Antonio Spurs at Phoenix Suns",
-   "corto": "SA @ PHX",
-   "fecha": "2026-11-10T02:00Z",
-   "cadenas": [
-    "Arizona's Family 3TV",
-    "Suns Live",
-    "DAZN SAS"
-   ],
-   "equipos": [
-    {
-     "abr": "SA",
-     "nombre": "San Antonio Spurs",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-     "casa": false,
-     "balance": "8-2",
-     "puntos": "0"
-    },
-    {
-     "abr": "PHX",
-     "nombre": "Phoenix Suns",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-     "casa": true,
-     "balance": "3-5",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 9:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401909959",
-   "liga": "nba",
-   "nombre": "New Orleans Pelicans at Golden State Warriors",
-   "corto": "NO @ GS",
-   "fecha": "2026-11-10T03:00Z",
-   "cadenas": [
-    "NBA TV",
-    "GCSEN",
-    "Pelicans.com"
-   ],
-   "equipos": [
-    {
-     "abr": "NO",
-     "nombre": "New Orleans Pelicans",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-     "casa": false,
-     "balance": "4-6",
-     "puntos": "0"
-    },
-    {
-     "abr": "GS",
-     "nombre": "Golden State Warriors",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-     "casa": true,
-     "balance": "7-3",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/9 - 10:00 PM EST",
-   "grande": true
-  },
   {
    "id": "nba-401909960",
    "liga": "nba",
@@ -495,7 +207,7 @@
      "nombre": "Washington Wizards",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
      "casa": false,
-     "balance": "4-6",
+     "balance": "4-7",
      "puntos": "0"
     },
     {
@@ -503,7 +215,7 @@
      "nombre": "Indiana Pacers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
      "casa": true,
-     "balance": "3-7",
+     "balance": "3-8",
      "puntos": "0"
     }
    ],
@@ -526,7 +238,7 @@
      "nombre": "Cleveland Cavaliers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
      "casa": false,
-     "balance": "5-5",
+     "balance": "5-6",
      "puntos": "0"
     },
     {
@@ -563,7 +275,7 @@
      "nombre": "Toronto Raptors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
      "casa": true,
-     "balance": "5-4",
+     "balance": "5-5",
      "puntos": "0"
     }
    ],
@@ -623,7 +335,7 @@
      "nombre": "Memphis Grizzlies",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
      "casa": true,
-     "balance": "6-3",
+     "balance": "7-3",
      "puntos": "0"
     }
    ],
@@ -649,7 +361,7 @@
      "nombre": "Los Angeles Lakers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
      "casa": false,
-     "balance": "9-2",
+     "balance": "10-2",
      "puntos": "0"
     },
     {
@@ -793,6 +505,162 @@
    ],
    "estado": "STATUS_SCHEDULED",
    "estado_txt": "11/11 - 10:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909976",
+   "liga": "nba",
+   "nombre": "Toronto Raptors at Philadelphia 76ers",
+   "corto": "TOR @ PHI",
+   "fecha": "2026-11-13T00:00Z",
+   "cadenas": [],
+   "equipos": [
+    {
+     "abr": "TOR",
+     "nombre": "Toronto Raptors",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
+     "casa": false,
+     "balance": "5-5",
+     "puntos": "0"
+    },
+    {
+     "abr": "PHI",
+     "nombre": "Philadelphia 76ers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+     "casa": true,
+     "balance": "9-2",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/12 - 7:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909977",
+   "liga": "nba",
+   "nombre": "Detroit Pistons at Washington Wizards",
+   "corto": "DET @ WSH",
+   "fecha": "2026-11-13T00:00Z",
+   "cadenas": [
+    "MNMT"
+   ],
+   "equipos": [
+    {
+     "abr": "DET",
+     "nombre": "Detroit Pistons",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+     "casa": false,
+     "balance": "7-3",
+     "puntos": "0"
+    },
+    {
+     "abr": "WSH",
+     "nombre": "Washington Wizards",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+     "casa": true,
+     "balance": "4-7",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/12 - 7:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401909978",
+   "liga": "nba",
+   "nombre": "Dallas Mavericks at Minnesota Timberwolves",
+   "corto": "DAL @ MIN",
+   "fecha": "2026-11-13T01:00Z",
+   "cadenas": [
+    "NBA TV",
+    "KFAA-TV",
+    "MavsTV"
+   ],
+   "equipos": [
+    {
+     "abr": "DAL",
+     "nombre": "Dallas Mavericks",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+     "casa": false,
+     "balance": "7-4",
+     "puntos": "0"
+    },
+    {
+     "abr": "MIN",
+     "nombre": "Minnesota Timberwolves",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+     "casa": true,
+     "balance": "8-3",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/12 - 8:00 PM EST",
+   "grande": true
+  },
+  {
+   "id": "nfl-401873052",
+   "liga": "nfl",
+   "nombre": "Washington Commanders at New York Giants",
+   "corto": "WSH @ NYG",
+   "fecha": "2026-11-13T01:15Z",
+   "cadenas": [
+    "Prime Video"
+   ],
+   "equipos": [
+    {
+     "abr": "WSH",
+     "nombre": "Washington Commanders",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+     "casa": false,
+     "balance": "2-5-1",
+     "puntos": "0"
+    },
+    {
+     "abr": "NYG",
+     "nombre": "New York Giants",
+     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+     "casa": true,
+     "balance": "5-2-1",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/12 - 8:15 PM EST",
+   "grande": true
+  },
+  {
+   "id": "nba-401909979",
+   "liga": "nba",
+   "nombre": "Charlotte Hornets at Phoenix Suns",
+   "corto": "CHA @ PHX",
+   "fecha": "2026-11-13T02:00Z",
+   "cadenas": [
+    "Suns Live",
+    "Arizona's Family 3TV"
+   ],
+   "equipos": [
+    {
+     "abr": "CHA",
+     "nombre": "Charlotte Hornets",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+     "casa": false,
+     "balance": "4-7",
+     "puntos": "0"
+    },
+    {
+     "abr": "PHX",
+     "nombre": "Phoenix Suns",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+     "casa": true,
+     "balance": "3-5",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/12 - 9:00 PM EST",
    "grande": false
   }
  ]
