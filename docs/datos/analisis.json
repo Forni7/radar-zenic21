@@ -671,5 +671,131 @@
     "caducidad": "🟡 publicar esta semana",
     "avisos": "El marcador final varía: la mayoría de medios dan 126-119 y el recap de NBA.com 124-119; usar 126-119 (ESPN/AP) o no mostrarlo. No se ha verificado ningún récord frente a LeBron o Jordan. Los clips de la NBA pueden dar problemas de copyright.",
     "analizado": "2026-11-08T17:30:00+00:00"
+  },
+  "42a28863da": {
+    "titular": "Jaylen Brown ignora a Tatum y los Celtics arrasan a los Sixers (123-101)",
+    "formato": "noticia viral",
+    "resumen": "El 10 de noviembre de 2026, en su primer partido contra los Celtics como jugador de los 76ers, Jaylen Brown ignoró a Jayson Tatum cuando este intentó saludarle antes del salto inicial. Boston ganó 123-101 en Filadelfia con 36 puntos de Paul George. Brown ya había dicho que no había hablado con Tatum antes del partido.",
+    "por_que": "Revancha, examigos que ya no se hablan y un saludo rechazado en directo: un momento que se entiende en un segundo y que ya circula por todas partes.",
+    "datos_clave": [
+      "Celtics 123, 76ers 101, 10-nov-2026 en Filadelfia (ESPN, NBA.com)",
+      "Paul George anotó 36 puntos (NBC Sports Philadelphia/ESPN)",
+      "Boston abrió el último cuarto con un 14-0 y subió al 1.º puesto del Este (NBA.com/recap)",
+      "Tyrese Maxey: 24 puntos para Filadelfia (ESPN)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN (marcador)",
+        "u": "https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers"
+      },
+      {
+        "n": "NBA.com Celtics",
+        "u": "https://www.nba.com/celtics/news/game-recap-keys-20261110-bosphi"
+      },
+      {
+        "n": "NBC Sports Philadelphia",
+        "u": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/live-updates-sixers-vs-celtics-jaylen-brown-jayson-tatum-paul-george/765634/"
+      }
+    ],
+    "potencial": 8,
+    "duracion": "20-30",
+    "fotograma1": "Plano del saludo rechazado: Tatum con la mano levantada y Brown pasando de largo, con el texto grande «HE IGNORED HIM 😳» y el marcador 123-101 pequeño",
+    "gancho": "Jaylen Brown just walked right past Jayson Tatum.",
+    "estructura": "1) Clip del saludo ignorado (0-6 s). 2) Corte a Brown hablando de que no han hablado (6-14 s). 3) Resumen del partido con jugadas de Paul George en el 14-0 (14-24 s). 4) Brown sin chocar la mano con Tatum al acabar (24-30 s).",
+    "cierre": "Termina con el mismo plano del saludo ignorado, ahora con el marcador final 123-101 en pantalla, para enlazar con el principio.",
+    "clips": "Saludo ignorado: https://www.youtube.com/watch?v=E-pz5MRhksA ; https://www.youtube.com/watch?v=NSoVwSirnWc ; Brown tras el partido: https://www.youtube.com/watch?v=jdA-I1m0PYY ; post-partido sin chocar con Tatum: https://www.youtube.com/watch?v=w6egjwWvMS4. Minutos clave por localizar al editar.",
+    "grafismos": "1) Cara a cara Brown vs Tatum con años juntos en Boston (solo si se verifican las cifras). 2) Marcador final 123-101 al llegar al resumen. 3) Ficha de Paul George: 36 pts. 4) Cronología: pregame, 14-0 del último cuarto, final.",
+    "titulo_yt": "Jaylen Brown IGNORED Jayson Tatum 😳",
+    "descripcion": "Jaylen Brown snubs Jayson Tatum as the Celtics rout the Sixers 😳🔥",
+    "hashtags": "#jaylenbrown #jaytatum #celtics #nba #shorts",
+    "musica": "Cinderella de Mac Miller o tema tenso del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No afirmar el motivo de la ruptura entre ambos: no está confirmado. Resolución de los clips no comprobada (se ha de revisar que sean 1080p+). Varios son de canales de terceros: riesgo de copyright, preferir material de la NBA.",
+    "analizado": "2026-11-11T18:55:00+00:00"
+  },
+  "88a4ca7f29": {
+    "titular": "Cooper Flagg anota 43 y los Mavericks remontan a los Pacers (125-122)",
+    "formato": "INSANE",
+    "resumen": "El 9 de noviembre de 2026, Cooper Flagg firmó 43 puntos, su récord de la temporada, con 10 rebotes, 6 asistencias y 3 robos en la victoria de Dallas 125-122 ante Indiana. Anotó 30 de ellos tras el descanso y los Mavericks remontaron una desventaja de dos dígitos. Kyrie Irving sumó 35.",
+    "por_que": "Un chaval de 19 años que le gana un partido a la NBA con 43 puntos es historia viral inmediata y se ilustra muy bien con cifras.",
+    "datos_clave": [
+      "43 puntos, 16/25 en tiros, 3/6 en triples, 8/8 en libres, 10 reb, 6 ast, 3 robos (Mavs Moneyball)",
+      "30 de los 43 puntos, tras el descanso (Yahoo Sports)",
+      "Kyrie Irving: 35 puntos; Mavericks 125, Pacers 122 (NBA.com/Mavs, Dallas Weekly)",
+      "Quinto partido de 40+ de su carrera según ESPN (reportado, ver avisos)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nba/story/_/id/50440099/flagg-finishes-43-points-mavericks-outlast-pacers"
+      },
+      {
+        "n": "Mavs Moneyball",
+        "u": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/63809/mavericks-vs-pacers-recap-3-takeaways-from-dallas-thrilling-125-122-win-over-indiana"
+      },
+      {
+        "n": "NBA.com Mavs",
+        "u": "https://www.nba.com/mavs/news/monster-tandem-of-irving-flagg-push-mavericks-over-pacers"
+      }
+    ],
+    "potencial": 8,
+    "duracion": "25-35",
+    "fotograma1": "Mate o triple de Flagg en el último cuarto, con el texto enorme «43 POINTS» y «AGE 19»",
+    "gancho": "Cooper Flagg just dropped 43 on Indiana.",
+    "estructura": "1) Mejor jugada de Flagg del final (0-5 s). 2) Contador de puntos subiendo hasta 43 (5-12 s). 3) Jugadas de la segunda parte: 30 puntos tras el descanso (12-24 s). 4) Cita del entrenador sobre Flagg (24-32 s).",
+    "cierre": "Vuelve a la jugada inicial con el contador congelado en 43.",
+    "clips": "Resumen completo: https://www.youtube.com/watch?v=RAPmPkOUf20 ; extendido: https://www.youtube.com/watch?v=y-jR93AytPc ; resumen Mavs: https://www.youtube.com/watch?v=JzYmV1wTDUs ; reacción: https://www.youtube.com/watch?v=Th8Rnarz-os. Minutos clave por localizar al editar.",
+    "grafismos": "1) Contador 0→43. 2) Ficha de Flagg con 10 reb, 6 ast, 3 robos. 3) Gráfico 13 antes del descanso / 30 después. 4) Cita de Dusty May en pantalla.",
+    "titulo_yt": "Cooper Flagg went OFF for 43 💀",
+    "descripcion": "Cooper Flagg drops 43 as the Mavs beat the Pacers 🔥",
+    "hashtags": "#cooperflagg #mavericks #nba #basketball #shorts",
+    "musica": "Tema de energía alta del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Distintas webs dan datos distintos sobre récords y totales históricos (p. ej. «n.º 3 de todos los tiempos antes de los 20»): no usarlos sin verificar en una fuente primaria. Resolución de los clips no comprobada; la NBA suele bloquear por copyright.",
+    "analizado": "2026-11-11T18:55:00+00:00"
+  },
+  "db8127adef": {
+    "titular": "Cousins traspasado a los Vikings: Mendoza será titular de los Raiders",
+    "formato": "noticia viral",
+    "resumen": "Los Raiders traspasaron a Kirk Cousins a los Vikings en la fecha límite de traspasos, el martes 10 de noviembre de 2026. El general manager John Spytek confirmó el cambio y dijo que Fernando Mendoza, número 1 del draft, «pasó todas las pruebas». Mendoza debutará como titular el domingo ante los Seahawks, campeones de la Super Bowl, en Las Vegas.",
+    "por_que": "El número 1 del draft por fin sale de titular y el rival es el campeón: curiosidad y debate garantizados entre aficionados de la NFL.",
+    "datos_clave": [
+      "Cousins, a los Vikings en la fecha límite (Bleacher Report, Fox News/OutKick)",
+      "Mendoza titular ante Seattle el domingo (Fox News/OutKick, Yahoo Sports)",
+      "Cousins: 2.340 yardas, 20 TD y 8 intercepciones esta temporada (Fox News/OutKick)",
+      "Los Seahawks son los campeones defensores y lideran la liga en defensa (Fox News/OutKick)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/raiders-gm-says-fernando-mendoza-122536895.html"
+      },
+      {
+        "n": "Bleacher Report",
+        "u": "https://bleacherreport.com/articles/25521149-fernando-mendoza-set-be-raiders-qb1-after-kirk-cousins-trade-vikings-nfl-deadline"
+      },
+      {
+        "n": "Las Vegas Review-Journal",
+        "u": "https://www.reviewjournal.com/sports/raiders/why-fernando-mendoza-is-replacing-kirk-cousins-as-raiders-qb-3912823/"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "20-30",
+    "fotograma1": "Mendoza lanzando con el casco del revés en el logo, texto grande «NO. 1 PICK FINALLY STARTS»",
+    "gancho": "The Raiders just traded their starting quarterback.",
+    "estructura": "1) Clip de la rueda de prensa de Spytek/Kubiak anunciando el cambio (0-8 s). 2) Imágenes de Mendoza en el equipo (8-16 s). 3) Ficha del rival: Seahawks, campeones (16-24 s). 4) Mensaje de Cousins a Mendoza si se localiza (24-30 s).",
+    "cierre": "Vuelve a la frase del arranque con el cartel del domingo: Mendoza vs Seahawks.",
+    "clips": "Anuncio del traspaso: https://www.youtube.com/watch?v=dOpPbw_pIRY ; Amy Trask: https://www.youtube.com/watch?v=FVyV9JllZpI ; Mendoza y Cousins: https://www.youtube.com/watch?v=3oGDd94LqyU. Resolución y minutos clave por comprobar.",
+    "grafismos": "1) Cara a cara Cousins → Vikings con flecha. 2) Ficha de Mendoza (n.º 1 del draft 2026). 3) Cita de Spytek «passed every test». 4) Cartel del partido Raiders–Seahawks, domingo.",
+    "titulo_yt": "The Raiders just TRADED Kirk Cousins 😳",
+    "descripcion": "Fernando Mendoza takes over as the Raiders QB1 🏈",
+    "hashtags": "#fernandomendoza #raiders #nfl #football #shorts",
+    "musica": "Tema épico del catálogo del canal",
+    "caducidad": "🔴 publicar antes del domingo 15 de noviembre (partido ante Seattle)",
+    "avisos": "Fuentes discrepan sobre si es la semana 9 o la 10; no poner el número de semana. No mencionar el contrato ni lo recibido por Cousins: no verificado. Resolución de los clips no comprobada.",
+    "analizado": "2026-11-11T18:55:00+00:00"
   }
 }
