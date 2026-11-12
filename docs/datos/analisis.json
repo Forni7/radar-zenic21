@@ -797,5 +797,165 @@
     "caducidad": "🔴 publicar antes del domingo 15 de noviembre (partido ante Seattle)",
     "avisos": "Fuentes discrepan sobre si es la semana 9 o la 10; no poner el número de semana. No mencionar el contrato ni lo recibido por Cousins: no verificado. Resolución de los clips no comprobada.",
     "analizado": "2026-11-11T18:55:00+00:00"
+  },
+  "fde5796bf0": {
+    "duracion": "20-40",
+    "analizado": "2026-11-12T07:55:00Z",
+    "titular": "Rex Ryan confirma que iba a pegar un puñetazo a Belichick antes del playoff de 2010",
+    "formato": "gracioso",
+    "resumen": "En el podcast Bussin' With The Boys, Taylor Lewan le preguntó a Rex Ryan por la historia que contó LaDainian Tomlinson: antes del playoff divisional de enero de 2011, Ryan prometió a sus jugadores darle un puñetazo a Bill Belichick. Ryan lo confirmó: «If you guys want me to, I'll punch him right in the face». El puñetazo nunca ocurrió y los Jets ganaron 28-21 en Foxborough.",
+    "por_que": "Es una anécdota contada por el propio protagonista, con remate y con Belichick de por medio: el tipo de historia tipo Shaq que engancha.",
+    "datos_clave": [
+      "Jets 28-21 Patriots en Foxborough el 16-01-2011 (CBS Sports, Awful Announcing)",
+      "Los Jets habían perdido 45-3 contra los Patriots esa misma temporada (Irish Star, Yahoo)",
+      "La historia la contó primero LaDainian Tomlinson (NFL.com)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Awful Announcing",
+        "u": "https://awfulannouncing.com/nfl/rex-ryan-how-close-punching-bill-belichick-face.html"
+      },
+      {
+        "n": "CBS Sports",
+        "u": "https://www.cbssports.com/nfl/news/tomlinson-rex-ryan-joked-about-punching-bill-belichick-in-the-face/"
+      },
+      {
+        "n": "NFL.com",
+        "u": "https://www.nfl.com/news/lt-rex-ryan-said-he-was-going-to-punch-bill-belichick-0ap1000000242538"
+      }
+    ],
+    "potencial": 7,
+    "fotograma1": "Plano de Rex Ryan en el podcast diciendo «I'll punch him right in the face», con el texto grande «RYAN vs BELICHICK» y una foto de Belichick",
+    "gancho": "I'll punch him right in the face.",
+    "estructura": "1) Gancho con la frase de Ryan. 2) Lewan sacando la historia de Tomlinson. 3) Ryan confirmándola y la reacción de los presentadores. 4) Resultado: Jets 28-21 en Foxborough.",
+    "cierre": "Terminar con la misma frase del principio tras el marcador final 28-21 para que se vuelva a ver.",
+    "clips": "Pendiente: no se ha localizado el enlace exacto del episodio de Bussin' With The Boys en YouTube; buscarlo en el canal del podcast y comprobar que sea 1080p+. Para el playoff de 2011, buscar el resumen oficial de la NFL.",
+    "grafismos": "Contador 45-3 → 28-21 (al mencionar el playoff); cita animada de Ryan; cara a cara Ryan vs Belichick; cronología 2010-2011.",
+    "titulo_yt": "Rex Ryan was ready to PUNCH Belichick 😭",
+    "descripcion": "Rex Ryan confirms he almost fought Bill Belichick 🥊😭",
+    "hashtags": "#rexryan #billbelichick #nfl #football #shorts",
+    "musica": "Una de humor/épica del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Era una amenaza dicha a los jugadores, no ocurrió. No decir que hubo pelea. Comprobar los derechos del podcast."
+  },
+  "d4b5ce140e": {
+    "duracion": "20-40",
+    "analizado": "2026-11-12T07:55:00Z",
+    "titular": "Puka Nacua, de baja al menos 4 semanas: los Rams no lo ponen en IR por ahora",
+    "formato": "noticia viral",
+    "resumen": "Puka Nacua se lesionó en la última jugada ofensiva de la victoria de los Rams 20-13 en Washington (semana 9): esguince de MCL y PCL y turf toe. McVay dijo el lunes que probablemente iría a IR, pero el miércoles 11 de noviembre aclaró que por ahora no, por cuestiones de gestión de plantilla. Se espera que falte al menos cuatro semanas.",
+    "por_que": "Lesión de una estrella de la liga con giro inesperado: afecta a fantasy y a las apuestas, y es tema de conversación inmediato.",
+    "datos_clave": [
+      "Esguince MCL/PCL y turf toe (ESPN, CBS Sports)",
+      "Baja de al menos 4 semanas (Yahoo, ESPN)",
+      "Rams 20-13 en Washington; se lesionó en la última jugada ofensiva (Yahoo)",
+      "Sin IR por ahora; regreso estimado semana 14-15, sin fecha oficial (Yahoo, PFT)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nfl/story/_/id/50435879/rams-nacua-likely-hit-ir-mcl-pcl-sprain-turf-toe"
+      },
+      {
+        "n": "CBS Sports",
+        "u": "https://www.cbssports.com/nfl/news/rams-all-pro-puka-nacua-likely-to-go-on-injured-reserve/"
+      },
+      {
+        "n": "NBC Sports PFT",
+        "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-puka-nacua-injury-id-be-lying-if-i-said-i-wasnt-questioning-that-play-call"
+      }
+    ],
+    "potencial": 6,
+    "fotograma1": "Jugada de la lesión de Nacua con texto grande «PUKA OUT 4+ WEEKS»",
+    "gancho": "Puka Nacua is out. And the Rams won't even put him on IR.",
+    "estructura": "1) Jugada de la lesión. 2) Parte médico en gráfico. 3) Clip de McVay en rueda de prensa. 4) Qué significa para los Rams.",
+    "cierre": "Volver a la jugada de la lesión con el contador de semanas.",
+    "clips": "Pendiente: buscar en YouTube el vídeo de la jugada (Rams-Commanders, semana 9) y la rueda de prensa de McVay del 11-11 en 1080p+; no se han podido verificar enlaces.",
+    "grafismos": "Ficha de Nacua con sus cifras (verificar antes de poner); contador «4+ semanas»; cronología lunes IR → miércoles sin IR.",
+    "titulo_yt": "Puka Nacua INJURED: Rams lose their star 😳",
+    "descripcion": "Puka Nacua out at least 4 weeks 💔",
+    "hashtags": "#pukanacua #rams #nfl #football #shorts",
+    "musica": "Cinderella de Mac Miller",
+    "caducidad": "🔴 publicar antes del próximo partido de los Rams",
+    "avisos": "Tono sobrio. Fecha de regreso no confirmada: no poner semana concreta. Posible cambio de la decisión de IR."
+  },
+  "735a3c9485": {
+    "duracion": "20-40",
+    "analizado": "2026-11-12T07:55:00Z",
+    "titular": "Kenyon Martin: «El nepotismo es real» con Bronny y LeBron",
+    "formato": "noticia viral",
+    "resumen": "En el podcast TFU, Kenyon Martin dijo que con Bronny y LeBron «nepotism is real. We all know it and we all would do it». Considera que Bronny no estaba listo y que habría ganado con otro año en USC, pero también que el trato es injusto para él. Bronny fue elegido el puesto 55 del draft de 2024 por los Lakers.",
+    "por_que": "Combina LeBron, Bronny y una opinión polémica de un excampeón: gancho clásico de debate.",
+    "datos_clave": [
+      "Bronny, 55.º del draft de 2024 (Yahoo, Athlon)",
+      "Cita: «nepotism is real. We all know it and we all would do it» (Yahoo)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/nepotism-real-kenyon-martin-admits-042040224.html"
+      },
+      {
+        "n": "Athlon Sports",
+        "u": "https://athlonsports.com/nba/nepotism-is-real-kenyon-martin-admits-bronny-james-was-never-ready-for-the-nba"
+      }
+    ],
+    "potencial": 5,
+    "fotograma1": "Kenyon Martin hablando con el texto grande «NEPOTISM IS REAL» y foto de Bronny",
+    "gancho": "Nepotism is real. We all know it.",
+    "estructura": "1) Cita de Martin. 2) Su defensa de LeBron. 3) «Unfair to the kid». 4) Dato del puesto 55.",
+    "cierre": "Volver a la cita inicial con la frase «unfair to the kid».",
+    "clips": "Pendiente: no se ha localizado el vídeo del podcast TFU en YouTube; buscarlo y comprobar la calidad (1080p+). Solo hay texto verificado.",
+    "grafismos": "Cita animada; ficha de Bronny (puesto 55, 2024); cara a cara Martin/LeBron.",
+    "titulo_yt": "Kenyon Martin on Bronny: 'Nepotism is real' 😳",
+    "descripcion": "Kenyon Martin speaks on Bronny and LeBron 🏀",
+    "hashtags": "#bronnyjames #lebronjames #kenyonmartin #nba #shorts",
+    "musica": "Cinderella de Mac Miller",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Citas literales solo las confirmadas por Yahoo; el resto, paráfrasis. Sin clip verificado, el potencial es medio."
+  },
+  "f5036c791f": {
+    "duracion": "20-40",
+    "analizado": "2026-11-12T07:55:00Z",
+    "titular": "Bronca masiva en el 49ers-Raiders: 11 detenidos y 45 expulsados (cifras iniciales)",
+    "formato": "noticia viral",
+    "resumen": "Tras el 49ers-Raiders del 8 de noviembre de 2026 en el Levi's Stadium (38-17), la policía de Santa Clara informó de 11 detenidos y 45 expulsados por peleas en grada, accesos y aparcamientos. Hay vídeos virales, entre ellos un hombre inconsciente en el aparcamiento. Los 49ers hablaron de «tolerancia cero». Un titular de CBS Sports habla de 31 detenidos y 93 expulsados, cifras posteriores que no he podido comprobar.",
+    "por_que": "Peleas de aficionados con vídeos virales y rivalidad histórica: contenido que se comparte solo.",
+    "datos_clave": [
+      "11 detenidos y 45 expulsados según la primera cifra policial (Review-Journal, ABC7, Yahoo)",
+      "Partido 49ers 38-17 Raiders, 8-11-2026 (resúmenes)",
+      "Posible actualización: 31 detenidos y 93 expulsados (titular de CBS Sports, sin verificar el texto)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "ABC7 San Francisco",
+        "u": "https://abc7news.com/post/san-francisco-49ers-las-vegas-raiders-fans-ejected-arrested-violent-fights-levis-stadium-santa-clara-police/20029103/"
+      },
+      {
+        "n": "Las Vegas Review-Journal",
+        "u": "https://www.reviewjournal.com/sports/raiders/11-arrested-45-ejected-from-raiders-49ers-game-as-videos-of-fan-brawls-go-viral-3912317/"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/49ers-raiders-fans-ejected-arrested-172410599.html"
+      }
+    ],
+    "potencial": 5,
+    "fotograma1": "Imagen del vídeo viral de la pelea con el texto grande «11 ARRESTED • 45 EJECTED»",
+    "gancho": "11 arrested. 45 ejected. This is what happened at Levi's Stadium.",
+    "estructura": "1) Cifras en gráfico. 2) Clips de las peleas (solo de medios). 3) Comunicado de los 49ers. 4) Contexto rivalidad.",
+    "cierre": "Volver a las cifras con el dato actualizado, si se confirma.",
+    "clips": "Hay un Short en YouTube (https://www.youtube.com/shorts/6CGUsLCn0q4) pero es vertical y de baja calidad: no sirve. Buscar la versión de los noticieros locales (KTVU, ABC7) en 1080p+; no verificado.",
+    "grafismos": "Contador de detenidos/expulsados; cronología del día; mapa de Levi's Stadium.",
+    "titulo_yt": "49ers vs Raiders fans went WILD 😳",
+    "descripcion": "Chaos at Levi's Stadium after 49ers-Raiders 🏈",
+    "hashtags": "#49ers #raiders #nfl #football #shorts",
+    "musica": "Una del catálogo con tono tenso",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Violencia real: tono sobrio, sin bromas. Actualizar cifras si CBS las confirma. No mostrar caras de aficionados identificables. Riesgo de copyright y de contenido sensible en YouTube."
   }
 }
