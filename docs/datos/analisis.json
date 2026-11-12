@@ -957,5 +957,83 @@
     "musica": "Una del catálogo con tono tenso",
     "caducidad": "🟡 publicar esta semana",
     "avisos": "Violencia real: tono sobrio, sin bromas. Actualizar cifras si CBS las confirma. No mostrar caras de aficionados identificables. Riesgo de copyright y de contenido sensible en YouTube."
+  },
+  "2635124d0a": {
+    "titular": "Marcus Smart, expulsado por lanzar un puñetazo a Charles Bassey en el Rockets-Warriors",
+    "formato": "noticia viral",
+    "resumen": "El 11 de noviembre de 2026, en Houston, Marcus Smart lanzó un gancho de derecha que rozó la nariz de Charles Bassey. Tras revisar la jugada le pusieron una falta flagrante 2 y fue expulsado. Los Rockets ganaron 115-108 y cortaron la racha de 8 victorias de los Warriors. Smart dijo que se enredaron y que su codo, lesionado antes, se dobló; Bassey dijo que Smart jugaba sucio «todo el partido».",
+    "por_que": "Pelea con puñetazo y expulsión entre dos equipos de moda, con versiones enfrentadas de los dos jugadores: se entiende sin contexto y genera debate en comentarios.",
+    "datos_clave": [
+      "Flagrant 2 y expulsión tras revisión de la jugada (TSN/AP)",
+      "Rockets 115-108 Warriors, 11-nov-2026; fin de la racha de 8 victorias de GSW (Yahoo/AP, ESPN)",
+      "Curry se fue en el primer cuarto con molestias abdominales tras 6 minutos y 3 puntos (Yahoo/AP)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "TSN (AP/CP)",
+        "u": "https://www.tsn.ca/nba/article/rockets-smart-ejected-for-throwing-punch-at-warriors-charles-bassey-n1-50459125/"
+      },
+      {
+        "n": "ESPN (crónica)",
+        "u": "https://www.espn.com/nba/recap?gameId=401909974"
+      },
+      {
+        "n": "Yahoo Sports (AP)",
+        "u": "https://ca.sports.yahoo.com/news/rockets-beat-warriors-115-108-051956633.html"
+      }
+    ],
+    "potencial": 7,
+    "duracion": "20-30",
+    "fotograma1": "Plano de la jugada en el instante del gancho de Smart, con texto grande «SMART THREW A PUNCH 😳» (sin emoji pegado: usar icono gráfico) y la cara de Bassey",
+    "gancho": "Marcus Smart just threw a punch at Charles Bassey.",
+    "estructura": "1) Jugada del puñetazo a cámara lenta (0-6 s). 2) Revisión y flagrant 2, expulsión (6-12 s). 3) Versión de Smart y de Bassey en declaraciones (12-24 s). 4) Marcador final y racha cortada (24-30 s).",
+    "cierre": "Vuelve a la jugada del puñetazo a velocidad normal con la pregunta «Who's right?», que enlaza con el primer fotograma.",
+    "clips": "Vídeo de ESPN en YouTube enlazado por el radar: https://www.youtube.com/watch?v=oNx2FFBvSzs (calidad 1080p NO comprobada desde la sesión; verificar antes de editar). No se han podido comprobar más clips.",
+    "grafismos": "1) Ficha Smart vs Bassey al inicio. 2) Etiqueta «Flagrant 2 = EJECTED» en el momento de la revisión. 3) Marcador 115-108 y contador «8-game streak: over» al final.",
+    "titulo_yt": "Marcus Smart got EJECTED for this 😳",
+    "descripcion": "Marcus Smart throws a punch at Charles Bassey and gets ejected 🥊😳",
+    "hashtags": "#marcussmart #rockets #nba #basketball #shorts",
+    "musica": "Tema de tensión del catálogo del canal (no emocional)",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No afirmar que el puñetazo conectó: las fuentes dicen que rozó la nariz. Las declaraciones de Smart y Bassey vienen de la crónica de AP; no inventar citas. Clip de la NBA/ESPN: riesgo de copyright.",
+    "analizado": "2026-11-12T19:00:00Z"
+  },
+  "1fb1f90dcd": {
+    "titular": "Cooper Flagg firma 43 puntos y es el segundo adolescente con un 40-10-5",
+    "formato": "INSANE",
+    "resumen": "El 9 de noviembre de 2026 los Mavericks ganaron 125-122 a los Pacers. Cooper Flagg anotó 43 puntos (30 en la segunda mitad), con 10 rebotes, 6 asistencias y 3 robos, y 16 de 25 en tiros. Es el segundo adolescente con un partido de 40 puntos, 10 rebotes y 5 asistencias. Kyrie Irving añadió 35 y Dallas remontó 13 puntos.",
+    "por_que": "Un chaval de 19 años haciendo historia con una remontada: cifras redondas, fáciles de ilustrar y comparables con leyendas.",
+    "datos_clave": [
+      "43 puntos, 10 rebotes, 6 asistencias, 3 robos; 16/25 (Field Level Media/Fanatik)",
+      "Mavericks 125-122 Pacers, 9-nov-2026; Kyrie Irving 35 (Field Level Media)",
+      "Segundo adolescente con 40-10-5 (Field Level Media)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "Field Level Media",
+        "u": "https://fieldlevelmedia.com/nba/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game/"
+      },
+      {
+        "n": "Fanatik (roundup)",
+        "u": "https://www.fanatik.com.tr/en/nba-roundup-cooper-flagg-becomes-second-teenager-with-forty-ten-five-game-2644068"
+      }
+    ],
+    "potencial": 5,
+    "duracion": "20-30",
+    "fotograma1": "Flagg anotando en la segunda mitad con contador gigante «43 PTS»",
+    "gancho": "Cooper Flagg just did something only one other teenager has done.",
+    "estructura": "1) Contador de 43 puntos (0-5 s). 2) Mejores jugadas de la segunda mitad (5-20 s). 3) Ficha 43-10-6-3 y 16/25 (20-27 s). 4) Remontada de 13 puntos y 125-122 (27-30 s).",
+    "cierre": "Vuelve al contador «43» del principio con el texto «Age 19».",
+    "clips": "No se ha localizado ningún clip en 1080p desde la sesión; buscar resumen oficial de los Mavericks o NBA en YouTube antes de editar. Por eso el potencial se baja.",
+    "grafismos": "1) Contador de puntos por cuarto. 2) Ficha estadística 43-10-6-3. 3) Gráfico de la remontada de 13 puntos.",
+    "titulo_yt": "Cooper Flagg went OFF for 43 😳",
+    "descripcion": "Cooper Flagg drops 43 and makes teenage NBA history 🔥",
+    "hashtags": "#cooperflagg #mavericks #nba #basketball #shorts",
+    "musica": "Tema enérgico del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No poner la comparación con Kevin Durant: las fuentes discrepan en su línea estadística. La edad exacta de Flagg no está verificada aquí: no la pongas en pantalla sin comprobarla. Las cifras vienen de agencias, sin crónica primaria leída.",
+    "analizado": "2026-11-12T19:00:00Z"
   }
 }
