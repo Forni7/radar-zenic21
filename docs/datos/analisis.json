@@ -1035,5 +1035,127 @@
     "caducidad": "🟡 publicar esta semana",
     "avisos": "No poner la comparación con Kevin Durant: las fuentes discrepan en su línea estadística. La edad exacta de Flagg no está verificada aquí: no la pongas en pantalla sin comprobarla. Las cifras vienen de agencias, sin crónica primaria leída.",
     "analizado": "2026-11-12T19:00:00Z"
+  },
+  "d3f2e51799": {
+    "titular": "Curry se rompe el oblicuo abdominal: al menos 2 semanas de baja con los Warriors 8-4",
+    "formato": "noticia viral",
+    "resumen": "Stephen Curry dejó el partido del 11 de noviembre ante los Rockets en el primer cuarto, tras unos 6 minutos y 3 puntos. Los Warriors informaron de que la resonancia confirma un desgarro del oblicuo abdominal y que será reevaluado en dos semanas. Kerr dijo antes del diagnóstico: \"la preocupación es alta, pero no sé el alcance\". Algunos medios hablan de hasta 4 semanas, sin confirmar.",
+    "por_que": "Es la mayor estrella de la liga cayendo en directo, con el entrenador admitiendo miedo; todo el mundo quiere saber cuánto tiempo estará fuera y qué pasa con los Warriors.",
+    "datos_clave": [
+      "Salió en el primer cuarto del 115-108 de Houston el 11-nov (NBC Sports Bay Area)",
+      "Desgarro de oblicuo abdominal, reevaluación en 2 semanas (comunicado de los Warriors, vía NBA.com)",
+      "Promediaba 27,8 puntos antes de la lesión (medios; contrastar antes de poner gráfico)",
+      "Warriors 8-4 tras la derrota"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "NBA.com",
+        "u": "https://www.nba.com/news/stephen-curry-out-abdominal-soreness"
+      },
+      {
+        "n": "NBC Sports Bay Area",
+        "u": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-update-steph-curry/1979395/"
+      }
+    ],
+    "potencial": 7,
+    "duracion": "20-30",
+    "fotograma1": "Plano de Curry saliendo hacia el vestuario con texto grande: \"CURRY IS OUT 🚨\" sin emojis pegados, con rótulo 2+ WEEKS",
+    "gancho": "Concern is high, but I have no idea the extent of the injury.",
+    "estructura": "1) Kerr con la frase \"concern is high\" (rueda de prensa tras el partido). 2) Plano de Curry saliendo lesionado. 3) Comunicado: oblicuo abdominal, 2 semanas. 4) Contexto: Warriors 8-4 y sus números. 5) Vuelta a la frase de Kerr.",
+    "cierre": "Termina con la duda de Kerr (\"no sé el alcance\"), que reenlaza con el gancho para que se vuelva a ver.",
+    "clips": "Kerr: https://www.youtube.com/watch?v=ZNR2qxLA87w y https://www.youtube.com/watch?v=mt8N6C6o_MQ (rueda de prensa; resolución sin comprobar, verificar 1080p antes de descargar)",
+    "grafismos": "1) Ficha de Curry con 27,8 PPG al inicio (solo si se verifica). 2) Contador \"6 MIN\" sobre el momento de la salida. 3) Cita de Kerr en grande. 4) Calendario de reevaluación: 2 semanas.",
+    "titulo_yt": "Steph Curry just got INJURED and Kerr is worried 😳",
+    "descripcion": "Steph Curry tears his oblique and Steve Kerr says concern is high 🚨",
+    "hashtags": "#stephcurry #warriors #nba #basketball #shorts",
+    "musica": "Una pista seria y tensa del catálogo (no cómica)",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No decir que está fuera toda la temporada (un vídeo lo titula así pero no hay fuente). Plazo de 2 semanas es de reevaluación, no de vuelta. Resolución de los clips sin comprobar. Tono sobrio.",
+    "analizado": "2026-11-13T18:55:00Z"
+  },
+  "fb86137839": {
+    "titular": "Lamar Jackson, operado del pulgar: 6-10 semanas de baja según Minter",
+    "formato": "noticia viral",
+    "resumen": "Lamar Jackson se fracturó y dislocó el pulgar derecho en la derrota 36-10 ante los Bills en la semana 8. Los Ravens anunciaron que fue operado y lo pasaron a la lista de lesionados. El entrenador Jesse Minter dijo que este tipo de lesiones suele tardar entre 6 y 10 semanas. Rapoport habla de 6-9 semanas y de que probablemente no vuelva en la temporada.",
+    "por_que": "Un MVP fuera con los Ravens 4-4 y la duda de si volverá a jugar este año; la gente quiere saber cuándo vuelve.",
+    "datos_clave": [
+      "Fractura y dislocación del pulgar derecho, operado (CBS Sports)",
+      "6-10 semanas según Minter (ESPN/AP)",
+      "Derrota 36-10 ante Buffalo; Ravens 4-4 (medios)",
+      "Posible regreso en la semana 16 ante Cleveland si es lo más rápido (ESPN)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks"
+      },
+      {
+        "n": "CBS Sports",
+        "u": "https://www.cbssports.com/nfl/news/ravens-announce-lamar-jackson-surgery-broken-dislocated-thumb-out-6-10-weeks/"
+      },
+      {
+        "n": "NBC Sports",
+        "u": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-13/minter-confirms-jackson-thumb-is-out-6-10-weeks"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "20-30",
+    "fotograma1": "Plano de Lamar en la banda con texto grande \"6-10 WEEKS\"",
+    "gancho": "These injuries typically take six to ten weeks to heal.",
+    "estructura": "1) Minter diciendo la frase. 2) Plano de la jugada/lesión (sin imágenes explícitas). 3) Gráfico de calendario con las semanas. 4) Ravens 4-4 y Brissett como sustituto. 5) Pregunta final.",
+    "cierre": "Cierra con la cifra \"6-10 semanas\" en grande, enlazando con el texto del primer fotograma.",
+    "clips": "https://www.youtube.com/watch?v=1481k9p0bVE y https://www.youtube.com/watch?v=cdt4FyxQhDo (comentario/análisis; resolución sin comprobar, buscar la rueda de prensa original de Minter en 1080p)",
+    "grafismos": "1) Calendario semana 8 a semana 16 con la ventana de regreso. 2) Marcador 36-10. 3) Ficha Lamar con récord 4-4 de los Ravens. 4) Cita de Minter.",
+    "titulo_yt": "Lamar Jackson is OUT for weeks after thumb surgery 💔",
+    "descripcion": "Lamar Jackson's thumb injury could keep him out 6-10 weeks 🏈",
+    "hashtags": "#lamarjackson #ravens #nfl #football #shorts",
+    "musica": "Cinderella de Mac Miller (tono sobrio)",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Tono sobrio, no bromear. No decir que está fuera de la temporada: es lo que dice Rapoport, no el equipo. Un resultado dice que la lesión fue ante los Patriots y es erróneo. Resolución de los clips sin comprobar.",
+    "analizado": "2026-11-13T18:55:00Z"
+  },
+  "02ff0fe233": {
+    "titular": "Los Raiders traspasan a Kirk Cousins a los Vikings por una tercera ronda de 2027",
+    "formato": "noticia viral",
+    "resumen": "El 10 de noviembre, antes del cierre de fichajes, los Raiders enviaron a Kirk Cousins a los Vikings por una tercera ronda del draft de 2027. Cousins había firmado con Las Vegas en abril de 2026. El traspaso deja a Fernando Mendoza, número 1 del draft, como titular. El acuerdo dependía de que Cousins pasara el examen físico.",
+    "por_que": "Vuelta de Cousins a su antiguo equipo, un titular con humor y rencor, y los Vikings 6-2 con ambiciones de playoffs.",
+    "datos_clave": [
+      "Traspaso el 10-nov-2026 por una tercera ronda de 2027 (Raiders.com / MPR News)",
+      "Sujeto al examen físico (medios)",
+      "Mendoza pasa a ser el titular (AP vía KOMO)",
+      "Vikings 6-2 al hacerse el trato (medios)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Raiders.com",
+        "u": "https://www.raiders.com/news/raiders-acquire-2027-third-round-pick-nfl-2026"
+      },
+      {
+        "n": "MPR News",
+        "u": "https://www.mprnews.org/story/2026/11/10/minnesota-vikings-reacquire-qb-kirk-cousins-from-las-vegas-raiders"
+      },
+      {
+        "n": "theScore",
+        "u": "https://www.thescore.com/nfl/news/3651397"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "20-30",
+    "fotograma1": "Cousins con camiseta de los Raiders y de los Vikings partida en dos, texto grande \"TRADED BACK\"",
+    "gancho": "Kirk Cousins is a Viking again.",
+    "estructura": "1) Plano de Cousins con los Vikings. 2) Camiseta de los Raiders en abril. 3) Reacción de Cousins al traspaso. 4) Mendoza al mando. 5) Vuelta al inicio.",
+    "cierre": "Cierra con Cousins otra vez de morado, enlazando con el primer fotograma.",
+    "clips": "Reacción de Cousins: https://www.youtube.com/watch?v=FCvR0WuyhSs; análisis: https://www.youtube.com/watch?v=rGQR6ahaWL4 (resolución sin comprobar)",
+    "grafismos": "1) Cronología abril-noviembre. 2) Contador \"3rd round, 2027\". 3) Cara a cara Cousins/Mendoza. 4) Cita de Cousins.",
+    "titulo_yt": "Kirk Cousins is back with the Vikings 😳",
+    "descripcion": "Raiders trade Kirk Cousins to the Vikings for a 2027 third-round pick 🏈",
+    "hashtags": "#kirkcousins #vikings #raiders #nfl #shorts",
+    "musica": "Una pista de ritmo medio del catálogo",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No he verificado el vídeo viral de Cousins saludando a sus excompañeros (The Athletic); no lo uses. Confirmar que pasó el físico antes de decir que está hecho. Resolución de los clips sin comprobar.",
+    "analizado": "2026-11-13T18:55:00Z"
   }
 }
