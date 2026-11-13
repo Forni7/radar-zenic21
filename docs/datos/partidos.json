@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T03:19:49.256921+00:00",
+ "actualizado": "2026-11-13T11:16:24.114291+00:00",
  "lista": [
   {
    "id": "nba-401909296",
@@ -749,7 +749,7 @@
      "nombre": "Phoenix Suns",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
      "casa": true,
-     "balance": "4-6",
+     "balance": "5-6",
      "puntos": "0"
     }
    ],
@@ -865,7 +865,7 @@
      "nombre": "Charlotte Hornets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
      "casa": false,
-     "balance": "4-7",
+     "balance": "4-8",
      "puntos": "0"
     },
     {
