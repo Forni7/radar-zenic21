@@ -1157,5 +1157,124 @@
     "caducidad": "🟡 publicar esta semana",
     "avisos": "No he verificado el vídeo viral de Cousins saludando a sus excompañeros (The Athletic); no lo uses. Confirmar que pasó el físico antes de decir que está hecho. Resolución de los clips sin comprobar.",
     "analizado": "2026-11-13T18:55:00Z"
+  },
+  "2fe7ac8d3d": {
+    "titular": "Jameis Winston canta «Who Let the Dogs Out» como cuenta en 4.º y 1",
+    "formato": "gracioso",
+    "resumen": "En el partido de jueves noche entre los Giants y los Commanders, Jameis Winston usó «Who Let the Dogs Out» como cuenta falsa para intentar que Washington cayera en fuera de juego en un 4.º y 1. No funcionó: el equipo fue sancionado por retraso de juego y tuvo que despejar, y los Giants perdieron. Harbaugh dijo después que la cuenta formaba parte del plan y los Commanders se burlaron en redes.",
+    "por_que": "Es absurdo, se entiende sin contexto y tiene remate (el fallo y la burla posterior). Winston es un personaje viral fijo.",
+    "datos_clave": [
+      "Cuenta en un 4.º y 1 del partido Giants-Commanders, jueves noche (Bleacher Report, Athlon)",
+      "Penalización por retraso de juego y despeje (Bleacher Report)",
+      "Harbaugh confirma que fue parte del plan (Newsweek, Athlon)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Bleacher Report",
+        "u": "https://bleacherreport.com/articles/25532820-watch-jameis-winstons-funny-who-let-dogs-out-hard-count-video-giants-vs-commanders"
+      },
+      {
+        "n": "Athlon Sports",
+        "u": "https://athlonsports.com/nfl/new-york-giants/jameis-winston-who-let-the-dogs-out-hard-count-giants-commanders"
+      },
+      {
+        "n": "Newsweek",
+        "u": "https://www.newsweek.com/sports/nfl/giants-hc-john-harbaugh-addresses-jameis-winstons-viral-cadence-after-loss-12710667"
+      }
+    ],
+    "potencial": 8,
+    "duracion": "20-30",
+    "fotograma1": "Plano de la retransmisión con Winston en el centro cantando la cuenta; texto grande «WHO LET THE DOGS OUT?!» y un emoji-gráfico de perro animado (motion graphic, no emoji pegado).",
+    "gancho": "Who let the dogs out?!",
+    "estructura": "1) Audio de la cuenta desde el segundo 0. 2) Reacción de los comentaristas. 3) Resultado de la jugada: retraso de juego y despeje. 4) Explicación de Winston/Harbaugh en rueda de prensa. 5) Burla de los Commanders.",
+    "cierre": "Vuelve a la cuenta cantada en bucle para que el final enlace con el primer segundo.",
+    "clips": "Jugada: https://www.youtube.com/watch?v=6RDXtbkn9do y https://www.youtube.com/watch?v=-E3-JDzD-GM (resolución por comprobar antes de editar). Explicación de Harbaugh: https://www.youtube.com/shorts/f5mLy6ucpgI (vertical, solo referencia).",
+    "grafismos": "1) Cartel de situación «4th & 1» al inicio de la jugada. 2) Contador de la sanción «Delay of game». 3) Cita de Harbaugh en pantalla cuando la dice.",
+    "titulo_yt": "Jameis Winston sang \"Who Let the Dogs Out\" on 4th & 1 🐶😭",
+    "descripcion": "Jameis Winston's hard count on 4th & 1 was something else 😭🐶",
+    "hashtags": "#jameiswinston #giants #nfl #football #shorts",
+    "musica": "Tema ligero del catálogo del canal; el audio original de la cuenta manda.",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No afirmar el marcador exacto ni el momento del partido: las fuentes consultadas no coinciden del todo. Clips de la NFL: riesgo de copyright, usar recortes cortos.",
+    "analizado": "2026-11-14T18:55:00Z"
+  },
+  "eeac611c83": {
+    "titular": "Cade Cunningham, primero en la historia con 50 puntos, 10 asistencias y 0 pérdidas",
+    "formato": "INSANE",
+    "resumen": "Cade Cunningham anotó 52 puntos con 11 asistencias y ninguna pérdida en la victoria de los Pistons 144-140 en dos prórrogas ante los Wizards. Según NBA.com citado por Yahoo, es el primer jugador desde que se registran pérdidas (1977-78) con al menos 50 puntos, 10 asistencias y 0 pérdidas. Fue su récord personal y el partido incluyó los triples sobre la bocina de Trae Young y AJ Dybantsa para forzar las prórrogas.",
+    "por_que": "Récord histórico con cifras limpias y fáciles de ilustrar, de una estrella en ascenso, con final de partido de locura.",
+    "datos_clave": [
+      "52 puntos, 11 asistencias, 0 pérdidas (Yahoo/AP, ESPN)",
+      "Primero desde 1977-78 con 50+ pts, 10+ ast y 0 pérdidas (NBA.com citado por Yahoo)",
+      "Pistons 144, Wizards 140 en dos prórrogas (Yahoo, ESPN)",
+      "Récord personal anterior: 46 puntos (Yahoo)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards"
+      },
+      {
+        "n": "Yahoo Sports (AP)",
+        "u": "https://sports.yahoo.com/articles/cunninghams-incredible-night-52-points-051215195.html"
+      },
+      {
+        "n": "Bleacher Report",
+        "u": "https://bleacherreport.com/articles/25532813-cade-cunningham-makes-history-pistons-beat-wizards-box-score-stats-highlights-trae-more"
+      }
+    ],
+    "potencial": 8,
+    "duracion": "25-35",
+    "fotograma1": "Cade en plena jugada del último cuarto con un marcador gigante «52 PTS · 11 AST · 0 TOV».",
+    "gancho": "Nobody in NBA history had ever done this.",
+    "estructura": "1) Cifra 52/11/0 en pantalla. 2) Canastas de Cade del cuarto cuarto. 3) Los dos triples sobre la bocina que alargan el partido. 4) Canasta decisiva en la 2.ª prórroga. 5) Dato del récord histórico.",
+    "cierre": "Vuelve al marcador 52/11/0 con el «0» resaltado, enlazando con el primer fotograma.",
+    "clips": "https://www.youtube.com/watch?v=fJdCpbP1rtE (52 pts, 2OT); https://www.youtube.com/watch?v=zuONQSnmSDk (bocinazos de Trae y Dybantsa y canasta de Cade); resumen completo https://www.youtube.com/watch?v=T181H-5F4so. Comprobar resolución antes de editar.",
+    "grafismos": "1) Contador de puntos subiendo hasta 52. 2) Ficha «0 TOV» en grande. 3) Cronología de las dos prórrogas. 4) Cara a cara con los otros jugadores de 50+ y 0 pérdidas solo si se comprueba.",
+    "titulo_yt": "Cade Cunningham did something NO ONE has ever done 🤯",
+    "descripcion": "Cade Cunningham's 52-point, 0-turnover masterpiece 🔥",
+    "hashtags": "#cadecunningham #pistons #nba #basketball #shorts",
+    "musica": "Tema épico/rápido del catálogo del canal.",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "ESPN lo presenta como el quinto doble-doble de 50 puntos sin pérdidas, mientras NBA.com/Yahoo dicen «primero» en 50+/10+/0: decir exactamente «primero con 50 puntos, 10 asistencias y 0 pérdidas». Clips NBA: copyright.",
+    "analizado": "2026-11-14T18:55:00Z"
+  },
+  "abf2783d28": {
+    "titular": "Draymond empuja a Wembanyama por la espalda y recibe una flagrante 1",
+    "formato": "noticia viral",
+    "resumen": "Draymond Green recibió una falta flagrante 1 por empujar por la espalda a Victor Wembanyama en la derrota de los Warriors ante los Spurs en la Copa NBA. Steve Kerr criticó a Green en rueda de prensa tras el partido. Wembanyama respondió brevemente después del partido, pero no he podido confirmar su frase literal.",
+    "por_que": "Draymond contra Wemby es un enfrentamiento con historia reciente y la jugada se ve clara en un solo plano.",
+    "datos_clave": [
+      "Flagrant 1 a Draymond por empujar a Wembanyama por la espalda (Bleacher Report, Yahoo)",
+      "Warriors perdieron ante Spurs en la Copa NBA (Yahoo)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "Bleacher Report (vídeo)",
+        "u": "https://www.youtube.com/watch?v=RsPRToVXQDU"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/victor-wembanyama-gives-blunt-three-221544926.html"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "20-30",
+    "fotograma1": "Plano de la jugada justo antes del empujón con el texto grande «FLAGRANT 1».",
+    "gancho": "Draymond just shoved Wemby in the back.",
+    "estructura": "1) Empujón y flagrante. 2) Repetición lenta. 3) Reacción de Kerr en la rueda de prensa. 4) Respuesta de Wembanyama (solo si se verifica la cita).",
+    "cierre": "Repite el empujón con el sello «FLAGRANT 1» para enlazar con el primer fotograma.",
+    "clips": "https://www.youtube.com/watch?v=RsPRToVXQDU (jugada); https://www.youtube.com/watch?v=2_PbKFBimhI (Kerr en rueda de prensa). Comprobar resolución.",
+    "grafismos": "1) Sello «FLAGRANT 1». 2) Cara a cara Draymond/Wemby con alturas solo si se verifican. 3) Cita de Kerr con subtítulo exacto.",
+    "titulo_yt": "Draymond got a FLAGRANT for shoving Wemby 😳",
+    "descripcion": "Draymond Green shoves Victor Wembanyama and gets a flagrant 1 😳",
+    "hashtags": "#draymondgreen #wembanyama #warriors #nba #basketball",
+    "musica": "Tema tenso del catálogo del canal.",
+    "caducidad": "🔴 publicar antes del siguiente partido de Warriors o Spurs",
+    "avisos": "No poner marcador ni la frase de tres palabras de Wemby sin verificar. Solo he visto descripciones, no los vídeos.",
+    "analizado": "2026-11-14T18:55:00Z"
   }
 }
