@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T03:56:51.653926+00:00",
+ "actualizado": "2026-11-14T11:19:28.498790+00:00",
  "lista": [
   {
    "id": "nba-401909980",
@@ -588,7 +588,7 @@
      "nombre": "LA Clippers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
      "casa": true,
-     "balance": "2-8",
+     "balance": "3-8",
      "puntos": "0"
     }
    ],
@@ -613,7 +613,7 @@
      "nombre": "San Antonio Spurs",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
      "casa": false,
-     "balance": "10-2",
+     "balance": "11-2",
      "puntos": "0"
     },
     {
@@ -621,7 +621,7 @@
      "nombre": "Utah Jazz",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
      "casa": true,
-     "balance": "1-11",
+     "balance": "1-12",
      "puntos": "0"
     }
    ],
@@ -705,7 +705,7 @@
      "nombre": "Houston Rockets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
      "casa": false,
-     "balance": "9-3",
+     "balance": "10-3",
      "puntos": "0"
     },
     {
@@ -800,7 +800,7 @@
      "nombre": "Oklahoma City Thunder",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
      "casa": false,
-     "balance": "8-4",
+     "balance": "8-5",
      "puntos": "0"
     },
     {
@@ -808,7 +808,7 @@
      "nombre": "Sacramento Kings",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
      "casa": true,
-     "balance": "1-10",
+     "balance": "1-11",
      "puntos": "0"
     }
    ],
@@ -953,7 +953,7 @@
      "nombre": "Houston Rockets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
      "casa": false,
-     "balance": "9-3",
+     "balance": "10-3",
      "puntos": "0"
     },
     {
@@ -986,7 +986,7 @@
      "nombre": "Portland Trail Blazers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
      "casa": false,
-     "balance": "8-3",
+     "balance": "9-3",
      "puntos": "0"
     },
     {
@@ -1018,7 +1018,7 @@
      "nombre": "Golden State Warriors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
      "casa": false,
-     "balance": "8-4",
+     "balance": "8-5",
      "puntos": "0"
     },
     {
