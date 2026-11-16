@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T00:19:02.905173+00:00",
+ "actualizado": "2026-11-16T06:49:52.258344+00:00",
  "lista": [
   {
    "id": "nba-401909994",
@@ -24,7 +24,7 @@
      "nombre": "Boston Celtics",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
      "casa": true,
-     "balance": "10-2",
+     "balance": "11-2",
      "puntos": "0"
     }
    ],
@@ -86,7 +86,7 @@
      "nombre": "Washington Wizards",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
      "casa": true,
-     "balance": "4-9",
+     "balance": "4-10",
      "puntos": "0"
     }
    ],
@@ -138,7 +138,7 @@
      "nombre": "Houston Rockets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
      "casa": false,
-     "balance": "10-3",
+     "balance": "11-3",
      "puntos": "0"
     },
     {
@@ -295,7 +295,7 @@
      "nombre": "New York Knicks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
      "casa": false,
-     "balance": "6-6",
+     "balance": "7-6",
      "puntos": "0"
     },
     {
@@ -303,7 +303,7 @@
      "nombre": "Toronto Raptors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
      "casa": true,
-     "balance": "5-7",
+     "balance": "5-8",
      "puntos": "0"
     }
    ],
@@ -366,7 +366,7 @@
      "nombre": "San Antonio Spurs",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
      "casa": true,
-     "balance": "11-2",
+     "balance": "12-2",
      "puntos": "0"
     }
    ],
@@ -391,7 +391,7 @@
      "nombre": "Utah Jazz",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
      "casa": false,
-     "balance": "1-12",
+     "balance": "1-13",
      "puntos": "0"
     },
     {
@@ -487,7 +487,7 @@
      "nombre": "Houston Rockets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
      "casa": false,
-     "balance": "10-3",
+     "balance": "11-3",
      "puntos": "0"
     },
     {
@@ -520,7 +520,7 @@
      "nombre": "Milwaukee Bucks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
      "casa": false,
-     "balance": "1-12",
+     "balance": "1-13",
      "puntos": "0"
     },
     {
@@ -611,7 +611,7 @@
      "nombre": "Washington Wizards",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
      "casa": false,
-     "balance": "4-9",
+     "balance": "4-10",
      "puntos": "0"
     },
     {
@@ -619,7 +619,7 @@
      "nombre": "Toronto Raptors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
      "casa": true,
-     "balance": "5-7",
+     "balance": "5-8",
      "puntos": "0"
     }
    ],
@@ -675,7 +675,7 @@
      "nombre": "Atlanta Hawks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
      "casa": false,
-     "balance": "7-6",
+     "balance": "8-6",
      "puntos": "0"
     },
     {
@@ -683,7 +683,7 @@
      "nombre": "Oklahoma City Thunder",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
      "casa": true,
-     "balance": "8-5",
+     "balance": "9-5",
      "puntos": "0"
     }
    ],
@@ -715,7 +715,7 @@
      "nombre": "Dallas Mavericks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
      "casa": true,
-     "balance": "7-6",
+     "balance": "7-7",
      "puntos": "0"
     }
    ],
@@ -738,7 +738,7 @@
      "nombre": "Boston Celtics",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
      "casa": false,
-     "balance": "10-2",
+     "balance": "11-2",
      "puntos": "0"
     },
     {
@@ -772,7 +772,7 @@
      "nombre": "Utah Jazz",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
      "casa": false,
-     "balance": "1-12",
+     "balance": "1-13",
      "puntos": "0"
     },
     {
@@ -812,7 +812,7 @@
      "nombre": "Sacramento Kings",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
      "casa": true,
-     "balance": "1-11",
+     "balance": "1-12",
      "puntos": "0"
     }
    ],
