@@ -1,1280 +1,1440 @@
 {
-  "c1714a7241": {
-    "titular": "Draymond, expulsado por tirar a Maluach y encararse con Dillon Brooks",
-    "formato": "noticia viral",
-    "resumen": "El 2 de noviembre de 2026, en el Warriors-Suns, Draymond Green fue expulsado al inicio del tercer cuarto por dos técnicas en la misma jugada: tras derribar a Khaman Maluach y por el encontronazo con Dillon Brooks. Fue su primera expulsión de la temporada. Los Warriors remontaron y ganaron, y Curry dijo: «He lit a fire in all of us».",
-    "por_que": "Pelea + Draymond + Dillon Brooks (rivalidad con Curry) es combustible puro y la jugada se entiende sin contexto en un segundo.",
-    "datos_clave": [
-      "Dos técnicas en la misma secuencia: derribo a Maluach y rifirrafe con Brooks (ESPN, Yahoo, AP)",
-      "Primera expulsión de la temporada; 23.ª en temporada regular y 8 en playoffs (31 en total) (ESPN/Yahoo)",
-      "Golden State remontó tras la expulsión y encadenó su quinta victoria (ESPN)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nba/story/_/id/50365914/warriors-draymond-green-ejected-scuffle-suns"
-      },
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/nba/breaking-news/article/warriors-star-draymond-green-ejected-after-throwing-khaman-maluach-down-getting-into-scuffle-with-dillon-brooks-044807627.html"
-      },
-      {
-        "n": "AP (WRAL)",
-        "u": "https://www.wral.com/news/ap/cb3b1-warriors-center-draymond-green-ejected-after-consecutive-technical-fouls-on-one-play-against-suns/"
-      }
-    ],
-    "potencial": 9,
-    "duracion": "20-30",
-    "fotograma1": "Plano de Draymond y Brooks separados por compañeros, con texto enorme 'EJECTED 💀' y contador '31st career ejection'",
-    "gancho": "Draymond just got ejected… again.",
-    "estructura": "1) Plano del derribo a Maluach (0-6 s). 2) La segunda técnica con Brooks (6-14 s). 3) Salida del campo y reacción de Kerr/Curry (14-22 s). 4) Remontada y frase de Curry (22-30 s).",
-    "cierre": "Vuelve al plano inicial de la expulsión con el contador de expulsiones en 31, para enlazar con el gancho.",
-    "clips": "House of Highlights https://www.youtube.com/watch?v=JsXh-QA-NKk ; Bleacher Report https://www.youtube.com/shorts/c2fADcuWCw4 ; ESPN https://www.youtube.com/shorts/xe8xhLAlLMg (verificar resolución 1080p+; buscar también el vídeo largo de highlights oficial NBA)",
-    "grafismos": "1) Contador de expulsiones 23 + 8 = 31 en el segundo 3. 2) Cara a cara Draymond vs Brooks con altura/equipo. 3) Cita de Curry en pantalla al final. 4) Cronología del tercer cuarto.",
-    "titulo_yt": "Draymond got EJECTED for this 😳",
-    "descripcion": "Draymond Green gets ejected after a scuffle with Dillon Brooks 😳🔥",
-    "hashtags": "#draymondgreen #warriors #nba #basketball #shorts",
-    "musica": "Tema agresivo/trap del catálogo del canal",
-    "caducidad": "🔴 publicar antes del 5 de noviembre (la sanción de la liga puede cambiar la historia)",
-    "avisos": "Posible sanción de la NBA aún sin confirmar: no decirla. Las fuentes difieren en el minuto exacto de la expulsión; no poner el reloj. Clips de la NBA/ESPN: riesgo de copyright.",
-    "analizado": "2026-11-03T15:30:00Z"
-  },
-  "c82776e97c": {
-    "titular": "LeBron se choca con la grada y se bebe el vino de un aficionado de los Sixers",
-    "formato": "gracioso",
-    "resumen": "En el tercer cuarto del 76ers-Bulls (126-107) del 2 de noviembre de 2026, LeBron James acabó en la grada tras un pase fallido a Maxey, chocó con el abonado Troy Clemons y dio un sorbo a su copa. El aficionado dijo que era vino tinto. Después LeBron dijo: «I crashed into him, spilled some of his wine… It was alright».",
-    "por_que": "Es gracioso, viral y con LeBron como protagonista; el remate llega en segundos y su reacción en rueda de prensa es la guinda.",
-    "datos_clave": [
-      "Ocurrió en el 3.er cuarto del 76ers-Bulls, victoria 126-107 (Yahoo Sports / ClutchPoints)",
-      "El aficionado es Troy Clemons, abonado; dijo que era vino tinto (Yahoo Sports)",
-      "LeBron: 15 puntos, 9 asistencias y 7 rebotes (ClutchPoints)",
-      "La NBA no ha anunciado ninguna sanción (Yahoo Sports)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/watch-lebron-james-takes-sip-115135492.html"
-      },
-      {
-        "n": "NBC Sports Philadelphia",
-        "u": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/lebron-james-fan-wine-sixers-vs-bulls/764036/"
-      },
-      {
-        "n": "ClutchPoints",
-        "u": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-lebron-james-wine-review-fan-sip-midgame-bulls"
-      }
-    ],
-    "potencial": 9,
-    "duracion": "20-30",
-    "fotograma1": "LeBron con el vaso en la mano en plena grada, texto grande 'LEBRON DRANK A FAN'S WINE 😭'",
-    "gancho": "LeBron just crashed into the crowd… and took a sip.",
-    "estructura": "1) Pase fallido y choque con la grada (0-6 s). 2) El sorbo (6-12 s). 3) Reacción del aficionado (12-20 s). 4) Rueda de prensa de LeBron con su frase (20-30 s).",
-    "cierre": "Cierra con su frase 'It was alright' y vuelve al plano del sorbo para enlazar con el principio.",
-    "clips": "Bleacher Report https://www.youtube.com/watch?v=J_t3aBX7t5Q ; NBA https://www.youtube.com/shorts/bvefSGrjDgE (verificar 1080p+; buscar la rueda de prensa de LeBron en YouTube)",
-    "grafismos": "1) Marcador 126-107 con el cuarto. 2) Cita de LeBron en pantalla. 3) Ficha del aficionado 'Troy Clemons, season-ticket holder'. 4) Línea de precedente: Mike Scott 2019 sin multa.",
-    "titulo_yt": "LeBron drank a fan's wine mid-game 😭🍷",
-    "descripcion": "LeBron James crashes into the crowd and sips a fan's wine 😭🍷",
-    "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
-    "musica": "Tema ligero/divertido del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No afirmar que habrá multa (no hay sanción anunciada). Que era vino lo dice el aficionado. Algunos titulares hablan de Lakers/Heat: no es así, fue con los Sixers.",
-    "analizado": "2026-11-03T15:30:00Z"
-  },
-  "47df7ecb8d": {
-    "titular": "Los Thunder retirarán el dorsal 0 de Westbrook el 7 de febrero ante los Knicks",
-    "formato": "superación",
-    "resumen": "Sam Presti anunció el 2 de noviembre de 2026 que el dorsal 0 de Russell Westbrook se retirará el 7 de febrero de 2027 en el Paycom Center, en un partido contra los Knicks. Westbrook, que se retiró en agosto de 2026, estaba en el escenario y se emocionó. Será el segundo dorsal retirado del club, tras el 4 de Nick Collison.",
-    "por_que": "Es un homenaje emotivo a una leyenda con cifras históricas y mucho material de archivo para montar un edit potente.",
-    "datos_clave": [
-      "Ceremonia el 7 de febrero de 2027 vs. Knicks, Paycom Center (CBS Sports / Hoops Rumors)",
-      "Líder histórico de la franquicia en puntos: 18.857 (Yahoo Sports)",
-      "Segundo dorsal retirado, tras el 4 de Collison (ESPN)",
-      "Retiro anunciado el 12 de agosto de 2026 tras 18 temporadas (KGOU)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "CBS Sports",
-        "u": "https://www.cbssports.com/nba/news/russell-westbrook-thunder-number-retirement/"
-      },
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nba/story/_/id/50360248/thunder-retire-russell-westbrook-no-0"
-      },
-      {
-        "n": "Hoops Rumors",
-        "u": "https://www.hoopsrumors.com/2026/11/thunder-to-retire-russell-westbrooks-jersey-on-feb-7.html"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "25-40",
-    "fotograma1": "Westbrook llorando en el escenario con un 0 gigante y el texto 'NUMBER 0 RETIRED 💔'",
-    "gancho": "Russell Westbrook's number is going to the rafters.",
-    "estructura": "1) Anuncio de Presti con Westbrook emocionado (0-8 s). 2) Cifras: 18.857 puntos y triple-dobles (8-18 s). 3) Jugadas icónicas en OKC (18-30 s). 4) Fecha de la ceremonia (30-36 s).",
-    "cierre": "Vuelve al plano de las lágrimas con la fecha 'Feb 7' en pantalla.",
-    "clips": "Buscar en YouTube el vídeo oficial de OKC Thunder del anuncio y los highlights de Westbrook en OKC (no localizados con enlace verificado; exigir 1080p+)",
-    "grafismos": "1) Contador de puntos 18,857. 2) Dorsal 0 subiendo a las vigas. 3) Cronología 2008-2019 en OKC. 4) Fecha 'Feb 7 vs Knicks'.",
-    "titulo_yt": "Westbrook is getting his number RETIRED 💔",
-    "descripcion": "The Thunder will retire Russell Westbrook's No. 0 🙏",
-    "hashtags": "#russellwestbrook #thunder #nba #basketball #shorts",
-    "musica": "Cinderella – Mac Miller",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Cifra de 18.857 puntos solo de Yahoo Sports: contrastar con el club antes de publicar. Sin clip enlazado verificado: potencial limitado.",
-    "analizado": "2026-11-03T15:30:00Z"
-  },
-  "4bbfe8847b": {
-    "titular": "Jeffery Simmons debuta con los Bears: sack a Darnold y paliza 34-17 a los Seahawks",
-    "formato": "noticia viral",
-    "resumen": "Los Bears ganaron 34-17 a los Seahawks en el Monday Night Football del 2 de noviembre de 2026. Jeffery Simmons, fichado a los Titans el jueves anterior a cambio de dos primeras rondas (2027 y 2028), debutó con un sack a Sam Darnold en el primer cuarto. Acabó con seis tackles, dos tackles para pérdida y un pase desviado, según CBS Sports. Caleb Williams lanzó para 247 yardas con un 71 % de acierto.",
-    "por_que": "Un traspaso de impacto, un debut inmediato en prime time y una afición de Chicago celebrándolo: encaja con el formato de noticia viral de esta semana y se entiende en segundos.",
-    "datos_clave": [
-      "Resultado 34-17 Bears (ESPN, Yahoo Sports)",
-      "Sack a Darnold en el primer cuarto; 6 tackles, 2 TFL y 1 pase desviado (CBS Sports, Yahoo Sports)",
-      "Traspaso por dos primeras rondas, 2027 y 2028 (AP, Bleacher Report)",
-      "Seattle convirtió 1 de 11 en tercer down (resumen de prensa)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN – Bears 34-17 Seahawks",
-        "u": "https://www.espn.com/nfl/recap?gameId=401873036"
-      },
-      {
-        "n": "Yahoo Sports – Simmons sack in Bears debut",
-        "u": "https://sports.yahoo.com/nfl/breaking-news/article/jeffery-simmons-gets-huge-sack-on-sam-darnold-in-first-game-with-the-bears-015753847.html"
-      },
-      {
-        "n": "CBS Sports – Bears dominate Seahawks",
-        "u": "https://www.cbssports.com/nfl/news/seahawks-vs-bears-live-updates-score-highlights/live/"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "20-40",
-    "fotograma1": "Plano de Simmons derribando a Darnold, con texto grande 'TWO FIRST-ROUND PICKS' y el 99 de Chicago",
-    "gancho": "Chicago gave up two first-round picks for this.",
-    "estructura": "1) Gancho con el sack ya empezado. 2) Contador de las dos primeras rondas. 3) Resto de la jugada en cámara lenta. 4) Ficha con su línea estadística. 5) Reacción de la afición.",
-    "cierre": "Vuelve al sack del inicio con la pregunta 'Worth it?' para que se vuelva a ver.",
-    "clips": "PENDIENTE: no se ha podido confirmar ningún enlace de YouTube en 1080p+ (sin acceso a YouTube en esta ejecución). Buscar el resumen oficial de NFL/Bears y la rueda de prensa posdebut; por eso el potencial se queda en 6.",
-    "grafismos": "Contador de picks (0:03), ficha del jugador con su línea de estadísticas (0:12), cara a cara Simmons vs Darnold (0:06), cronología del traspaso del jueves al lunes (0:18).",
-    "titulo_yt": "Jeffery Simmons got a SACK in his Bears debut 😳",
-    "descripcion": "Jeffery Simmons makes an instant impact for the Bears 🐻🔥",
-    "hashtags": "#jefferysimmons #chicagobears #nfl #football #shorts",
-    "musica": "Canción enérgica del catálogo del canal (no emocional)",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No afirmar que el clip se hizo viral con cifras de visualizaciones: no está verificado. Las citas y los clips no están confirmados; comprobar los derechos de la NFL.",
-    "analizado": "2026-11-03T18:50:00Z"
-  },
-  "b3ac27206a": {
-    "titular": "Big Wos, contra Wembanyama por llamar «superficiales» a las interacciones sociales en EE. UU.",
-    "formato": "noticia viral",
-    "resumen": "En su entrevista en 60 Minutes, Victor Wembanyama dijo que las interacciones sociales en EE. UU. son «más superficiales» y «menos profundas» que en otros países, aunque también elogió que allí nunca se juzga la ambición. Wosny «Big Wos» Lambre reaccionó en su podcast diciendo que Wembanyama parecía creerse mejor que los demás y preguntó «Who does this guy think he is?». La polémica se encendió entre el 31 de octubre y el 3 de noviembre de 2026.",
-    "por_que": "Trash talk de podcast contra la cara de la NBA y un debate patriotero fácil de opinar: la gente se queda para ver quién tiene razón.",
-    "datos_clave": [
-      "Cita de Wembanyama: «the social interactions are more shallow here» (Yahoo Sports, Eurohoops)",
-      "Lambre: «Who does this guy think he is?» (Yahoo Sports, Awful Announcing)",
-      "Wembanyama también dijo que en EE. UU. nunca se te juzga por ser ambicioso (Eurohoops)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/wosny-lambre-rips-victor-wembanyama-223031774.html"
-      },
-      {
-        "n": "Awful Announcing",
-        "u": "https://awfulannouncing.com/nba/wosny-lambre-rips-victor-wembanyama-americans-shallow.html"
-      },
-      {
-        "n": "Eurohoops",
-        "u": "https://www.eurohoops.net/en/nba-news/2029214/wembanyama-on-life-in-the-u-s-you-are-never-judged-for-being-ambitious/"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "25-35",
-    "fotograma1": "Plano de Wembanyama en 60 Minutes diciendo la frase, con el texto grande «AMERICANS ARE “SHALLOW”?»",
-    "gancho": "The social interactions are more shallow here.",
-    "estructura": "1) Wembanyama dice la frase (clip 60 Minutes). 2) Contexto: también elogió la ambición en EE. UU. 3) Big Wos reacciona: «Who does this guy think he is?». 4) Cierre con la pregunta al espectador.",
-    "cierre": "Volver a la frase inicial de Wembanyama y preguntar si tiene razón, para empujar comentarios y repeticiones.",
-    "clips": "No verificados: esta ejecución no tiene acceso a YouTube. Buscar manualmente en el canal oficial de CBS/60 Minutes y en el vídeo original del podcast, solo en 1080p+.",
-    "grafismos": "Cita en pantalla con la frase de Wembanyama al inicio; Ficha cara a cara Wembanyama vs Big Wos en el momento de la réplica; Cita de la segunda parte (la ambición) para dar el contexto completo",
-    "titulo_yt": "Wemby called Americans “shallow” and Big Wos is NOT happy 😳",
-    "descripcion": "Victor Wembanyama's comments on America sparked a debate 🗣️",
-    "hashtags": "#wembanyama #spurs #nba #basketball #shorts",
-    "musica": "Cualquier tema tenso del catálogo; evitar los emocionales (Cinderella).",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No decir que Wembanyama «odia a los americanos» ni que los llamó estúpidos: eso es la interpretación de Lambre. Incluir siempre su elogio a la ambición. Clips sin verificar; el material de CBS puede dar problemas de copyright.",
-    "analizado": "2026-11-04T07:55:00Z"
-  },
-  "a9c9589183": {
-    "titular": "Kawhi Leonard, baja al menos una semana más por inflamación en la rodilla izquierda",
-    "formato": "noticia viral",
-    "resumen": "Los Raptors comunicaron que Kawhi Leonard estará de baja al menos una semana por inflamación en la rodilla izquierda y será reevaluado después. Las pruebas no mostraron una lesión aguda y sigue un programa de tratamiento y rehabilitación. Shams Charania informó de que se espera que falte varias semanas; la fecha de regreso no está confirmada.",
-    "por_que": "Lesión de una estrella con historial de rodilla: mucha búsqueda y debate sobre su futuro.",
-    "datos_clave": [
-      "Baja de al menos una semana, con reevaluación posterior (Raptors, vía NBA.com y CTV)",
-      "Las pruebas no muestran lesión aguda en la rodilla izquierda (Raptors, vía NBA.com y CTV)",
-      "Shams Charania: se espera que falte «un periodo de semanas» (Eurohoops)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NBA.com",
-        "u": "https://nba.com/news/kawhi-leonard-knee-out-at-least-a-week"
-      },
-      {
-        "n": "CTV News",
-        "u": "https://ctvnews.ca/toronto/sports/article/raptors-star-kawhi-leonard-out-at-least-one-week-with-left-knee-injury"
-      }
-    ],
-    "potencial": 4,
-    "duracion": "20-30",
-    "fotograma1": "Kawhi cojeando o tocándose la rodilla, con el texto grande «KAWHI OUT AGAIN?»",
-    "gancho": "Kawhi's knee is a problem again.",
-    "estructura": "1) Plano de Kawhi en el último partido. 2) Parte médico de los Raptors. 3) Repaso de sus lesiones de rodilla anteriores. 4) Pregunta sobre su regreso.",
-    "cierre": "Volver al plano inicial con la pregunta de cuándo volverá.",
-    "clips": "No verificados: sin acceso a YouTube en esta ejecución. Buscar jugadas de Kawhi con los Raptors en el canal oficial de la NBA, en 1080p+.",
-    "grafismos": "Contador de partidos de baja; Ficha de lesión: rodilla izquierda, inflamación, sin lesión aguda; Cronología de sus lesiones (solo con datos verificados)",
-    "titulo_yt": "Kawhi Leonard knee update has Raptors fans worried 😳",
-    "descripcion": "Kawhi Leonard is out with left knee swelling 🙏",
-    "hashtags": "#kawhileonard #raptors #nba #basketball #shorts",
-    "musica": "Tema sobrio del catálogo.",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Tono sobrio. No dar plazo de regreso: solo hay «al menos una semana» oficial; cifras de 3-4 semanas vienen de reportes sin confirmar.",
-    "analizado": "2026-11-04T07:55:00Z"
-  },
-  "0bc4f0973e": {
-    "titular": "LeBron, primer jugador de la historia con 16.000 canastas de campo",
-    "formato": "noticia viral",
-    "resumen": "El 4 de noviembre de 2026, en la victoria de los Sixers 112-106 en Detroit, LeBron James anotó su canasta de campo número 16.000, la segunda del partido, con un bandeja de izquierda sobre John Collins a falta de 10:35 del segundo cuarto. Acabó con 13 puntos, 10 rebotes y 8 asistencias. Philadelphia mejora a 8-1.",
-    "por_que": "Un récord histórico de LeBron que se entiende en un segundo y que se ilustra con un contador; el aficionado quiere ver el momento exacto.",
-    "datos_clave": [
-      "Primer jugador con 16.000 tiros de campo anotados (Yahoo Sports, Bleacher Report, beIN)",
-      "Sixers 112-106 Pistons; 8-1 de balance (Yahoo/Inquirer)",
-      "Línea: 13 pts, 10 reb, 8 ast en 33 min (resumen de medios)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/lebron-james-becomes-first-nba-013506149.html"
-      },
-      {
-        "n": "Bleacher Report",
-        "u": "https://bleacherreport.com/articles/25529411-watch-lebron-james-make-nba-history-new-career-milestone-during-76ers-vs-pistons"
-      },
-      {
-        "n": "beIN Sports",
-        "u": "https://www.beinsports.com/en-us/basketball/articles/lebron-james-reaches-16-000-made-field-goals-in-nba-history-2026-11-05"
-      },
-      {
-        "n": "76ers PR Stats",
-        "u": "https://x.com/76ersPR_stats/status/2118143541624832262"
-      }
-    ],
-    "potencial": 7,
-    "duracion": "20-30",
-    "fotograma1": "Plano de la bandeja de LeBron sobre Collins con un contador gigante «16,000» sobre la imagen",
-    "gancho": "LeBron James just became the first player in NBA history to make 16,000 field goals.",
-    "estructura": "1) Canasta 16.000 con contador (0-5 s). 2) Comparar con Kareem (15.837) con cara a cara (5-12 s). 3) Camino de LeBron: cifras de carrera (12-22 s). 4) Reacción en pista y banquillo (22-30 s).",
-    "cierre": "Vuelve a la bandeja con el contador en 16.000 para que enlace con el primer segundo.",
-    "clips": "Pendiente de elegir: highlight oficial NBA/Bleacher Report del partido Sixers-Pistons (4-nov-2026), minuto ~10:35 del 2.º cuarto. Resolución 1080p sin comprobar; revisar antes de editar.",
-    "grafismos": "Contador 15.837→16.000 en el segundo 0; cara a cara LeBron vs Kareem; ficha del partido (13/10/8); línea de tiempo de récords.",
-    "titulo_yt": "LeBron just made NBA HISTORY 🐐",
-    "descripcion": "LeBron James hits 16,000 career field goals, a first in NBA history 👑",
-    "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
-    "musica": "Tema épico del catálogo del canal (tipo Cinderella de Mac Miller si se quiere tono emotivo)",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Cifra de Kareem (15.837) citada por un solo resumen; confirmar antes de ponerla. Fecha: partido del 4-nov (hora local). Clip y resolución sin comprobar.",
-    "analizado": "2026-11-06T03:10:00Z"
-  },
-  "e7ba9f171d": {
-    "titular": "Luka hace expulsar a un aficionado que tiró el balón a una árbitra",
-    "formato": "noticia viral",
-    "resumen": "El 4 de noviembre de 2026, en el Kings-Lakers (116-103), un aficionado de primera fila lanzó con fuerza el balón a la árbitra Chelisa Painter a final del tercer cuarto. Luka Doncic lo señaló, le preguntó «What the f*** are you doing?» y avisó a oficiales y seguridad; el aficionado fue retirado del pabellón. Luka firmó 40 puntos, 9 rebotes y 7 asistencias.",
-    "por_que": "Luka defendiendo a una árbitra es viral por sí solo y mezcla estrella, polémica y un momento claro en vídeo.",
-    "datos_clave": [
-      "Lakers 116-103 en Sacramento (resúmenes de Yahoo/ClutchPoints)",
-      "Luka: 40 pts, 9 reb, 7 ast (resúmenes)",
-      "Árbitra: Chelisa Painter, primer año en plantilla (medios)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/luka-doncic-steps-defend-female-113000858.html"
-      },
-      {
-        "n": "Yahoo News Canada",
-        "u": "https://ca.news.yahoo.com/lakers-luka-doncic-gets-fan-162613150.html"
-      },
-      {
-        "n": "Basketnews",
-        "u": "https://basketnews.com/news-258860-luka-doncic-reveals-what-he-told-kings-fan-after-ugly-referee-incident.html"
-      },
-      {
-        "n": "IBTimes",
-        "u": "https://www.ibtimes.co.uk/luka-doncic-confronts-fan-ball-thrown-referee-lakers-win-1830532"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "20-30",
-    "fotograma1": "Luka señalando al aficionado con el balón en la mano y texto grande «LUKA FLIPPED» ",
-    "gancho": "A fan hit a referee with the ball — and Luka lost it.",
-    "estructura": "1) Luka señala al fan (0-4 s). 2) El lanzamiento en repetición (4-10 s). 3) Retirada del fan y pulgar de la árbitra (10-18 s). 4) Su reacción postpartido y 40 pts (18-28 s).",
-    "cierre": "Vuelve al plano de Luka señalando, enlazando con el inicio.",
-    "clips": "House of Highlights: https://www.youtube.com/watch?v=nX2ksTFuqwU (highlights de Luka vs Kings); buscar el clip del incidente en YouTube oficial. Resolución 1080p sin comprobar.",
-    "grafismos": "Rótulo con nombre de la árbitra; marcador 116-103; línea de 40/9/7; cita de Luka.",
-    "titulo_yt": "Luka got a fan EJECTED for this 😳",
-    "descripcion": "Luka Doncic stands up for the ref and gets a fan thrown out 😳",
-    "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
-    "musica": "Tema tenso/épico del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Los medios discrepan en si el balón golpeó a la árbitra o lo desvió, y en quién retiró al fan: no afirmarlo. No decir que el fan la atacó por ser mujer. La cita incluye una palabrota: censurarla.",
-    "analizado": "2026-11-06T03:10:00Z"
-  },
-  "387da62b76": {
-    "titular": "Embiid y Tolu Smith se empujan en el Sixers-Pistons y Embiid ve técnica",
-    "formato": "noticia viral",
-    "resumen": "El 4 de noviembre de 2026, en la victoria de los Sixers 112-106 sobre los Pistons, Tolu Smith empujó a Embiid tras un balón muerto y Embiid respondió con un empujón; el equipo arbitral, tras revisarlo, le pitó técnica a Embiid, la primera de su temporada. La NBA le añadió después una Flagrant 1 por una patada a Cade Cunningham. Embiid acabó con 26 puntos y 15 rebotes.",
-    "por_que": "Pelea con Embiid y un rival joven más una sanción posterior: tiene conflicto y un clip corto.",
-    "datos_clave": [
-      "Técnica a Embiid, la primera de la temporada (Yahoo Sports)",
-      "Flagrant 1 posterior por patada a Cunningham (Yahoo Sports)",
-      "26 pts y 15 reb; Sixers 8-1 (resúmenes)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/nba/article/76ers-star-joel-embiid-gets-technical-foul-for-shoving-match-with-tolu-smith-in-win-over-pistons-031746006.html"
-      },
-      {
-        "n": "Yahoo Sports (Flagrant 1)",
-        "u": "https://sports.yahoo.com/articles/76ers-joe-embiid-retroactively-slapped-013731739.html"
-      },
-      {
-        "n": "Larry Brown Sports",
-        "u": "https://larrybrownsports.com/basketball/joel-embiid-technical-foul-pistons-tolu-smith/777164"
-      },
-      {
-        "n": "Inquirer",
-        "u": "https://inquirer.com/sixers/sixers-pistons-score-highlights-jaylen-brown-lebron-james-joel-embiid-20261104.html"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "20-30",
-    "fotograma1": "Plano del empujón Embiid-Smith con texto grande «EMBIID SHOVED BACK»",
-    "gancho": "Embiid got a technical for this shove.",
-    "estructura": "1) Empujón (0-5 s). 2) Revisión y técnica (5-12 s). 3) Patada a Cunningham y Flagrant 1 (12-22 s). 4) Cifras de Embiid (22-28 s).",
-    "cierre": "Repetición del empujón.",
-    "clips": "Bleacher Report: https://www.youtube.com/shorts/0s0a6y81OtI (Short, baja resolución probable). Buscar highlights oficiales NBA en 1080p; sin confirmar.",
-    "grafismos": "Cara a cara Embiid vs Smith; contador de técnicas; ficha de sanción.",
-    "titulo_yt": "Embiid got a TECH for this shove 😳",
-    "descripcion": "Joel Embiid and Tolu Smith get heated in Sixers-Pistons 😳",
-    "hashtags": "#joelembiid #76ers #nba #basketball #shorts",
-    "musica": "Tema de tensión del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Las fuentes discrepan en el minuto exacto del incidente. Quién empujó primero: Smith según los medios; no lo afirmes sin ver el vídeo. Clip sin 1080p confirmado.",
-    "analizado": "2026-11-06T03:10:00Z"
-  },
-  "9de4371e78": {
-    "titular": "LeBron y Luka mandan cartas de cese a Bron AI por usar su imagen en un anuncio de apuestas",
-    "formato": "noticia viral",
-    "resumen": "El 4 de noviembre de 2026 el CEO de Bron AI, Anish Gupta, publicó en X un anuncio con un doble de LeBron con camiseta del 23 y 'Bron'. El equipo legal de LeBron envió una carta de cese y desistimiento (Front Office Sports la obtuvo) y un representante de Luka Dončić confirmó que él también envió otra. Las publicaciones se retiraron de X y Gupta respondió con un vídeo anunciando un cambio de nombre.",
-    "por_que": "Mezcla dos superestrellas, apuestas, IA y una respuesta troll de la empresa: es una noticia de esta semana que se entiende en 5 segundos.",
-    "datos_clave": [
-      "Carta de LeBron citando su acuerdo exclusivo con Polymarket y que el anuncio sugiere que apuesta en baloncesto, algo que prohíbe la NBA (Front Office Sports, Yahoo Sports)",
-      "Un representante de Dončić confirmó otra carta de cese (Front Office Sports)",
-      "Bron AI pertenece a PlayVision Inc., fundada en 2025 y respaldada por Y Combinator (Inc.)",
-      "Gupta: 'We heard y'all loud and clear, so we went back in the arena' (Yahoo Sports)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/bron-ai-fires-back-hysterical-225837647.html"
-      },
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/lebron-james-demands-ai-betting-161149843.html"
-      },
-      {
-        "n": "Inc.",
-        "u": "https://www.inc.com/liyana-illyas/lebron-james-y-combinator-startup-cease-and-desist-may-have-been-point/91431970"
-      }
-    ],
-    "potencial": 7,
-    "duracion": "20-30",
-    "fotograma1": "Captura del anuncio con el doble de LeBron con el 23 y texto enorme 'CEASE & DESIST 😳' sobre las caras de LeBron y Luka",
-    "gancho": "LeBron and Luka just sued… a fake LeBron.",
-    "estructura": "1) El anuncio con el doble (0-7 s). 2) La carta y el motivo Polymarket (7-15 s). 3) Luka también envía la suya (15-21 s). 4) El vídeo troll de Gupta y el cambio de nombre (21-30 s).",
-    "cierre": "Vuelve al doble de LeBron con el sello 'DELETED' para enlazar con el primer plano.",
-    "clips": "Vídeo de la noticia https://www.youtube.com/watch?v=zDls7qHHH4E ; https://www.youtube.com/watch?v=eq_9NkgLzZU ; https://www.youtube.com/shorts/fLqz7m6LA34 (listados en el radar; resolución 1080p+ NO verificada, y el anuncio original solo está en X)",
-    "grafismos": "1) Ficha de la carta con la cita clave en el segundo 8. 2) Cara a cara LeBron-Luka con el sello 'C&D' en el segundo 15. 3) Cronología 4 nov anuncio / 5 nov cartas / 6 nov cambio de nombre. 4) Cita de Gupta al final.",
-    "titulo_yt": "LeBron & Luka SENT LEGAL LETTERS to this fake LeBron 😳",
-    "descripcion": "LeBron James and Luka Doncic hit Bron AI with cease-and-desist letters ⚖️🏀",
-    "hashtags": "#lebronjames #lukadoncic #lakers #nba #shorts",
-    "musica": "Canción de tono humorístico del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No afirmar que hay demanda: solo cartas de cese. No decir cuál será el nuevo nombre. Los clips de terceros pueden dar problemas de copyright; el anuncio original solo está en X.",
-    "analizado": "2026-11-07T18:55:00+00:00"
-  },
-  "9912f9e86d": {
-    "titular": "Luka mete 53 a los Blazers líderes del Oeste y promedia más de 40 puntos",
-    "formato": "INSANE",
-    "resumen": "El 6 de noviembre de 2026 Luka Dončić anotó 53 puntos (récord de la temporada) en el 124-118 de los Lakers sobre los Trail Blazers, líderes del Oeste, tras remontar 16 puntos. Fue su cuarto partido seguido con 40 o más y el sexto en los diez primeros. Promedia 40,1 puntos y se une a Wilt Chamberlain como único jugador con 40+ de media en sus nueve primeros partidos.",
-    "por_que": "Un jugador anotando 40 por partido y comparado con Wilt es un titular que para el dedo; el MVP es tema de debate constante.",
-    "datos_clave": [
-      "53 puntos, 5 rebotes y 5 asistencias; Lakers 124-118 Blazers (ESPN, Yahoo)",
-      "4.º partido seguido con 40+; 6.º en los 10 primeros (ESPN)",
-      "Promedio de 40,1 puntos, igualado con Wilt Chamberlain en los 9 primeros partidos (ESPN)",
-      "Remontada de 16 puntos; tiro en la zona a 27 s del final (ESPN)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers"
-      },
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/luka-doncic-scores-53-points-070913550.html"
-      },
-      {
-        "n": "ABC7",
-        "u": "https://abc7.com/post/luka-doncics-53-point-explosion-pushes-scoring-average-past-40-lakers-roll/20021920/"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "20-30",
-    "fotograma1": "Luka celebrando tras un triple, con contador enorme '53 PTS' y debajo '40.1 PPG'",
-    "gancho": "Luka is averaging OVER 40 points. Only Wilt did this.",
-    "estructura": "1) Triple clave y contador 53 (0-6 s). 2) Remontada de 16 puntos (6-14 s). 3) Comparación con Wilt y promedio (14-22 s). 4) Jumper a 27 s del final (22-30 s).",
-    "cierre": "Termina en el contador de 40.1 de promedio, igual que el primer fotograma.",
-    "clips": "https://www.youtube.com/shorts/_cX9FzfLLe4 ; https://www.youtube.com/shorts/2HQHupxGJsM (del radar; resolución 1080p+ NO verificada; buscar highlights completos oficiales de la NBA)",
-    "grafismos": "1) Contador 53 puntos en el segundo 2. 2) Gráfico Luka vs Wilt (40+ en 9 primeros partidos) en el segundo 15. 3) Barra de la remontada de 16 puntos. 4) Racha de 4 partidos de 40+.",
-    "titulo_yt": "Luka Doncic just put up 53 on the #1 seed 💀",
-    "descripcion": "Luka Doncic drops 53 and joins Wilt Chamberlain in the record books 🔥",
-    "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
-    "musica": "Tema intenso del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No usar 'MVP lock' como hecho: es opinión. Los clips de la NBA pueden dar problemas de copyright.",
-    "analizado": "2026-11-07T18:55:00+00:00"
-  },
-  "edeaf3869a": {
-    "titular": "LeBron vuelve a Cleveland con los Sixers: 8 puntos, 6 pérdidas y pitos mezclados con ovación",
-    "formato": "noticia viral",
-    "resumen": "El 6 de noviembre de 2026, en su regreso a Cleveland con los 76ers, LeBron James fue recibido con ovaciones y algunos abucheos. Anotó 8 puntos con 3 de 12 en tiros y 6 pérdidas en la derrota 119-95 ante los Cavaliers, que cortaron la racha de cinco victorias de Filadelfia. Donovan Mitchell hizo 23 y Evan Mobley 22. LeBron admitió: «I did not feel in a good rhythm offensively».",
-    "por_que": "El regreso emocional de LeBron a su casa que acaba fatal sigue un guion que engancha, con una cita del propio jugador.",
-    "datos_clave": [
-      "8 puntos, 3/12 en tiros, 6 pérdidas (ESPN, Türkiye Today)",
-      "Cavaliers 119-95 Sixers; fin de racha de 5 victorias de Filadelfia (ESPN/Yahoo)",
-      "Mitchell 23 y Mobley 22 (Türkiye Today)",
-      "Cita: «I did not feel in a good rhythm offensively» (ESPN)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nba/story/_/id/50405401/lebron-james-find-good-rhythm-cleveland-return"
-      },
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/cavs-thump-76ers-james-return-042638628.html"
-      },
-      {
-        "n": "Al Jazeera",
-        "u": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball"
-      }
-    ],
-    "potencial": 7,
-    "duracion": "25-35",
-    "fotograma1": "LeBron en el túnel de Cleveland con texto enorme 'HOMECOMING GONE WRONG 💔' y '8 PTS · 6 TO'",
-    "gancho": "LeBron went home… and it was a disaster.",
-    "estructura": "1) Presentación con ovación y pitos (0-8 s). 2) Estadística 3/12 y 6 pérdidas (8-16 s). 3) Marcador 119-95 (16-24 s). 4) Cita de LeBron (24-32 s).",
-    "cierre": "Vuelve a la presentación inicial con el contador final de 8 puntos.",
-    "clips": "Buscar en YouTube highlights oficiales NBA/ESPN del Sixers-Cavs del 6-nov-2026 y la rueda de prensa de LeBron (1080p+ NO verificado; no hay enlace concreto aún)",
-    "grafismos": "1) Ficha estadística de LeBron (8 pts, 3/12, 6 TO) en el segundo 9. 2) Marcador 119-95 con la racha cortada. 3) Cita de LeBron en pantalla. 4) Cara a cara con Mitchell y Mobley.",
-    "titulo_yt": "LeBron's Cleveland return went WRONG 💔",
-    "descripcion": "LeBron James struggles in his return to Cleveland as the Cavs rout the Sixers 😳",
-    "hashtags": "#lebronjames #sixers #cavaliers #nba #shorts",
-    "musica": "Cinderella de Mac Miller",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Sin clip concreto verificado en 1080p. Evitar tono burlón: usar tono neutro con la cita de LeBron.",
-    "analizado": "2026-11-07T18:55:00+00:00"
-  },
-  "88d2136dbd": {
-    "titular": "Doncic mete 40 otra vez y ya es el único Laker con 6 partidos seguidos de 35+ junto a Kobe y Baylor",
-    "formato": "INSANE",
-    "resumen": "Luka Doncic anotó 40 puntos, 9 rebotes y 7 asistencias en la victoria de los Lakers por 116-103 en Sacramento (4 de noviembre de 2026), con lo que los Lakers quedan 7-2. Antes había metido 42 puntos y 13 asistencias en el 138-117 ante los Heat (2 de noviembre). Según AP, es el único jugador de los Lakers con seis partidos seguidos de 35+ puntos aparte de Kobe Bryant y Elgin Baylor.",
-    "por_que": "Un jugador estrella en racha histórica con cifras que se entienden en un segundo y comparación directa con Kobe, el nombre que más para el dedo en EE. UU.",
-    "datos_clave": [
-      "40 pts, 9 reb, 7 ast vs Kings, 116-103, 4-nov-2026 (AP/ABC7)",
-      "42 pts, 13 ast, 7 reb vs Heat, 138-117, 2-nov-2026 (AP/ABC30)",
-      "Seis partidos seguidos de 35+, solo Kobe y Baylor antes (AP)",
-      "Lakers 7-2 (AP)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "AP vía ABC7",
-        "u": "https://abc7.com/post/luka-doncic-puts-40-torrid-stretch-continues-lakers-win/20017197/"
-      },
-      {
-        "n": "AP vía ABC30",
-        "u": "https://abc30.com/post/luka-doncic-puts-40-torrid-stretch-continues-lakers-win/20017197/"
-      },
-      {
-        "n": "AP vía ABC30 (Heat)",
-        "u": "https://abc30.com/post/luka-doncic-scores-42-points-another-brilliant-game-leading-lakers-past-heat-138-117/20010582/"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "20-40",
-    "fotograma1": "Doncic armando el step-back de tres en plano cerrado, con el texto enorme 'KOBE. BAYLOR. LUKA.' y un contador de 6 partidos seguidos de 35+",
-    "gancho": "Only two Lakers ever did this... and Luka just joined them.",
-    "estructura": "1) Gancho con el mejor triple del partido ante Kings. 2) Gráfico con los seis partidos seguidos de 35+. 3) Jugadas de los 42 ante Heat. 4) Cara a cara con Kobe y Baylor. 5) Último triple y vuelta al texto del inicio.",
-    "cierre": "Termina con el mismo triple del primer plano en bucle y la pregunta '35+... how many more?', para que enlace con el gancho.",
-    "clips": "https://www.youtube.com/watch?v=3cnDTxMx3QE (NBA on ESPN, 40 pts vs Kings); https://www.youtube.com/watch?v=nX2ksTFuqwU (House of Highlights); https://www.youtube.com/watch?v=jGcOFY0Sxz8 (highlights completos 4-nov). Calidad 1080p no comprobada: confirmar al descargar.",
-    "grafismos": "1) Contador animado de 35+ puntos seguidos (0:00-0:05). 2) Cara a cara Kobe/Baylor/Luka con el récord (0:12). 3) Ficha de línea 40/9/7 (0:08). 4) Marcador 7-2 de los Lakers al cierre.",
-    "titulo_yt": "Luka Doncic just did what only Kobe did 😳",
-    "descripcion": "Luka Doncic keeps cooking for the Lakers 🔥",
-    "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
-    "musica": "Canción de ritmo alto del catálogo del canal (trap/hype)",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "La racha de 6 partidos de 35+ es lo que cuenta AP; no decir 'récord de la franquicia'. Los promedios de temporada no están contrastados: no ponerlos. Clips de la NBA: posible copyright.",
-    "analizado": "2026-11-08T12:30:00+00:00"
-  },
-  "b763d8f1fa": {
-    "titular": "Mason McCormick lanza de cabeza a Jared Verse en un punto extra y Verse estalla",
-    "formato": "noticia viral",
-    "resumen": "El 1 de noviembre de 2026, en la victoria de los Steelers 27-6 sobre los Browns, el guard Mason McCormick derribó a Jared Verse (Browns) en un intento de punto extra y recibió un castigo de 15 yardas por unnecessary roughness. Verse había hablado mucho durante la semana y después criticó la jugada; McCormick dijo que seguía su asignación. Un titular de Yahoo afirma que la NFL no multó a McCormick, pero no hay segunda fuente.",
-    "por_que": "Un placaje viral con trash talk previo y respuesta del propio jugador: pelea, drama y un remate fácil de entender en dos segundos.",
-    "datos_clave": [
-      "Steelers 27-6 Browns, 1-nov-2026 (Newsweek/HITC)",
-      "15 yardas por unnecessary roughness (Newsweek)",
-      "McCormick: seguía su asignación (Newsweek)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Newsweek",
-        "u": "https://newsweek.com/sports/nfl/steelers-og-goes-viral-for-body-slamming-trash-talking-browns-de-jared-verse-12647997"
-      },
-      {
-        "n": "HITC",
-        "u": "https://www.hitc.com/jared-verse-breaks-silence-after-mason-mccormick-body-slams-him-during-browns-27-6-loss/"
-      },
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/mason-mccormick-wasnt-fined-dumping-214557725.html"
-      }
-    ],
-    "potencial": 7,
-    "duracion": "20-40",
-    "fotograma1": "Verse boca abajo en el aire en el momento del derribo, con el texto grande 'TALKED ALL WEEK 💀'",
-    "gancho": "Jared Verse talked all week... then this happened.",
-    "estructura": "1) Derribo en cámara lenta. 2) Cita de Verse sobre el trash talk de la semana. 3) Reacción de Verse tras el partido (YouTube 'Uncalled For'). 4) Respuesta de McCormick. 5) Repetición del derribo.",
-    "cierre": "Vuelve al derribo del inicio con el marcador 27-6 en grande.",
-    "clips": "https://www.youtube.com/watch?v=mOfri41kghc (derribo); https://www.youtube.com/watch?v=BBlQNUuxGi8 (McCormick responde); https://www.youtube.com/shorts/KeHC0blx9vc (Verse). Resolución 1080p no comprobada.",
-    "grafismos": "1) Marcador 27-6 (0:00). 2) Cita de Verse en pantalla (0:08). 3) Flag '15 yds' (0:05). 4) Ficha cara a cara Verse vs McCormick (0:15).",
-    "titulo_yt": "Jared Verse got SLAMMED after talking trash all week 😳",
-    "descripcion": "Mason McCormick dumped Jared Verse on an extra point 😳",
-    "hashtags": "#jaredverse #steelers #browns #nfl #football",
-    "musica": "Tema agresivo del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No decir que 'no fue multado' sin segunda fuente (solo Yahoo). No afirmar quién empezó. Algunos resultados mezclan otro Browns-Steelers: verificar fecha del clip. Copyright NFL.",
-    "analizado": "2026-11-08T12:30:00+00:00"
-  },
-  "7d739cc1cf": {
-    "titular": "Myles Garrett vuelve con los Rams tras 7 partidos fuera por la rodilla",
-    "formato": "noticia viral",
-    "resumen": "Myles Garrett, defensive end de los Rams, volvería este domingo (8 de noviembre de 2026) en Washington tras perderse siete partidos por una lesión de rodilla operada en septiembre. Según los reportes, la lesión se fue acumulando en el campo de entrenamiento y empeoró en Melbourne. Todavía no ha jugado junto a Aaron Donald; Garrett dijo que los ataques tendrán que 'elegir su veneno'.",
-    "por_que": "Dos de los mejores pass rushers del siglo juntos por primera vez: el cara a cara con Aaron Donald engancha a cualquier fan de la NFL.",
-    "datos_clave": [
-      "7 partidos de baja (Baltimore Sun/AP)",
-      "Operado de la rodilla en septiembre (FantasyNerds)",
-      "Aún no ha jugado con Aaron Donald (AP)",
-      "Cita: 'offenses really have to pick their poison' (AP)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "AP vía News4Jax",
-        "u": "https://www.news4jax.com/sports/2026/11/06/myles-garrett-expected-to-return-for-rams-this-weekend-after-7-game-injury-absence/"
-      },
-      {
-        "n": "TSN",
-        "u": "https://www.tsn.ca/nfl/article/garrett-returning-to-rams-practice-after-seven-game-absence-because-of-knee-injury/"
-      },
-      {
-        "n": "theScore",
-        "u": "https://www.thescore.com/nfl/news/3642978"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "20-40",
-    "fotograma1": "Garrett y Donald lado a lado, texto grande 'PICK YOUR POISON ☠️'",
-    "gancho": "Offenses really have to pick their poison.",
-    "estructura": "1) Cita de Garrett. 2) Gráfico de 7 partidos de baja. 3) Jugadas de Garrett. 4) Jugadas de Donald. 5) Cara a cara.",
-    "cierre": "Vuelve a la cita del inicio sobre el cara a cara de ambos.",
-    "clips": "https://www.youtube.com/watch?v=TimayRlsIGk (Stephen A. sobre Donald-Garrett); https://www.youtube.com/watch?v=na06IK17Xe8 (Donald sobre Garrett). No he localizado la rueda de prensa original de Garrett; resolución no comprobada.",
-    "grafismos": "1) Contador '7 games' (0:03). 2) Cita en pantalla (0:00). 3) Ficha comparada Garrett/Donald (0:15).",
-    "titulo_yt": "Myles Garrett is BACK for the Rams 😳",
-    "descripcion": "Myles Garrett returns next to Aaron Donald 💀",
-    "hashtags": "#mylesgarrett #aarondonald #rams #nfl #football",
-    "musica": "Tema oscuro/hype del catálogo del canal",
-    "caducidad": "🔴 publicar antes del domingo 8-nov (partido)",
-    "avisos": "Es un regreso 'esperado', no confirmado hasta el partido. No dar estadísticas de Garrett o Donald sin comprobarlas. Falta clip de calidad de la cita.",
-    "analizado": "2026-11-08T12:30:00+00:00"
-  },
-  "0c8092ae5a": {
-    "titular": "Curry mete 41 puntos y los Warriors ganan en la prórroga a los Magic (7.ª seguida)",
-    "formato": "noticia viral",
-    "resumen": "El 7 de noviembre de 2026, en el Chase Center, los Warriors ganaron 126-119 en la prórroga a los Magic. Stephen Curry firmó 41 puntos, 6 rebotes y 6 asistencias, y anotó 17 de ellos en los últimos siete minutos (ESPN). Orlando había remontado de -16 a +6 en el cuarto periodo antes de que Curry tirase del equipo. Es la séptima victoria seguida de Golden State tras empezar 0-3.",
-    "por_que": "Curry carga con el equipo en un final de locos y hay un récord de por medio (más partidos de 40+ puntos con más de 35 años); es fácil de entender en 30 s y los clips están disponibles.",
-    "datos_clave": [
-      "41 pts, 6 reb, 6 ast; 17 de los 41 en los últimos 7 minutos (ESPN)",
-      "Es su 16.º partido de 40+ puntos pasados los 35 años, récord NBA (ESPN)",
-      "Golden State, segundo equipo en encadenar 7 victorias tras un 0-3 inicial, junto a los Celtics 1950-51 (ESPN)",
-      "Canasta que puso 110-108 con 25,2 s; Orlando empató con un rebote ofensivo y forzó la prórroga (ESPN)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nba/story/_/id/50417316/remarkable-curry-latest-history-making-night-keeps-warriors-rolling"
-      },
-      {
-        "n": "NBA.com Warriors",
-        "u": "https://www.nba.com/warriors/news/gameday-recap-20261107"
-      },
-      {
-        "n": "The Washington Post (AP)",
-        "u": "https://www.washingtonpost.com/sports/nba/2026/11/07/magic-warriors-score/8ee48f14-db2e-11f1-930a-e08f8086f5ac_story.html"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "20-30",
-    "fotograma1": "Plano de Curry celebrando tras un triple en la prórroga, con texto enorme '41 PTS 🔥' y debajo '16th 40-pt game after 35'",
-    "gancho": "Steph Curry just did it again.",
-    "estructura": "1) Plano de Curry con el marcador 0-3 → 7 victorias (0-5 s). 2) Remontada de Orlando de -16 a +6 (5-12 s). 3) Canastas clave de Curry en los últimos minutos (12-22 s). 4) Prórroga y récord de 40+ con más de 35 años (22-30 s). Minutos exactos a fijar al ver los vídeos.",
-    "cierre": "Vuelve al plano inicial de Curry con el contador de 41 puntos y el récord, para que se repita el bucle.",
-    "clips": "Highlights completos https://www.youtube.com/watch?v=mNYr5rutO0Q ; OT https://www.youtube.com/watch?v=Wr1dw6aQYXU ; postpartido https://www.youtube.com/watch?v=fVl2pDVJ4r8 ; récord 40+ https://www.youtube.com/watch?v=mGmFJNewwY8 (resolución 1080p+ sin comprobar; minutos clave por fijar)",
-    "grafismos": "1) Contador de puntos hasta 41 en la prórroga. 2) Gráfico 0-3 → 7 victorias seguidas. 3) Ficha 'Curry 40+ pts después de los 35: 16'. 4) Cronología del último cuarto (-16 a +6).",
-    "titulo_yt": "Steph Curry was UNSTOPPABLE in OT 🔥",
-    "descripcion": "Stephen Curry drops 41 as the Warriors win their 7th straight 🔥",
-    "hashtags": "#stephcurry #warriors #nba #basketball #shorts",
-    "musica": "Canción enérgica del catálogo del canal (hype/trap), no emocional",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "El marcador final varía: la mayoría de medios dan 126-119 y el recap de NBA.com 124-119; usar 126-119 (ESPN/AP) o no mostrarlo. No se ha verificado ningún récord frente a LeBron o Jordan. Los clips de la NBA pueden dar problemas de copyright.",
-    "analizado": "2026-11-08T17:30:00+00:00"
-  },
-  "42a28863da": {
-    "titular": "Jaylen Brown ignora a Tatum y los Celtics arrasan a los Sixers (123-101)",
-    "formato": "noticia viral",
-    "resumen": "El 10 de noviembre de 2026, en su primer partido contra los Celtics como jugador de los 76ers, Jaylen Brown ignoró a Jayson Tatum cuando este intentó saludarle antes del salto inicial. Boston ganó 123-101 en Filadelfia con 36 puntos de Paul George. Brown ya había dicho que no había hablado con Tatum antes del partido.",
-    "por_que": "Revancha, examigos que ya no se hablan y un saludo rechazado en directo: un momento que se entiende en un segundo y que ya circula por todas partes.",
-    "datos_clave": [
-      "Celtics 123, 76ers 101, 10-nov-2026 en Filadelfia (ESPN, NBA.com)",
-      "Paul George anotó 36 puntos (NBC Sports Philadelphia/ESPN)",
-      "Boston abrió el último cuarto con un 14-0 y subió al 1.º puesto del Este (NBA.com/recap)",
-      "Tyrese Maxey: 24 puntos para Filadelfia (ESPN)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN (marcador)",
-        "u": "https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers"
-      },
-      {
-        "n": "NBA.com Celtics",
-        "u": "https://www.nba.com/celtics/news/game-recap-keys-20261110-bosphi"
-      },
-      {
-        "n": "NBC Sports Philadelphia",
-        "u": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/live-updates-sixers-vs-celtics-jaylen-brown-jayson-tatum-paul-george/765634/"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "20-30",
-    "fotograma1": "Plano del saludo rechazado: Tatum con la mano levantada y Brown pasando de largo, con el texto grande «HE IGNORED HIM 😳» y el marcador 123-101 pequeño",
-    "gancho": "Jaylen Brown just walked right past Jayson Tatum.",
-    "estructura": "1) Clip del saludo ignorado (0-6 s). 2) Corte a Brown hablando de que no han hablado (6-14 s). 3) Resumen del partido con jugadas de Paul George en el 14-0 (14-24 s). 4) Brown sin chocar la mano con Tatum al acabar (24-30 s).",
-    "cierre": "Termina con el mismo plano del saludo ignorado, ahora con el marcador final 123-101 en pantalla, para enlazar con el principio.",
-    "clips": "Saludo ignorado: https://www.youtube.com/watch?v=E-pz5MRhksA ; https://www.youtube.com/watch?v=NSoVwSirnWc ; Brown tras el partido: https://www.youtube.com/watch?v=jdA-I1m0PYY ; post-partido sin chocar con Tatum: https://www.youtube.com/watch?v=w6egjwWvMS4. Minutos clave por localizar al editar.",
-    "grafismos": "1) Cara a cara Brown vs Tatum con años juntos en Boston (solo si se verifican las cifras). 2) Marcador final 123-101 al llegar al resumen. 3) Ficha de Paul George: 36 pts. 4) Cronología: pregame, 14-0 del último cuarto, final.",
-    "titulo_yt": "Jaylen Brown IGNORED Jayson Tatum 😳",
-    "descripcion": "Jaylen Brown snubs Jayson Tatum as the Celtics rout the Sixers 😳🔥",
-    "hashtags": "#jaylenbrown #jaytatum #celtics #nba #shorts",
-    "musica": "Cinderella de Mac Miller o tema tenso del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No afirmar el motivo de la ruptura entre ambos: no está confirmado. Resolución de los clips no comprobada (se ha de revisar que sean 1080p+). Varios son de canales de terceros: riesgo de copyright, preferir material de la NBA.",
-    "analizado": "2026-11-11T18:55:00+00:00"
-  },
-  "88a4ca7f29": {
-    "titular": "Cooper Flagg anota 43 y los Mavericks remontan a los Pacers (125-122)",
-    "formato": "INSANE",
-    "resumen": "El 9 de noviembre de 2026, Cooper Flagg firmó 43 puntos, su récord de la temporada, con 10 rebotes, 6 asistencias y 3 robos en la victoria de Dallas 125-122 ante Indiana. Anotó 30 de ellos tras el descanso y los Mavericks remontaron una desventaja de dos dígitos. Kyrie Irving sumó 35.",
-    "por_que": "Un chaval de 19 años que le gana un partido a la NBA con 43 puntos es historia viral inmediata y se ilustra muy bien con cifras.",
-    "datos_clave": [
-      "43 puntos, 16/25 en tiros, 3/6 en triples, 8/8 en libres, 10 reb, 6 ast, 3 robos (Mavs Moneyball)",
-      "30 de los 43 puntos, tras el descanso (Yahoo Sports)",
-      "Kyrie Irving: 35 puntos; Mavericks 125, Pacers 122 (NBA.com/Mavs, Dallas Weekly)",
-      "Quinto partido de 40+ de su carrera según ESPN (reportado, ver avisos)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nba/story/_/id/50440099/flagg-finishes-43-points-mavericks-outlast-pacers"
-      },
-      {
-        "n": "Mavs Moneyball",
-        "u": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/63809/mavericks-vs-pacers-recap-3-takeaways-from-dallas-thrilling-125-122-win-over-indiana"
-      },
-      {
-        "n": "NBA.com Mavs",
-        "u": "https://www.nba.com/mavs/news/monster-tandem-of-irving-flagg-push-mavericks-over-pacers"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "25-35",
-    "fotograma1": "Mate o triple de Flagg en el último cuarto, con el texto enorme «43 POINTS» y «AGE 19»",
-    "gancho": "Cooper Flagg just dropped 43 on Indiana.",
-    "estructura": "1) Mejor jugada de Flagg del final (0-5 s). 2) Contador de puntos subiendo hasta 43 (5-12 s). 3) Jugadas de la segunda parte: 30 puntos tras el descanso (12-24 s). 4) Cita del entrenador sobre Flagg (24-32 s).",
-    "cierre": "Vuelve a la jugada inicial con el contador congelado en 43.",
-    "clips": "Resumen completo: https://www.youtube.com/watch?v=RAPmPkOUf20 ; extendido: https://www.youtube.com/watch?v=y-jR93AytPc ; resumen Mavs: https://www.youtube.com/watch?v=JzYmV1wTDUs ; reacción: https://www.youtube.com/watch?v=Th8Rnarz-os. Minutos clave por localizar al editar.",
-    "grafismos": "1) Contador 0→43. 2) Ficha de Flagg con 10 reb, 6 ast, 3 robos. 3) Gráfico 13 antes del descanso / 30 después. 4) Cita de Dusty May en pantalla.",
-    "titulo_yt": "Cooper Flagg went OFF for 43 💀",
-    "descripcion": "Cooper Flagg drops 43 as the Mavs beat the Pacers 🔥",
-    "hashtags": "#cooperflagg #mavericks #nba #basketball #shorts",
-    "musica": "Tema de energía alta del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Distintas webs dan datos distintos sobre récords y totales históricos (p. ej. «n.º 3 de todos los tiempos antes de los 20»): no usarlos sin verificar en una fuente primaria. Resolución de los clips no comprobada; la NBA suele bloquear por copyright.",
-    "analizado": "2026-11-11T18:55:00+00:00"
-  },
-  "db8127adef": {
-    "titular": "Cousins traspasado a los Vikings: Mendoza será titular de los Raiders",
-    "formato": "noticia viral",
-    "resumen": "Los Raiders traspasaron a Kirk Cousins a los Vikings en la fecha límite de traspasos, el martes 10 de noviembre de 2026. El general manager John Spytek confirmó el cambio y dijo que Fernando Mendoza, número 1 del draft, «pasó todas las pruebas». Mendoza debutará como titular el domingo ante los Seahawks, campeones de la Super Bowl, en Las Vegas.",
-    "por_que": "El número 1 del draft por fin sale de titular y el rival es el campeón: curiosidad y debate garantizados entre aficionados de la NFL.",
-    "datos_clave": [
-      "Cousins, a los Vikings en la fecha límite (Bleacher Report, Fox News/OutKick)",
-      "Mendoza titular ante Seattle el domingo (Fox News/OutKick, Yahoo Sports)",
-      "Cousins: 2.340 yardas, 20 TD y 8 intercepciones esta temporada (Fox News/OutKick)",
-      "Los Seahawks son los campeones defensores y lideran la liga en defensa (Fox News/OutKick)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/raiders-gm-says-fernando-mendoza-122536895.html"
-      },
-      {
-        "n": "Bleacher Report",
-        "u": "https://bleacherreport.com/articles/25521149-fernando-mendoza-set-be-raiders-qb1-after-kirk-cousins-trade-vikings-nfl-deadline"
-      },
-      {
-        "n": "Las Vegas Review-Journal",
-        "u": "https://www.reviewjournal.com/sports/raiders/why-fernando-mendoza-is-replacing-kirk-cousins-as-raiders-qb-3912823/"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "20-30",
-    "fotograma1": "Mendoza lanzando con el casco del revés en el logo, texto grande «NO. 1 PICK FINALLY STARTS»",
-    "gancho": "The Raiders just traded their starting quarterback.",
-    "estructura": "1) Clip de la rueda de prensa de Spytek/Kubiak anunciando el cambio (0-8 s). 2) Imágenes de Mendoza en el equipo (8-16 s). 3) Ficha del rival: Seahawks, campeones (16-24 s). 4) Mensaje de Cousins a Mendoza si se localiza (24-30 s).",
-    "cierre": "Vuelve a la frase del arranque con el cartel del domingo: Mendoza vs Seahawks.",
-    "clips": "Anuncio del traspaso: https://www.youtube.com/watch?v=dOpPbw_pIRY ; Amy Trask: https://www.youtube.com/watch?v=FVyV9JllZpI ; Mendoza y Cousins: https://www.youtube.com/watch?v=3oGDd94LqyU. Resolución y minutos clave por comprobar.",
-    "grafismos": "1) Cara a cara Cousins → Vikings con flecha. 2) Ficha de Mendoza (n.º 1 del draft 2026). 3) Cita de Spytek «passed every test». 4) Cartel del partido Raiders–Seahawks, domingo.",
-    "titulo_yt": "The Raiders just TRADED Kirk Cousins 😳",
-    "descripcion": "Fernando Mendoza takes over as the Raiders QB1 🏈",
-    "hashtags": "#fernandomendoza #raiders #nfl #football #shorts",
-    "musica": "Tema épico del catálogo del canal",
-    "caducidad": "🔴 publicar antes del domingo 15 de noviembre (partido ante Seattle)",
-    "avisos": "Fuentes discrepan sobre si es la semana 9 o la 10; no poner el número de semana. No mencionar el contrato ni lo recibido por Cousins: no verificado. Resolución de los clips no comprobada.",
-    "analizado": "2026-11-11T18:55:00+00:00"
-  },
-  "fde5796bf0": {
-    "duracion": "20-40",
-    "analizado": "2026-11-12T07:55:00Z",
-    "titular": "Rex Ryan confirma que iba a pegar un puñetazo a Belichick antes del playoff de 2010",
-    "formato": "gracioso",
-    "resumen": "En el podcast Bussin' With The Boys, Taylor Lewan le preguntó a Rex Ryan por la historia que contó LaDainian Tomlinson: antes del playoff divisional de enero de 2011, Ryan prometió a sus jugadores darle un puñetazo a Bill Belichick. Ryan lo confirmó: «If you guys want me to, I'll punch him right in the face». El puñetazo nunca ocurrió y los Jets ganaron 28-21 en Foxborough.",
-    "por_que": "Es una anécdota contada por el propio protagonista, con remate y con Belichick de por medio: el tipo de historia tipo Shaq que engancha.",
-    "datos_clave": [
-      "Jets 28-21 Patriots en Foxborough el 16-01-2011 (CBS Sports, Awful Announcing)",
-      "Los Jets habían perdido 45-3 contra los Patriots esa misma temporada (Irish Star, Yahoo)",
-      "La historia la contó primero LaDainian Tomlinson (NFL.com)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Awful Announcing",
-        "u": "https://awfulannouncing.com/nfl/rex-ryan-how-close-punching-bill-belichick-face.html"
-      },
-      {
-        "n": "CBS Sports",
-        "u": "https://www.cbssports.com/nfl/news/tomlinson-rex-ryan-joked-about-punching-bill-belichick-in-the-face/"
-      },
-      {
-        "n": "NFL.com",
-        "u": "https://www.nfl.com/news/lt-rex-ryan-said-he-was-going-to-punch-bill-belichick-0ap1000000242538"
-      }
-    ],
-    "potencial": 7,
-    "fotograma1": "Plano de Rex Ryan en el podcast diciendo «I'll punch him right in the face», con el texto grande «RYAN vs BELICHICK» y una foto de Belichick",
-    "gancho": "I'll punch him right in the face.",
-    "estructura": "1) Gancho con la frase de Ryan. 2) Lewan sacando la historia de Tomlinson. 3) Ryan confirmándola y la reacción de los presentadores. 4) Resultado: Jets 28-21 en Foxborough.",
-    "cierre": "Terminar con la misma frase del principio tras el marcador final 28-21 para que se vuelva a ver.",
-    "clips": "Pendiente: no se ha localizado el enlace exacto del episodio de Bussin' With The Boys en YouTube; buscarlo en el canal del podcast y comprobar que sea 1080p+. Para el playoff de 2011, buscar el resumen oficial de la NFL.",
-    "grafismos": "Contador 45-3 → 28-21 (al mencionar el playoff); cita animada de Ryan; cara a cara Ryan vs Belichick; cronología 2010-2011.",
-    "titulo_yt": "Rex Ryan was ready to PUNCH Belichick 😭",
-    "descripcion": "Rex Ryan confirms he almost fought Bill Belichick 🥊😭",
-    "hashtags": "#rexryan #billbelichick #nfl #football #shorts",
-    "musica": "Una de humor/épica del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Era una amenaza dicha a los jugadores, no ocurrió. No decir que hubo pelea. Comprobar los derechos del podcast."
-  },
-  "d4b5ce140e": {
-    "duracion": "20-40",
-    "analizado": "2026-11-12T07:55:00Z",
-    "titular": "Puka Nacua, de baja al menos 4 semanas: los Rams no lo ponen en IR por ahora",
-    "formato": "noticia viral",
-    "resumen": "Puka Nacua se lesionó en la última jugada ofensiva de la victoria de los Rams 20-13 en Washington (semana 9): esguince de MCL y PCL y turf toe. McVay dijo el lunes que probablemente iría a IR, pero el miércoles 11 de noviembre aclaró que por ahora no, por cuestiones de gestión de plantilla. Se espera que falte al menos cuatro semanas.",
-    "por_que": "Lesión de una estrella de la liga con giro inesperado: afecta a fantasy y a las apuestas, y es tema de conversación inmediato.",
-    "datos_clave": [
-      "Esguince MCL/PCL y turf toe (ESPN, CBS Sports)",
-      "Baja de al menos 4 semanas (Yahoo, ESPN)",
-      "Rams 20-13 en Washington; se lesionó en la última jugada ofensiva (Yahoo)",
-      "Sin IR por ahora; regreso estimado semana 14-15, sin fecha oficial (Yahoo, PFT)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nfl/story/_/id/50435879/rams-nacua-likely-hit-ir-mcl-pcl-sprain-turf-toe"
-      },
-      {
-        "n": "CBS Sports",
-        "u": "https://www.cbssports.com/nfl/news/rams-all-pro-puka-nacua-likely-to-go-on-injured-reserve/"
-      },
-      {
-        "n": "NBC Sports PFT",
-        "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-puka-nacua-injury-id-be-lying-if-i-said-i-wasnt-questioning-that-play-call"
-      }
-    ],
-    "potencial": 6,
-    "fotograma1": "Jugada de la lesión de Nacua con texto grande «PUKA OUT 4+ WEEKS»",
-    "gancho": "Puka Nacua is out. And the Rams won't even put him on IR.",
-    "estructura": "1) Jugada de la lesión. 2) Parte médico en gráfico. 3) Clip de McVay en rueda de prensa. 4) Qué significa para los Rams.",
-    "cierre": "Volver a la jugada de la lesión con el contador de semanas.",
-    "clips": "Pendiente: buscar en YouTube el vídeo de la jugada (Rams-Commanders, semana 9) y la rueda de prensa de McVay del 11-11 en 1080p+; no se han podido verificar enlaces.",
-    "grafismos": "Ficha de Nacua con sus cifras (verificar antes de poner); contador «4+ semanas»; cronología lunes IR → miércoles sin IR.",
-    "titulo_yt": "Puka Nacua INJURED: Rams lose their star 😳",
-    "descripcion": "Puka Nacua out at least 4 weeks 💔",
-    "hashtags": "#pukanacua #rams #nfl #football #shorts",
-    "musica": "Cinderella de Mac Miller",
-    "caducidad": "🔴 publicar antes del próximo partido de los Rams",
-    "avisos": "Tono sobrio. Fecha de regreso no confirmada: no poner semana concreta. Posible cambio de la decisión de IR."
-  },
-  "735a3c9485": {
-    "duracion": "20-40",
-    "analizado": "2026-11-12T07:55:00Z",
-    "titular": "Kenyon Martin: «El nepotismo es real» con Bronny y LeBron",
-    "formato": "noticia viral",
-    "resumen": "En el podcast TFU, Kenyon Martin dijo que con Bronny y LeBron «nepotism is real. We all know it and we all would do it». Considera que Bronny no estaba listo y que habría ganado con otro año en USC, pero también que el trato es injusto para él. Bronny fue elegido el puesto 55 del draft de 2024 por los Lakers.",
-    "por_que": "Combina LeBron, Bronny y una opinión polémica de un excampeón: gancho clásico de debate.",
-    "datos_clave": [
-      "Bronny, 55.º del draft de 2024 (Yahoo, Athlon)",
-      "Cita: «nepotism is real. We all know it and we all would do it» (Yahoo)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/nepotism-real-kenyon-martin-admits-042040224.html"
-      },
-      {
-        "n": "Athlon Sports",
-        "u": "https://athlonsports.com/nba/nepotism-is-real-kenyon-martin-admits-bronny-james-was-never-ready-for-the-nba"
-      }
-    ],
-    "potencial": 5,
-    "fotograma1": "Kenyon Martin hablando con el texto grande «NEPOTISM IS REAL» y foto de Bronny",
-    "gancho": "Nepotism is real. We all know it.",
-    "estructura": "1) Cita de Martin. 2) Su defensa de LeBron. 3) «Unfair to the kid». 4) Dato del puesto 55.",
-    "cierre": "Volver a la cita inicial con la frase «unfair to the kid».",
-    "clips": "Pendiente: no se ha localizado el vídeo del podcast TFU en YouTube; buscarlo y comprobar la calidad (1080p+). Solo hay texto verificado.",
-    "grafismos": "Cita animada; ficha de Bronny (puesto 55, 2024); cara a cara Martin/LeBron.",
-    "titulo_yt": "Kenyon Martin on Bronny: 'Nepotism is real' 😳",
-    "descripcion": "Kenyon Martin speaks on Bronny and LeBron 🏀",
-    "hashtags": "#bronnyjames #lebronjames #kenyonmartin #nba #shorts",
-    "musica": "Cinderella de Mac Miller",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Citas literales solo las confirmadas por Yahoo; el resto, paráfrasis. Sin clip verificado, el potencial es medio."
-  },
-  "f5036c791f": {
-    "duracion": "20-40",
-    "analizado": "2026-11-12T07:55:00Z",
-    "titular": "Bronca masiva en el 49ers-Raiders: 11 detenidos y 45 expulsados (cifras iniciales)",
-    "formato": "noticia viral",
-    "resumen": "Tras el 49ers-Raiders del 8 de noviembre de 2026 en el Levi's Stadium (38-17), la policía de Santa Clara informó de 11 detenidos y 45 expulsados por peleas en grada, accesos y aparcamientos. Hay vídeos virales, entre ellos un hombre inconsciente en el aparcamiento. Los 49ers hablaron de «tolerancia cero». Un titular de CBS Sports habla de 31 detenidos y 93 expulsados, cifras posteriores que no he podido comprobar.",
-    "por_que": "Peleas de aficionados con vídeos virales y rivalidad histórica: contenido que se comparte solo.",
-    "datos_clave": [
-      "11 detenidos y 45 expulsados según la primera cifra policial (Review-Journal, ABC7, Yahoo)",
-      "Partido 49ers 38-17 Raiders, 8-11-2026 (resúmenes)",
-      "Posible actualización: 31 detenidos y 93 expulsados (titular de CBS Sports, sin verificar el texto)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "ABC7 San Francisco",
-        "u": "https://abc7news.com/post/san-francisco-49ers-las-vegas-raiders-fans-ejected-arrested-violent-fights-levis-stadium-santa-clara-police/20029103/"
-      },
-      {
-        "n": "Las Vegas Review-Journal",
-        "u": "https://www.reviewjournal.com/sports/raiders/11-arrested-45-ejected-from-raiders-49ers-game-as-videos-of-fan-brawls-go-viral-3912317/"
-      },
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/49ers-raiders-fans-ejected-arrested-172410599.html"
-      }
-    ],
-    "potencial": 5,
-    "fotograma1": "Imagen del vídeo viral de la pelea con el texto grande «11 ARRESTED • 45 EJECTED»",
-    "gancho": "11 arrested. 45 ejected. This is what happened at Levi's Stadium.",
-    "estructura": "1) Cifras en gráfico. 2) Clips de las peleas (solo de medios). 3) Comunicado de los 49ers. 4) Contexto rivalidad.",
-    "cierre": "Volver a las cifras con el dato actualizado, si se confirma.",
-    "clips": "Hay un Short en YouTube (https://www.youtube.com/shorts/6CGUsLCn0q4) pero es vertical y de baja calidad: no sirve. Buscar la versión de los noticieros locales (KTVU, ABC7) en 1080p+; no verificado.",
-    "grafismos": "Contador de detenidos/expulsados; cronología del día; mapa de Levi's Stadium.",
-    "titulo_yt": "49ers vs Raiders fans went WILD 😳",
-    "descripcion": "Chaos at Levi's Stadium after 49ers-Raiders 🏈",
-    "hashtags": "#49ers #raiders #nfl #football #shorts",
-    "musica": "Una del catálogo con tono tenso",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Violencia real: tono sobrio, sin bromas. Actualizar cifras si CBS las confirma. No mostrar caras de aficionados identificables. Riesgo de copyright y de contenido sensible en YouTube."
-  },
-  "2635124d0a": {
-    "titular": "Marcus Smart, expulsado por lanzar un puñetazo a Charles Bassey en el Rockets-Warriors",
-    "formato": "noticia viral",
-    "resumen": "El 11 de noviembre de 2026, en Houston, Marcus Smart lanzó un gancho de derecha que rozó la nariz de Charles Bassey. Tras revisar la jugada le pusieron una falta flagrante 2 y fue expulsado. Los Rockets ganaron 115-108 y cortaron la racha de 8 victorias de los Warriors. Smart dijo que se enredaron y que su codo, lesionado antes, se dobló; Bassey dijo que Smart jugaba sucio «todo el partido».",
-    "por_que": "Pelea con puñetazo y expulsión entre dos equipos de moda, con versiones enfrentadas de los dos jugadores: se entiende sin contexto y genera debate en comentarios.",
-    "datos_clave": [
-      "Flagrant 2 y expulsión tras revisión de la jugada (TSN/AP)",
-      "Rockets 115-108 Warriors, 11-nov-2026; fin de la racha de 8 victorias de GSW (Yahoo/AP, ESPN)",
-      "Curry se fue en el primer cuarto con molestias abdominales tras 6 minutos y 3 puntos (Yahoo/AP)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "TSN (AP/CP)",
-        "u": "https://www.tsn.ca/nba/article/rockets-smart-ejected-for-throwing-punch-at-warriors-charles-bassey-n1-50459125/"
-      },
-      {
-        "n": "ESPN (crónica)",
-        "u": "https://www.espn.com/nba/recap?gameId=401909974"
-      },
-      {
-        "n": "Yahoo Sports (AP)",
-        "u": "https://ca.sports.yahoo.com/news/rockets-beat-warriors-115-108-051956633.html"
-      }
-    ],
-    "potencial": 7,
-    "duracion": "20-30",
-    "fotograma1": "Plano de la jugada en el instante del gancho de Smart, con texto grande «SMART THREW A PUNCH 😳» (sin emoji pegado: usar icono gráfico) y la cara de Bassey",
-    "gancho": "Marcus Smart just threw a punch at Charles Bassey.",
-    "estructura": "1) Jugada del puñetazo a cámara lenta (0-6 s). 2) Revisión y flagrant 2, expulsión (6-12 s). 3) Versión de Smart y de Bassey en declaraciones (12-24 s). 4) Marcador final y racha cortada (24-30 s).",
-    "cierre": "Vuelve a la jugada del puñetazo a velocidad normal con la pregunta «Who's right?», que enlaza con el primer fotograma.",
-    "clips": "Vídeo de ESPN en YouTube enlazado por el radar: https://www.youtube.com/watch?v=oNx2FFBvSzs (calidad 1080p NO comprobada desde la sesión; verificar antes de editar). No se han podido comprobar más clips.",
-    "grafismos": "1) Ficha Smart vs Bassey al inicio. 2) Etiqueta «Flagrant 2 = EJECTED» en el momento de la revisión. 3) Marcador 115-108 y contador «8-game streak: over» al final.",
-    "titulo_yt": "Marcus Smart got EJECTED for this 😳",
-    "descripcion": "Marcus Smart throws a punch at Charles Bassey and gets ejected 🥊😳",
-    "hashtags": "#marcussmart #rockets #nba #basketball #shorts",
-    "musica": "Tema de tensión del catálogo del canal (no emocional)",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No afirmar que el puñetazo conectó: las fuentes dicen que rozó la nariz. Las declaraciones de Smart y Bassey vienen de la crónica de AP; no inventar citas. Clip de la NBA/ESPN: riesgo de copyright.",
-    "analizado": "2026-11-12T19:00:00Z"
-  },
-  "1fb1f90dcd": {
-    "titular": "Cooper Flagg firma 43 puntos y es el segundo adolescente con un 40-10-5",
-    "formato": "INSANE",
-    "resumen": "El 9 de noviembre de 2026 los Mavericks ganaron 125-122 a los Pacers. Cooper Flagg anotó 43 puntos (30 en la segunda mitad), con 10 rebotes, 6 asistencias y 3 robos, y 16 de 25 en tiros. Es el segundo adolescente con un partido de 40 puntos, 10 rebotes y 5 asistencias. Kyrie Irving añadió 35 y Dallas remontó 13 puntos.",
-    "por_que": "Un chaval de 19 años haciendo historia con una remontada: cifras redondas, fáciles de ilustrar y comparables con leyendas.",
-    "datos_clave": [
-      "43 puntos, 10 rebotes, 6 asistencias, 3 robos; 16/25 (Field Level Media/Fanatik)",
-      "Mavericks 125-122 Pacers, 9-nov-2026; Kyrie Irving 35 (Field Level Media)",
-      "Segundo adolescente con 40-10-5 (Field Level Media)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Field Level Media",
-        "u": "https://fieldlevelmedia.com/nba/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game/"
-      },
-      {
-        "n": "Fanatik (roundup)",
-        "u": "https://www.fanatik.com.tr/en/nba-roundup-cooper-flagg-becomes-second-teenager-with-forty-ten-five-game-2644068"
-      }
-    ],
-    "potencial": 5,
-    "duracion": "20-30",
-    "fotograma1": "Flagg anotando en la segunda mitad con contador gigante «43 PTS»",
-    "gancho": "Cooper Flagg just did something only one other teenager has done.",
-    "estructura": "1) Contador de 43 puntos (0-5 s). 2) Mejores jugadas de la segunda mitad (5-20 s). 3) Ficha 43-10-6-3 y 16/25 (20-27 s). 4) Remontada de 13 puntos y 125-122 (27-30 s).",
-    "cierre": "Vuelve al contador «43» del principio con el texto «Age 19».",
-    "clips": "No se ha localizado ningún clip en 1080p desde la sesión; buscar resumen oficial de los Mavericks o NBA en YouTube antes de editar. Por eso el potencial se baja.",
-    "grafismos": "1) Contador de puntos por cuarto. 2) Ficha estadística 43-10-6-3. 3) Gráfico de la remontada de 13 puntos.",
-    "titulo_yt": "Cooper Flagg went OFF for 43 😳",
-    "descripcion": "Cooper Flagg drops 43 and makes teenage NBA history 🔥",
-    "hashtags": "#cooperflagg #mavericks #nba #basketball #shorts",
-    "musica": "Tema enérgico del catálogo del canal",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No poner la comparación con Kevin Durant: las fuentes discrepan en su línea estadística. La edad exacta de Flagg no está verificada aquí: no la pongas en pantalla sin comprobarla. Las cifras vienen de agencias, sin crónica primaria leída.",
-    "analizado": "2026-11-12T19:00:00Z"
-  },
-  "d3f2e51799": {
-    "titular": "Curry se rompe el oblicuo abdominal: al menos 2 semanas de baja con los Warriors 8-4",
-    "formato": "noticia viral",
-    "resumen": "Stephen Curry dejó el partido del 11 de noviembre ante los Rockets en el primer cuarto, tras unos 6 minutos y 3 puntos. Los Warriors informaron de que la resonancia confirma un desgarro del oblicuo abdominal y que será reevaluado en dos semanas. Kerr dijo antes del diagnóstico: \"la preocupación es alta, pero no sé el alcance\". Algunos medios hablan de hasta 4 semanas, sin confirmar.",
-    "por_que": "Es la mayor estrella de la liga cayendo en directo, con el entrenador admitiendo miedo; todo el mundo quiere saber cuánto tiempo estará fuera y qué pasa con los Warriors.",
-    "datos_clave": [
-      "Salió en el primer cuarto del 115-108 de Houston el 11-nov (NBC Sports Bay Area)",
-      "Desgarro de oblicuo abdominal, reevaluación en 2 semanas (comunicado de los Warriors, vía NBA.com)",
-      "Promediaba 27,8 puntos antes de la lesión (medios; contrastar antes de poner gráfico)",
-      "Warriors 8-4 tras la derrota"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "NBA.com",
-        "u": "https://www.nba.com/news/stephen-curry-out-abdominal-soreness"
-      },
-      {
-        "n": "NBC Sports Bay Area",
-        "u": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-update-steph-curry/1979395/"
-      }
-    ],
-    "potencial": 7,
-    "duracion": "20-30",
-    "fotograma1": "Plano de Curry saliendo hacia el vestuario con texto grande: \"CURRY IS OUT 🚨\" sin emojis pegados, con rótulo 2+ WEEKS",
-    "gancho": "Concern is high, but I have no idea the extent of the injury.",
-    "estructura": "1) Kerr con la frase \"concern is high\" (rueda de prensa tras el partido). 2) Plano de Curry saliendo lesionado. 3) Comunicado: oblicuo abdominal, 2 semanas. 4) Contexto: Warriors 8-4 y sus números. 5) Vuelta a la frase de Kerr.",
-    "cierre": "Termina con la duda de Kerr (\"no sé el alcance\"), que reenlaza con el gancho para que se vuelva a ver.",
-    "clips": "Kerr: https://www.youtube.com/watch?v=ZNR2qxLA87w y https://www.youtube.com/watch?v=mt8N6C6o_MQ (rueda de prensa; resolución sin comprobar, verificar 1080p antes de descargar)",
-    "grafismos": "1) Ficha de Curry con 27,8 PPG al inicio (solo si se verifica). 2) Contador \"6 MIN\" sobre el momento de la salida. 3) Cita de Kerr en grande. 4) Calendario de reevaluación: 2 semanas.",
-    "titulo_yt": "Steph Curry just got INJURED and Kerr is worried 😳",
-    "descripcion": "Steph Curry tears his oblique and Steve Kerr says concern is high 🚨",
-    "hashtags": "#stephcurry #warriors #nba #basketball #shorts",
-    "musica": "Una pista seria y tensa del catálogo (no cómica)",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No decir que está fuera toda la temporada (un vídeo lo titula así pero no hay fuente). Plazo de 2 semanas es de reevaluación, no de vuelta. Resolución de los clips sin comprobar. Tono sobrio.",
-    "analizado": "2026-11-13T18:55:00Z"
-  },
-  "fb86137839": {
-    "titular": "Lamar Jackson, operado del pulgar: 6-10 semanas de baja según Minter",
-    "formato": "noticia viral",
-    "resumen": "Lamar Jackson se fracturó y dislocó el pulgar derecho en la derrota 36-10 ante los Bills en la semana 8. Los Ravens anunciaron que fue operado y lo pasaron a la lista de lesionados. El entrenador Jesse Minter dijo que este tipo de lesiones suele tardar entre 6 y 10 semanas. Rapoport habla de 6-9 semanas y de que probablemente no vuelva en la temporada.",
-    "por_que": "Un MVP fuera con los Ravens 4-4 y la duda de si volverá a jugar este año; la gente quiere saber cuándo vuelve.",
-    "datos_clave": [
-      "Fractura y dislocación del pulgar derecho, operado (CBS Sports)",
-      "6-10 semanas según Minter (ESPN/AP)",
-      "Derrota 36-10 ante Buffalo; Ravens 4-4 (medios)",
-      "Posible regreso en la semana 16 ante Cleveland si es lo más rápido (ESPN)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks"
-      },
-      {
-        "n": "CBS Sports",
-        "u": "https://www.cbssports.com/nfl/news/ravens-announce-lamar-jackson-surgery-broken-dislocated-thumb-out-6-10-weeks/"
-      },
-      {
-        "n": "NBC Sports",
-        "u": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-13/minter-confirms-jackson-thumb-is-out-6-10-weeks"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "20-30",
-    "fotograma1": "Plano de Lamar en la banda con texto grande \"6-10 WEEKS\"",
-    "gancho": "These injuries typically take six to ten weeks to heal.",
-    "estructura": "1) Minter diciendo la frase. 2) Plano de la jugada/lesión (sin imágenes explícitas). 3) Gráfico de calendario con las semanas. 4) Ravens 4-4 y Brissett como sustituto. 5) Pregunta final.",
-    "cierre": "Cierra con la cifra \"6-10 semanas\" en grande, enlazando con el texto del primer fotograma.",
-    "clips": "https://www.youtube.com/watch?v=1481k9p0bVE y https://www.youtube.com/watch?v=cdt4FyxQhDo (comentario/análisis; resolución sin comprobar, buscar la rueda de prensa original de Minter en 1080p)",
-    "grafismos": "1) Calendario semana 8 a semana 16 con la ventana de regreso. 2) Marcador 36-10. 3) Ficha Lamar con récord 4-4 de los Ravens. 4) Cita de Minter.",
-    "titulo_yt": "Lamar Jackson is OUT for weeks after thumb surgery 💔",
-    "descripcion": "Lamar Jackson's thumb injury could keep him out 6-10 weeks 🏈",
-    "hashtags": "#lamarjackson #ravens #nfl #football #shorts",
-    "musica": "Cinderella de Mac Miller (tono sobrio)",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "Tono sobrio, no bromear. No decir que está fuera de la temporada: es lo que dice Rapoport, no el equipo. Un resultado dice que la lesión fue ante los Patriots y es erróneo. Resolución de los clips sin comprobar.",
-    "analizado": "2026-11-13T18:55:00Z"
-  },
-  "02ff0fe233": {
-    "titular": "Los Raiders traspasan a Kirk Cousins a los Vikings por una tercera ronda de 2027",
-    "formato": "noticia viral",
-    "resumen": "El 10 de noviembre, antes del cierre de fichajes, los Raiders enviaron a Kirk Cousins a los Vikings por una tercera ronda del draft de 2027. Cousins había firmado con Las Vegas en abril de 2026. El traspaso deja a Fernando Mendoza, número 1 del draft, como titular. El acuerdo dependía de que Cousins pasara el examen físico.",
-    "por_que": "Vuelta de Cousins a su antiguo equipo, un titular con humor y rencor, y los Vikings 6-2 con ambiciones de playoffs.",
-    "datos_clave": [
-      "Traspaso el 10-nov-2026 por una tercera ronda de 2027 (Raiders.com / MPR News)",
-      "Sujeto al examen físico (medios)",
-      "Mendoza pasa a ser el titular (AP vía KOMO)",
-      "Vikings 6-2 al hacerse el trato (medios)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Raiders.com",
-        "u": "https://www.raiders.com/news/raiders-acquire-2027-third-round-pick-nfl-2026"
-      },
-      {
-        "n": "MPR News",
-        "u": "https://www.mprnews.org/story/2026/11/10/minnesota-vikings-reacquire-qb-kirk-cousins-from-las-vegas-raiders"
-      },
-      {
-        "n": "theScore",
-        "u": "https://www.thescore.com/nfl/news/3651397"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "20-30",
-    "fotograma1": "Cousins con camiseta de los Raiders y de los Vikings partida en dos, texto grande \"TRADED BACK\"",
-    "gancho": "Kirk Cousins is a Viking again.",
-    "estructura": "1) Plano de Cousins con los Vikings. 2) Camiseta de los Raiders en abril. 3) Reacción de Cousins al traspaso. 4) Mendoza al mando. 5) Vuelta al inicio.",
-    "cierre": "Cierra con Cousins otra vez de morado, enlazando con el primer fotograma.",
-    "clips": "Reacción de Cousins: https://www.youtube.com/watch?v=FCvR0WuyhSs; análisis: https://www.youtube.com/watch?v=rGQR6ahaWL4 (resolución sin comprobar)",
-    "grafismos": "1) Cronología abril-noviembre. 2) Contador \"3rd round, 2027\". 3) Cara a cara Cousins/Mendoza. 4) Cita de Cousins.",
-    "titulo_yt": "Kirk Cousins is back with the Vikings 😳",
-    "descripcion": "Raiders trade Kirk Cousins to the Vikings for a 2027 third-round pick 🏈",
-    "hashtags": "#kirkcousins #vikings #raiders #nfl #shorts",
-    "musica": "Una pista de ritmo medio del catálogo",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No he verificado el vídeo viral de Cousins saludando a sus excompañeros (The Athletic); no lo uses. Confirmar que pasó el físico antes de decir que está hecho. Resolución de los clips sin comprobar.",
-    "analizado": "2026-11-13T18:55:00Z"
-  },
-  "2fe7ac8d3d": {
-    "titular": "Jameis Winston canta «Who Let the Dogs Out» como cuenta en 4.º y 1",
-    "formato": "gracioso",
-    "resumen": "En el partido de jueves noche entre los Giants y los Commanders, Jameis Winston usó «Who Let the Dogs Out» como cuenta falsa para intentar que Washington cayera en fuera de juego en un 4.º y 1. No funcionó: el equipo fue sancionado por retraso de juego y tuvo que despejar, y los Giants perdieron. Harbaugh dijo después que la cuenta formaba parte del plan y los Commanders se burlaron en redes.",
-    "por_que": "Es absurdo, se entiende sin contexto y tiene remate (el fallo y la burla posterior). Winston es un personaje viral fijo.",
-    "datos_clave": [
-      "Cuenta en un 4.º y 1 del partido Giants-Commanders, jueves noche (Bleacher Report, Athlon)",
-      "Penalización por retraso de juego y despeje (Bleacher Report)",
-      "Harbaugh confirma que fue parte del plan (Newsweek, Athlon)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Bleacher Report",
-        "u": "https://bleacherreport.com/articles/25532820-watch-jameis-winstons-funny-who-let-dogs-out-hard-count-video-giants-vs-commanders"
-      },
-      {
-        "n": "Athlon Sports",
-        "u": "https://athlonsports.com/nfl/new-york-giants/jameis-winston-who-let-the-dogs-out-hard-count-giants-commanders"
-      },
-      {
-        "n": "Newsweek",
-        "u": "https://www.newsweek.com/sports/nfl/giants-hc-john-harbaugh-addresses-jameis-winstons-viral-cadence-after-loss-12710667"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "20-30",
-    "fotograma1": "Plano de la retransmisión con Winston en el centro cantando la cuenta; texto grande «WHO LET THE DOGS OUT?!» y un emoji-gráfico de perro animado (motion graphic, no emoji pegado).",
-    "gancho": "Who let the dogs out?!",
-    "estructura": "1) Audio de la cuenta desde el segundo 0. 2) Reacción de los comentaristas. 3) Resultado de la jugada: retraso de juego y despeje. 4) Explicación de Winston/Harbaugh en rueda de prensa. 5) Burla de los Commanders.",
-    "cierre": "Vuelve a la cuenta cantada en bucle para que el final enlace con el primer segundo.",
-    "clips": "Jugada: https://www.youtube.com/watch?v=6RDXtbkn9do y https://www.youtube.com/watch?v=-E3-JDzD-GM (resolución por comprobar antes de editar). Explicación de Harbaugh: https://www.youtube.com/shorts/f5mLy6ucpgI (vertical, solo referencia).",
-    "grafismos": "1) Cartel de situación «4th & 1» al inicio de la jugada. 2) Contador de la sanción «Delay of game». 3) Cita de Harbaugh en pantalla cuando la dice.",
-    "titulo_yt": "Jameis Winston sang \"Who Let the Dogs Out\" on 4th & 1 🐶😭",
-    "descripcion": "Jameis Winston's hard count on 4th & 1 was something else 😭🐶",
-    "hashtags": "#jameiswinston #giants #nfl #football #shorts",
-    "musica": "Tema ligero del catálogo del canal; el audio original de la cuenta manda.",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "No afirmar el marcador exacto ni el momento del partido: las fuentes consultadas no coinciden del todo. Clips de la NFL: riesgo de copyright, usar recortes cortos.",
-    "analizado": "2026-11-14T18:55:00Z"
-  },
-  "eeac611c83": {
-    "titular": "Cade Cunningham, primero en la historia con 50 puntos, 10 asistencias y 0 pérdidas",
-    "formato": "INSANE",
-    "resumen": "Cade Cunningham anotó 52 puntos con 11 asistencias y ninguna pérdida en la victoria de los Pistons 144-140 en dos prórrogas ante los Wizards. Según NBA.com citado por Yahoo, es el primer jugador desde que se registran pérdidas (1977-78) con al menos 50 puntos, 10 asistencias y 0 pérdidas. Fue su récord personal y el partido incluyó los triples sobre la bocina de Trae Young y AJ Dybantsa para forzar las prórrogas.",
-    "por_que": "Récord histórico con cifras limpias y fáciles de ilustrar, de una estrella en ascenso, con final de partido de locura.",
-    "datos_clave": [
-      "52 puntos, 11 asistencias, 0 pérdidas (Yahoo/AP, ESPN)",
-      "Primero desde 1977-78 con 50+ pts, 10+ ast y 0 pérdidas (NBA.com citado por Yahoo)",
-      "Pistons 144, Wizards 140 en dos prórrogas (Yahoo, ESPN)",
-      "Récord personal anterior: 46 puntos (Yahoo)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "ESPN",
-        "u": "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards"
-      },
-      {
-        "n": "Yahoo Sports (AP)",
-        "u": "https://sports.yahoo.com/articles/cunninghams-incredible-night-52-points-051215195.html"
-      },
-      {
-        "n": "Bleacher Report",
-        "u": "https://bleacherreport.com/articles/25532813-cade-cunningham-makes-history-pistons-beat-wizards-box-score-stats-highlights-trae-more"
-      }
-    ],
-    "potencial": 8,
-    "duracion": "25-35",
-    "fotograma1": "Cade en plena jugada del último cuarto con un marcador gigante «52 PTS · 11 AST · 0 TOV».",
-    "gancho": "Nobody in NBA history had ever done this.",
-    "estructura": "1) Cifra 52/11/0 en pantalla. 2) Canastas de Cade del cuarto cuarto. 3) Los dos triples sobre la bocina que alargan el partido. 4) Canasta decisiva en la 2.ª prórroga. 5) Dato del récord histórico.",
-    "cierre": "Vuelve al marcador 52/11/0 con el «0» resaltado, enlazando con el primer fotograma.",
-    "clips": "https://www.youtube.com/watch?v=fJdCpbP1rtE (52 pts, 2OT); https://www.youtube.com/watch?v=zuONQSnmSDk (bocinazos de Trae y Dybantsa y canasta de Cade); resumen completo https://www.youtube.com/watch?v=T181H-5F4so. Comprobar resolución antes de editar.",
-    "grafismos": "1) Contador de puntos subiendo hasta 52. 2) Ficha «0 TOV» en grande. 3) Cronología de las dos prórrogas. 4) Cara a cara con los otros jugadores de 50+ y 0 pérdidas solo si se comprueba.",
-    "titulo_yt": "Cade Cunningham did something NO ONE has ever done 🤯",
-    "descripcion": "Cade Cunningham's 52-point, 0-turnover masterpiece 🔥",
-    "hashtags": "#cadecunningham #pistons #nba #basketball #shorts",
-    "musica": "Tema épico/rápido del catálogo del canal.",
-    "caducidad": "🟡 publicar esta semana",
-    "avisos": "ESPN lo presenta como el quinto doble-doble de 50 puntos sin pérdidas, mientras NBA.com/Yahoo dicen «primero» en 50+/10+/0: decir exactamente «primero con 50 puntos, 10 asistencias y 0 pérdidas». Clips NBA: copyright.",
-    "analizado": "2026-11-14T18:55:00Z"
-  },
-  "abf2783d28": {
-    "titular": "Draymond empuja a Wembanyama por la espalda y recibe una flagrante 1",
-    "formato": "noticia viral",
-    "resumen": "Draymond Green recibió una falta flagrante 1 por empujar por la espalda a Victor Wembanyama en la derrota de los Warriors ante los Spurs en la Copa NBA. Steve Kerr criticó a Green en rueda de prensa tras el partido. Wembanyama respondió brevemente después del partido, pero no he podido confirmar su frase literal.",
-    "por_que": "Draymond contra Wemby es un enfrentamiento con historia reciente y la jugada se ve clara en un solo plano.",
-    "datos_clave": [
-      "Flagrant 1 a Draymond por empujar a Wembanyama por la espalda (Bleacher Report, Yahoo)",
-      "Warriors perdieron ante Spurs en la Copa NBA (Yahoo)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Bleacher Report (vídeo)",
-        "u": "https://www.youtube.com/watch?v=RsPRToVXQDU"
-      },
-      {
-        "n": "Yahoo Sports",
-        "u": "https://sports.yahoo.com/articles/victor-wembanyama-gives-blunt-three-221544926.html"
-      }
-    ],
-    "potencial": 6,
-    "duracion": "20-30",
-    "fotograma1": "Plano de la jugada justo antes del empujón con el texto grande «FLAGRANT 1».",
-    "gancho": "Draymond just shoved Wemby in the back.",
-    "estructura": "1) Empujón y flagrante. 2) Repetición lenta. 3) Reacción de Kerr en la rueda de prensa. 4) Respuesta de Wembanyama (solo si se verifica la cita).",
-    "cierre": "Repite el empujón con el sello «FLAGRANT 1» para enlazar con el primer fotograma.",
-    "clips": "https://www.youtube.com/watch?v=RsPRToVXQDU (jugada); https://www.youtube.com/watch?v=2_PbKFBimhI (Kerr en rueda de prensa). Comprobar resolución.",
-    "grafismos": "1) Sello «FLAGRANT 1». 2) Cara a cara Draymond/Wemby con alturas solo si se verifican. 3) Cita de Kerr con subtítulo exacto.",
-    "titulo_yt": "Draymond got a FLAGRANT for shoving Wemby 😳",
-    "descripcion": "Draymond Green shoves Victor Wembanyama and gets a flagrant 1 😳",
-    "hashtags": "#draymondgreen #wembanyama #warriors #nba #basketball",
-    "musica": "Tema tenso del catálogo del canal.",
-    "caducidad": "🔴 publicar antes del siguiente partido de Warriors o Spurs",
-    "avisos": "No poner marcador ni la frase de tres palabras de Wemby sin verificar. Solo he visto descripciones, no los vídeos.",
-    "analizado": "2026-11-14T18:55:00Z"
-  }
+ "c1714a7241": {
+  "titular": "Draymond, expulsado por tirar a Maluach y encararse con Dillon Brooks",
+  "formato": "noticia viral",
+  "resumen": "El 2 de noviembre de 2026, en el Warriors-Suns, Draymond Green fue expulsado al inicio del tercer cuarto por dos técnicas en la misma jugada: tras derribar a Khaman Maluach y por el encontronazo con Dillon Brooks. Fue su primera expulsión de la temporada. Los Warriors remontaron y ganaron, y Curry dijo: «He lit a fire in all of us».",
+  "por_que": "Pelea + Draymond + Dillon Brooks (rivalidad con Curry) es combustible puro y la jugada se entiende sin contexto en un segundo.",
+  "datos_clave": [
+   "Dos técnicas en la misma secuencia: derribo a Maluach y rifirrafe con Brooks (ESPN, Yahoo, AP)",
+   "Primera expulsión de la temporada; 23.ª en temporada regular y 8 en playoffs (31 en total) (ESPN/Yahoo)",
+   "Golden State remontó tras la expulsión y encadenó su quinta victoria (ESPN)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50365914/warriors-draymond-green-ejected-scuffle-suns"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/nba/breaking-news/article/warriors-star-draymond-green-ejected-after-throwing-khaman-maluach-down-getting-into-scuffle-with-dillon-brooks-044807627.html"
+   },
+   {
+    "n": "AP (WRAL)",
+    "u": "https://www.wral.com/news/ap/cb3b1-warriors-center-draymond-green-ejected-after-consecutive-technical-fouls-on-one-play-against-suns/"
+   }
+  ],
+  "potencial": 9,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Draymond y Brooks separados por compañeros, con texto enorme 'EJECTED 💀' y contador '31st career ejection'",
+  "gancho": "Draymond just got ejected… again.",
+  "estructura": "1) Plano del derribo a Maluach (0-6 s). 2) La segunda técnica con Brooks (6-14 s). 3) Salida del campo y reacción de Kerr/Curry (14-22 s). 4) Remontada y frase de Curry (22-30 s).",
+  "cierre": "Vuelve al plano inicial de la expulsión con el contador de expulsiones en 31, para enlazar con el gancho.",
+  "clips": "House of Highlights https://www.youtube.com/watch?v=JsXh-QA-NKk ; Bleacher Report https://www.youtube.com/shorts/c2fADcuWCw4 ; ESPN https://www.youtube.com/shorts/xe8xhLAlLMg (verificar resolución 1080p+; buscar también el vídeo largo de highlights oficial NBA)",
+  "grafismos": "1) Contador de expulsiones 23 + 8 = 31 en el segundo 3. 2) Cara a cara Draymond vs Brooks con altura/equipo. 3) Cita de Curry en pantalla al final. 4) Cronología del tercer cuarto.",
+  "titulo_yt": "Draymond got EJECTED for this 😳",
+  "descripcion": "Draymond Green gets ejected after a scuffle with Dillon Brooks 😳🔥",
+  "hashtags": "#draymondgreen #warriors #nba #basketball #shorts",
+  "musica": "Tema agresivo/trap del catálogo del canal",
+  "caducidad": "🔴 publicar antes del 5 de noviembre (la sanción de la liga puede cambiar la historia)",
+  "avisos": "Posible sanción de la NBA aún sin confirmar: no decirla. Las fuentes difieren en el minuto exacto de la expulsión; no poner el reloj. Clips de la NBA/ESPN: riesgo de copyright.",
+  "analizado": "2026-11-03T15:30:00Z"
+ },
+ "c82776e97c": {
+  "titular": "LeBron se choca con la grada y se bebe el vino de un aficionado de los Sixers",
+  "formato": "gracioso",
+  "resumen": "En el tercer cuarto del 76ers-Bulls (126-107) del 2 de noviembre de 2026, LeBron James acabó en la grada tras un pase fallido a Maxey, chocó con el abonado Troy Clemons y dio un sorbo a su copa. El aficionado dijo que era vino tinto. Después LeBron dijo: «I crashed into him, spilled some of his wine… It was alright».",
+  "por_que": "Es gracioso, viral y con LeBron como protagonista; el remate llega en segundos y su reacción en rueda de prensa es la guinda.",
+  "datos_clave": [
+   "Ocurrió en el 3.er cuarto del 76ers-Bulls, victoria 126-107 (Yahoo Sports / ClutchPoints)",
+   "El aficionado es Troy Clemons, abonado; dijo que era vino tinto (Yahoo Sports)",
+   "LeBron: 15 puntos, 9 asistencias y 7 rebotes (ClutchPoints)",
+   "La NBA no ha anunciado ninguna sanción (Yahoo Sports)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/watch-lebron-james-takes-sip-115135492.html"
+   },
+   {
+    "n": "NBC Sports Philadelphia",
+    "u": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/lebron-james-fan-wine-sixers-vs-bulls/764036/"
+   },
+   {
+    "n": "ClutchPoints",
+    "u": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-lebron-james-wine-review-fan-sip-midgame-bulls"
+   }
+  ],
+  "potencial": 9,
+  "duracion": "20-30",
+  "fotograma1": "LeBron con el vaso en la mano en plena grada, texto grande 'LEBRON DRANK A FAN'S WINE 😭'",
+  "gancho": "LeBron just crashed into the crowd… and took a sip.",
+  "estructura": "1) Pase fallido y choque con la grada (0-6 s). 2) El sorbo (6-12 s). 3) Reacción del aficionado (12-20 s). 4) Rueda de prensa de LeBron con su frase (20-30 s).",
+  "cierre": "Cierra con su frase 'It was alright' y vuelve al plano del sorbo para enlazar con el principio.",
+  "clips": "Bleacher Report https://www.youtube.com/watch?v=J_t3aBX7t5Q ; NBA https://www.youtube.com/shorts/bvefSGrjDgE (verificar 1080p+; buscar la rueda de prensa de LeBron en YouTube)",
+  "grafismos": "1) Marcador 126-107 con el cuarto. 2) Cita de LeBron en pantalla. 3) Ficha del aficionado 'Troy Clemons, season-ticket holder'. 4) Línea de precedente: Mike Scott 2019 sin multa.",
+  "titulo_yt": "LeBron drank a fan's wine mid-game 😭🍷",
+  "descripcion": "LeBron James crashes into the crowd and sips a fan's wine 😭🍷",
+  "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
+  "musica": "Tema ligero/divertido del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No afirmar que habrá multa (no hay sanción anunciada). Que era vino lo dice el aficionado. Algunos titulares hablan de Lakers/Heat: no es así, fue con los Sixers.",
+  "analizado": "2026-11-03T15:30:00Z"
+ },
+ "47df7ecb8d": {
+  "titular": "Los Thunder retirarán el dorsal 0 de Westbrook el 7 de febrero ante los Knicks",
+  "formato": "superación",
+  "resumen": "Sam Presti anunció el 2 de noviembre de 2026 que el dorsal 0 de Russell Westbrook se retirará el 7 de febrero de 2027 en el Paycom Center, en un partido contra los Knicks. Westbrook, que se retiró en agosto de 2026, estaba en el escenario y se emocionó. Será el segundo dorsal retirado del club, tras el 4 de Nick Collison.",
+  "por_que": "Es un homenaje emotivo a una leyenda con cifras históricas y mucho material de archivo para montar un edit potente.",
+  "datos_clave": [
+   "Ceremonia el 7 de febrero de 2027 vs. Knicks, Paycom Center (CBS Sports / Hoops Rumors)",
+   "Líder histórico de la franquicia en puntos: 18.857 (Yahoo Sports)",
+   "Segundo dorsal retirado, tras el 4 de Collison (ESPN)",
+   "Retiro anunciado el 12 de agosto de 2026 tras 18 temporadas (KGOU)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "CBS Sports",
+    "u": "https://www.cbssports.com/nba/news/russell-westbrook-thunder-number-retirement/"
+   },
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50360248/thunder-retire-russell-westbrook-no-0"
+   },
+   {
+    "n": "Hoops Rumors",
+    "u": "https://www.hoopsrumors.com/2026/11/thunder-to-retire-russell-westbrooks-jersey-on-feb-7.html"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "25-40",
+  "fotograma1": "Westbrook llorando en el escenario con un 0 gigante y el texto 'NUMBER 0 RETIRED 💔'",
+  "gancho": "Russell Westbrook's number is going to the rafters.",
+  "estructura": "1) Anuncio de Presti con Westbrook emocionado (0-8 s). 2) Cifras: 18.857 puntos y triple-dobles (8-18 s). 3) Jugadas icónicas en OKC (18-30 s). 4) Fecha de la ceremonia (30-36 s).",
+  "cierre": "Vuelve al plano de las lágrimas con la fecha 'Feb 7' en pantalla.",
+  "clips": "Buscar en YouTube el vídeo oficial de OKC Thunder del anuncio y los highlights de Westbrook en OKC (no localizados con enlace verificado; exigir 1080p+)",
+  "grafismos": "1) Contador de puntos 18,857. 2) Dorsal 0 subiendo a las vigas. 3) Cronología 2008-2019 en OKC. 4) Fecha 'Feb 7 vs Knicks'.",
+  "titulo_yt": "Westbrook is getting his number RETIRED 💔",
+  "descripcion": "The Thunder will retire Russell Westbrook's No. 0 🙏",
+  "hashtags": "#russellwestbrook #thunder #nba #basketball #shorts",
+  "musica": "Cinderella – Mac Miller",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Cifra de 18.857 puntos solo de Yahoo Sports: contrastar con el club antes de publicar. Sin clip enlazado verificado: potencial limitado.",
+  "analizado": "2026-11-03T15:30:00Z"
+ },
+ "4bbfe8847b": {
+  "titular": "Jeffery Simmons debuta con los Bears: sack a Darnold y paliza 34-17 a los Seahawks",
+  "formato": "noticia viral",
+  "resumen": "Los Bears ganaron 34-17 a los Seahawks en el Monday Night Football del 2 de noviembre de 2026. Jeffery Simmons, fichado a los Titans el jueves anterior a cambio de dos primeras rondas (2027 y 2028), debutó con un sack a Sam Darnold en el primer cuarto. Acabó con seis tackles, dos tackles para pérdida y un pase desviado, según CBS Sports. Caleb Williams lanzó para 247 yardas con un 71 % de acierto.",
+  "por_que": "Un traspaso de impacto, un debut inmediato en prime time y una afición de Chicago celebrándolo: encaja con el formato de noticia viral de esta semana y se entiende en segundos.",
+  "datos_clave": [
+   "Resultado 34-17 Bears (ESPN, Yahoo Sports)",
+   "Sack a Darnold en el primer cuarto; 6 tackles, 2 TFL y 1 pase desviado (CBS Sports, Yahoo Sports)",
+   "Traspaso por dos primeras rondas, 2027 y 2028 (AP, Bleacher Report)",
+   "Seattle convirtió 1 de 11 en tercer down (resumen de prensa)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN – Bears 34-17 Seahawks",
+    "u": "https://www.espn.com/nfl/recap?gameId=401873036"
+   },
+   {
+    "n": "Yahoo Sports – Simmons sack in Bears debut",
+    "u": "https://sports.yahoo.com/nfl/breaking-news/article/jeffery-simmons-gets-huge-sack-on-sam-darnold-in-first-game-with-the-bears-015753847.html"
+   },
+   {
+    "n": "CBS Sports – Bears dominate Seahawks",
+    "u": "https://www.cbssports.com/nfl/news/seahawks-vs-bears-live-updates-score-highlights/live/"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-40",
+  "fotograma1": "Plano de Simmons derribando a Darnold, con texto grande 'TWO FIRST-ROUND PICKS' y el 99 de Chicago",
+  "gancho": "Chicago gave up two first-round picks for this.",
+  "estructura": "1) Gancho con el sack ya empezado. 2) Contador de las dos primeras rondas. 3) Resto de la jugada en cámara lenta. 4) Ficha con su línea estadística. 5) Reacción de la afición.",
+  "cierre": "Vuelve al sack del inicio con la pregunta 'Worth it?' para que se vuelva a ver.",
+  "clips": "PENDIENTE: no se ha podido confirmar ningún enlace de YouTube en 1080p+ (sin acceso a YouTube en esta ejecución). Buscar el resumen oficial de NFL/Bears y la rueda de prensa posdebut; por eso el potencial se queda en 6.",
+  "grafismos": "Contador de picks (0:03), ficha del jugador con su línea de estadísticas (0:12), cara a cara Simmons vs Darnold (0:06), cronología del traspaso del jueves al lunes (0:18).",
+  "titulo_yt": "Jeffery Simmons got a SACK in his Bears debut 😳",
+  "descripcion": "Jeffery Simmons makes an instant impact for the Bears 🐻🔥",
+  "hashtags": "#jefferysimmons #chicagobears #nfl #football #shorts",
+  "musica": "Canción enérgica del catálogo del canal (no emocional)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No afirmar que el clip se hizo viral con cifras de visualizaciones: no está verificado. Las citas y los clips no están confirmados; comprobar los derechos de la NFL.",
+  "analizado": "2026-11-03T18:50:00Z"
+ },
+ "b3ac27206a": {
+  "titular": "Big Wos, contra Wembanyama por llamar «superficiales» a las interacciones sociales en EE. UU.",
+  "formato": "noticia viral",
+  "resumen": "En su entrevista en 60 Minutes, Victor Wembanyama dijo que las interacciones sociales en EE. UU. son «más superficiales» y «menos profundas» que en otros países, aunque también elogió que allí nunca se juzga la ambición. Wosny «Big Wos» Lambre reaccionó en su podcast diciendo que Wembanyama parecía creerse mejor que los demás y preguntó «Who does this guy think he is?». La polémica se encendió entre el 31 de octubre y el 3 de noviembre de 2026.",
+  "por_que": "Trash talk de podcast contra la cara de la NBA y un debate patriotero fácil de opinar: la gente se queda para ver quién tiene razón.",
+  "datos_clave": [
+   "Cita de Wembanyama: «the social interactions are more shallow here» (Yahoo Sports, Eurohoops)",
+   "Lambre: «Who does this guy think he is?» (Yahoo Sports, Awful Announcing)",
+   "Wembanyama también dijo que en EE. UU. nunca se te juzga por ser ambicioso (Eurohoops)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/wosny-lambre-rips-victor-wembanyama-223031774.html"
+   },
+   {
+    "n": "Awful Announcing",
+    "u": "https://awfulannouncing.com/nba/wosny-lambre-rips-victor-wembanyama-americans-shallow.html"
+   },
+   {
+    "n": "Eurohoops",
+    "u": "https://www.eurohoops.net/en/nba-news/2029214/wembanyama-on-life-in-the-u-s-you-are-never-judged-for-being-ambitious/"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "25-35",
+  "fotograma1": "Plano de Wembanyama en 60 Minutes diciendo la frase, con el texto grande «AMERICANS ARE “SHALLOW”?»",
+  "gancho": "The social interactions are more shallow here.",
+  "estructura": "1) Wembanyama dice la frase (clip 60 Minutes). 2) Contexto: también elogió la ambición en EE. UU. 3) Big Wos reacciona: «Who does this guy think he is?». 4) Cierre con la pregunta al espectador.",
+  "cierre": "Volver a la frase inicial de Wembanyama y preguntar si tiene razón, para empujar comentarios y repeticiones.",
+  "clips": "No verificados: esta ejecución no tiene acceso a YouTube. Buscar manualmente en el canal oficial de CBS/60 Minutes y en el vídeo original del podcast, solo en 1080p+.",
+  "grafismos": "Cita en pantalla con la frase de Wembanyama al inicio; Ficha cara a cara Wembanyama vs Big Wos en el momento de la réplica; Cita de la segunda parte (la ambición) para dar el contexto completo",
+  "titulo_yt": "Wemby called Americans “shallow” and Big Wos is NOT happy 😳",
+  "descripcion": "Victor Wembanyama's comments on America sparked a debate 🗣️",
+  "hashtags": "#wembanyama #spurs #nba #basketball #shorts",
+  "musica": "Cualquier tema tenso del catálogo; evitar los emocionales (Cinderella).",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No decir que Wembanyama «odia a los americanos» ni que los llamó estúpidos: eso es la interpretación de Lambre. Incluir siempre su elogio a la ambición. Clips sin verificar; el material de CBS puede dar problemas de copyright.",
+  "analizado": "2026-11-04T07:55:00Z"
+ },
+ "a9c9589183": {
+  "titular": "Kawhi Leonard, baja al menos una semana más por inflamación en la rodilla izquierda",
+  "formato": "noticia viral",
+  "resumen": "Los Raptors comunicaron que Kawhi Leonard estará de baja al menos una semana por inflamación en la rodilla izquierda y será reevaluado después. Las pruebas no mostraron una lesión aguda y sigue un programa de tratamiento y rehabilitación. Shams Charania informó de que se espera que falte varias semanas; la fecha de regreso no está confirmada.",
+  "por_que": "Lesión de una estrella con historial de rodilla: mucha búsqueda y debate sobre su futuro.",
+  "datos_clave": [
+   "Baja de al menos una semana, con reevaluación posterior (Raptors, vía NBA.com y CTV)",
+   "Las pruebas no muestran lesión aguda en la rodilla izquierda (Raptors, vía NBA.com y CTV)",
+   "Shams Charania: se espera que falte «un periodo de semanas» (Eurohoops)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NBA.com",
+    "u": "https://nba.com/news/kawhi-leonard-knee-out-at-least-a-week"
+   },
+   {
+    "n": "CTV News",
+    "u": "https://ctvnews.ca/toronto/sports/article/raptors-star-kawhi-leonard-out-at-least-one-week-with-left-knee-injury"
+   }
+  ],
+  "potencial": 4,
+  "duracion": "20-30",
+  "fotograma1": "Kawhi cojeando o tocándose la rodilla, con el texto grande «KAWHI OUT AGAIN?»",
+  "gancho": "Kawhi's knee is a problem again.",
+  "estructura": "1) Plano de Kawhi en el último partido. 2) Parte médico de los Raptors. 3) Repaso de sus lesiones de rodilla anteriores. 4) Pregunta sobre su regreso.",
+  "cierre": "Volver al plano inicial con la pregunta de cuándo volverá.",
+  "clips": "No verificados: sin acceso a YouTube en esta ejecución. Buscar jugadas de Kawhi con los Raptors en el canal oficial de la NBA, en 1080p+.",
+  "grafismos": "Contador de partidos de baja; Ficha de lesión: rodilla izquierda, inflamación, sin lesión aguda; Cronología de sus lesiones (solo con datos verificados)",
+  "titulo_yt": "Kawhi Leonard knee update has Raptors fans worried 😳",
+  "descripcion": "Kawhi Leonard is out with left knee swelling 🙏",
+  "hashtags": "#kawhileonard #raptors #nba #basketball #shorts",
+  "musica": "Tema sobrio del catálogo.",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Tono sobrio. No dar plazo de regreso: solo hay «al menos una semana» oficial; cifras de 3-4 semanas vienen de reportes sin confirmar.",
+  "analizado": "2026-11-04T07:55:00Z"
+ },
+ "0bc4f0973e": {
+  "titular": "LeBron, primer jugador de la historia con 16.000 canastas de campo",
+  "formato": "noticia viral",
+  "resumen": "El 4 de noviembre de 2026, en la victoria de los Sixers 112-106 en Detroit, LeBron James anotó su canasta de campo número 16.000, la segunda del partido, con un bandeja de izquierda sobre John Collins a falta de 10:35 del segundo cuarto. Acabó con 13 puntos, 10 rebotes y 8 asistencias. Philadelphia mejora a 8-1.",
+  "por_que": "Un récord histórico de LeBron que se entiende en un segundo y que se ilustra con un contador; el aficionado quiere ver el momento exacto.",
+  "datos_clave": [
+   "Primer jugador con 16.000 tiros de campo anotados (Yahoo Sports, Bleacher Report, beIN)",
+   "Sixers 112-106 Pistons; 8-1 de balance (Yahoo/Inquirer)",
+   "Línea: 13 pts, 10 reb, 8 ast en 33 min (resumen de medios)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/lebron-james-becomes-first-nba-013506149.html"
+   },
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25529411-watch-lebron-james-make-nba-history-new-career-milestone-during-76ers-vs-pistons"
+   },
+   {
+    "n": "beIN Sports",
+    "u": "https://www.beinsports.com/en-us/basketball/articles/lebron-james-reaches-16-000-made-field-goals-in-nba-history-2026-11-05"
+   },
+   {
+    "n": "76ers PR Stats",
+    "u": "https://x.com/76ersPR_stats/status/2118143541624832262"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Plano de la bandeja de LeBron sobre Collins con un contador gigante «16,000» sobre la imagen",
+  "gancho": "LeBron James just became the first player in NBA history to make 16,000 field goals.",
+  "estructura": "1) Canasta 16.000 con contador (0-5 s). 2) Comparar con Kareem (15.837) con cara a cara (5-12 s). 3) Camino de LeBron: cifras de carrera (12-22 s). 4) Reacción en pista y banquillo (22-30 s).",
+  "cierre": "Vuelve a la bandeja con el contador en 16.000 para que enlace con el primer segundo.",
+  "clips": "Pendiente de elegir: highlight oficial NBA/Bleacher Report del partido Sixers-Pistons (4-nov-2026), minuto ~10:35 del 2.º cuarto. Resolución 1080p sin comprobar; revisar antes de editar.",
+  "grafismos": "Contador 15.837→16.000 en el segundo 0; cara a cara LeBron vs Kareem; ficha del partido (13/10/8); línea de tiempo de récords.",
+  "titulo_yt": "LeBron just made NBA HISTORY 🐐",
+  "descripcion": "LeBron James hits 16,000 career field goals, a first in NBA history 👑",
+  "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
+  "musica": "Tema épico del catálogo del canal (tipo Cinderella de Mac Miller si se quiere tono emotivo)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Cifra de Kareem (15.837) citada por un solo resumen; confirmar antes de ponerla. Fecha: partido del 4-nov (hora local). Clip y resolución sin comprobar.",
+  "analizado": "2026-11-06T03:10:00Z"
+ },
+ "e7ba9f171d": {
+  "titular": "Luka hace expulsar a un aficionado que tiró el balón a una árbitra",
+  "formato": "noticia viral",
+  "resumen": "El 4 de noviembre de 2026, en el Kings-Lakers (116-103), un aficionado de primera fila lanzó con fuerza el balón a la árbitra Chelisa Painter a final del tercer cuarto. Luka Doncic lo señaló, le preguntó «What the f*** are you doing?» y avisó a oficiales y seguridad; el aficionado fue retirado del pabellón. Luka firmó 40 puntos, 9 rebotes y 7 asistencias.",
+  "por_que": "Luka defendiendo a una árbitra es viral por sí solo y mezcla estrella, polémica y un momento claro en vídeo.",
+  "datos_clave": [
+   "Lakers 116-103 en Sacramento (resúmenes de Yahoo/ClutchPoints)",
+   "Luka: 40 pts, 9 reb, 7 ast (resúmenes)",
+   "Árbitra: Chelisa Painter, primer año en plantilla (medios)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/luka-doncic-steps-defend-female-113000858.html"
+   },
+   {
+    "n": "Yahoo News Canada",
+    "u": "https://ca.news.yahoo.com/lakers-luka-doncic-gets-fan-162613150.html"
+   },
+   {
+    "n": "Basketnews",
+    "u": "https://basketnews.com/news-258860-luka-doncic-reveals-what-he-told-kings-fan-after-ugly-referee-incident.html"
+   },
+   {
+    "n": "IBTimes",
+    "u": "https://www.ibtimes.co.uk/luka-doncic-confronts-fan-ball-thrown-referee-lakers-win-1830532"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-30",
+  "fotograma1": "Luka señalando al aficionado con el balón en la mano y texto grande «LUKA FLIPPED» ",
+  "gancho": "A fan hit a referee with the ball — and Luka lost it.",
+  "estructura": "1) Luka señala al fan (0-4 s). 2) El lanzamiento en repetición (4-10 s). 3) Retirada del fan y pulgar de la árbitra (10-18 s). 4) Su reacción postpartido y 40 pts (18-28 s).",
+  "cierre": "Vuelve al plano de Luka señalando, enlazando con el inicio.",
+  "clips": "House of Highlights: https://www.youtube.com/watch?v=nX2ksTFuqwU (highlights de Luka vs Kings); buscar el clip del incidente en YouTube oficial. Resolución 1080p sin comprobar.",
+  "grafismos": "Rótulo con nombre de la árbitra; marcador 116-103; línea de 40/9/7; cita de Luka.",
+  "titulo_yt": "Luka got a fan EJECTED for this 😳",
+  "descripcion": "Luka Doncic stands up for the ref and gets a fan thrown out 😳",
+  "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
+  "musica": "Tema tenso/épico del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Los medios discrepan en si el balón golpeó a la árbitra o lo desvió, y en quién retiró al fan: no afirmarlo. No decir que el fan la atacó por ser mujer. La cita incluye una palabrota: censurarla.",
+  "analizado": "2026-11-06T03:10:00Z"
+ },
+ "387da62b76": {
+  "titular": "Embiid y Tolu Smith se empujan en el Sixers-Pistons y Embiid ve técnica",
+  "formato": "noticia viral",
+  "resumen": "El 4 de noviembre de 2026, en la victoria de los Sixers 112-106 sobre los Pistons, Tolu Smith empujó a Embiid tras un balón muerto y Embiid respondió con un empujón; el equipo arbitral, tras revisarlo, le pitó técnica a Embiid, la primera de su temporada. La NBA le añadió después una Flagrant 1 por una patada a Cade Cunningham. Embiid acabó con 26 puntos y 15 rebotes.",
+  "por_que": "Pelea con Embiid y un rival joven más una sanción posterior: tiene conflicto y un clip corto.",
+  "datos_clave": [
+   "Técnica a Embiid, la primera de la temporada (Yahoo Sports)",
+   "Flagrant 1 posterior por patada a Cunningham (Yahoo Sports)",
+   "26 pts y 15 reb; Sixers 8-1 (resúmenes)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/nba/article/76ers-star-joel-embiid-gets-technical-foul-for-shoving-match-with-tolu-smith-in-win-over-pistons-031746006.html"
+   },
+   {
+    "n": "Yahoo Sports (Flagrant 1)",
+    "u": "https://sports.yahoo.com/articles/76ers-joe-embiid-retroactively-slapped-013731739.html"
+   },
+   {
+    "n": "Larry Brown Sports",
+    "u": "https://larrybrownsports.com/basketball/joel-embiid-technical-foul-pistons-tolu-smith/777164"
+   },
+   {
+    "n": "Inquirer",
+    "u": "https://inquirer.com/sixers/sixers-pistons-score-highlights-jaylen-brown-lebron-james-joel-embiid-20261104.html"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Plano del empujón Embiid-Smith con texto grande «EMBIID SHOVED BACK»",
+  "gancho": "Embiid got a technical for this shove.",
+  "estructura": "1) Empujón (0-5 s). 2) Revisión y técnica (5-12 s). 3) Patada a Cunningham y Flagrant 1 (12-22 s). 4) Cifras de Embiid (22-28 s).",
+  "cierre": "Repetición del empujón.",
+  "clips": "Bleacher Report: https://www.youtube.com/shorts/0s0a6y81OtI (Short, baja resolución probable). Buscar highlights oficiales NBA en 1080p; sin confirmar.",
+  "grafismos": "Cara a cara Embiid vs Smith; contador de técnicas; ficha de sanción.",
+  "titulo_yt": "Embiid got a TECH for this shove 😳",
+  "descripcion": "Joel Embiid and Tolu Smith get heated in Sixers-Pistons 😳",
+  "hashtags": "#joelembiid #76ers #nba #basketball #shorts",
+  "musica": "Tema de tensión del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Las fuentes discrepan en el minuto exacto del incidente. Quién empujó primero: Smith según los medios; no lo afirmes sin ver el vídeo. Clip sin 1080p confirmado.",
+  "analizado": "2026-11-06T03:10:00Z"
+ },
+ "9de4371e78": {
+  "titular": "LeBron y Luka mandan cartas de cese a Bron AI por usar su imagen en un anuncio de apuestas",
+  "formato": "noticia viral",
+  "resumen": "El 4 de noviembre de 2026 el CEO de Bron AI, Anish Gupta, publicó en X un anuncio con un doble de LeBron con camiseta del 23 y 'Bron'. El equipo legal de LeBron envió una carta de cese y desistimiento (Front Office Sports la obtuvo) y un representante de Luka Dončić confirmó que él también envió otra. Las publicaciones se retiraron de X y Gupta respondió con un vídeo anunciando un cambio de nombre.",
+  "por_que": "Mezcla dos superestrellas, apuestas, IA y una respuesta troll de la empresa: es una noticia de esta semana que se entiende en 5 segundos.",
+  "datos_clave": [
+   "Carta de LeBron citando su acuerdo exclusivo con Polymarket y que el anuncio sugiere que apuesta en baloncesto, algo que prohíbe la NBA (Front Office Sports, Yahoo Sports)",
+   "Un representante de Dončić confirmó otra carta de cese (Front Office Sports)",
+   "Bron AI pertenece a PlayVision Inc., fundada en 2025 y respaldada por Y Combinator (Inc.)",
+   "Gupta: 'We heard y'all loud and clear, so we went back in the arena' (Yahoo Sports)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/bron-ai-fires-back-hysterical-225837647.html"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/lebron-james-demands-ai-betting-161149843.html"
+   },
+   {
+    "n": "Inc.",
+    "u": "https://www.inc.com/liyana-illyas/lebron-james-y-combinator-startup-cease-and-desist-may-have-been-point/91431970"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Captura del anuncio con el doble de LeBron con el 23 y texto enorme 'CEASE & DESIST 😳' sobre las caras de LeBron y Luka",
+  "gancho": "LeBron and Luka just sued… a fake LeBron.",
+  "estructura": "1) El anuncio con el doble (0-7 s). 2) La carta y el motivo Polymarket (7-15 s). 3) Luka también envía la suya (15-21 s). 4) El vídeo troll de Gupta y el cambio de nombre (21-30 s).",
+  "cierre": "Vuelve al doble de LeBron con el sello 'DELETED' para enlazar con el primer plano.",
+  "clips": "Vídeo de la noticia https://www.youtube.com/watch?v=zDls7qHHH4E ; https://www.youtube.com/watch?v=eq_9NkgLzZU ; https://www.youtube.com/shorts/fLqz7m6LA34 (listados en el radar; resolución 1080p+ NO verificada, y el anuncio original solo está en X)",
+  "grafismos": "1) Ficha de la carta con la cita clave en el segundo 8. 2) Cara a cara LeBron-Luka con el sello 'C&D' en el segundo 15. 3) Cronología 4 nov anuncio / 5 nov cartas / 6 nov cambio de nombre. 4) Cita de Gupta al final.",
+  "titulo_yt": "LeBron & Luka SENT LEGAL LETTERS to this fake LeBron 😳",
+  "descripcion": "LeBron James and Luka Doncic hit Bron AI with cease-and-desist letters ⚖️🏀",
+  "hashtags": "#lebronjames #lukadoncic #lakers #nba #shorts",
+  "musica": "Canción de tono humorístico del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No afirmar que hay demanda: solo cartas de cese. No decir cuál será el nuevo nombre. Los clips de terceros pueden dar problemas de copyright; el anuncio original solo está en X.",
+  "analizado": "2026-11-07T18:55:00+00:00"
+ },
+ "9912f9e86d": {
+  "titular": "Luka mete 53 a los Blazers líderes del Oeste y promedia más de 40 puntos",
+  "formato": "INSANE",
+  "resumen": "El 6 de noviembre de 2026 Luka Dončić anotó 53 puntos (récord de la temporada) en el 124-118 de los Lakers sobre los Trail Blazers, líderes del Oeste, tras remontar 16 puntos. Fue su cuarto partido seguido con 40 o más y el sexto en los diez primeros. Promedia 40,1 puntos y se une a Wilt Chamberlain como único jugador con 40+ de media en sus nueve primeros partidos.",
+  "por_que": "Un jugador anotando 40 por partido y comparado con Wilt es un titular que para el dedo; el MVP es tema de debate constante.",
+  "datos_clave": [
+   "53 puntos, 5 rebotes y 5 asistencias; Lakers 124-118 Blazers (ESPN, Yahoo)",
+   "4.º partido seguido con 40+; 6.º en los 10 primeros (ESPN)",
+   "Promedio de 40,1 puntos, igualado con Wilt Chamberlain en los 9 primeros partidos (ESPN)",
+   "Remontada de 16 puntos; tiro en la zona a 27 s del final (ESPN)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/luka-doncic-scores-53-points-070913550.html"
+   },
+   {
+    "n": "ABC7",
+    "u": "https://abc7.com/post/luka-doncics-53-point-explosion-pushes-scoring-average-past-40-lakers-roll/20021920/"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-30",
+  "fotograma1": "Luka celebrando tras un triple, con contador enorme '53 PTS' y debajo '40.1 PPG'",
+  "gancho": "Luka is averaging OVER 40 points. Only Wilt did this.",
+  "estructura": "1) Triple clave y contador 53 (0-6 s). 2) Remontada de 16 puntos (6-14 s). 3) Comparación con Wilt y promedio (14-22 s). 4) Jumper a 27 s del final (22-30 s).",
+  "cierre": "Termina en el contador de 40.1 de promedio, igual que el primer fotograma.",
+  "clips": "https://www.youtube.com/shorts/_cX9FzfLLe4 ; https://www.youtube.com/shorts/2HQHupxGJsM (del radar; resolución 1080p+ NO verificada; buscar highlights completos oficiales de la NBA)",
+  "grafismos": "1) Contador 53 puntos en el segundo 2. 2) Gráfico Luka vs Wilt (40+ en 9 primeros partidos) en el segundo 15. 3) Barra de la remontada de 16 puntos. 4) Racha de 4 partidos de 40+.",
+  "titulo_yt": "Luka Doncic just put up 53 on the #1 seed 💀",
+  "descripcion": "Luka Doncic drops 53 and joins Wilt Chamberlain in the record books 🔥",
+  "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
+  "musica": "Tema intenso del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No usar 'MVP lock' como hecho: es opinión. Los clips de la NBA pueden dar problemas de copyright.",
+  "analizado": "2026-11-07T18:55:00+00:00"
+ },
+ "edeaf3869a": {
+  "titular": "LeBron vuelve a Cleveland con los Sixers: 8 puntos, 6 pérdidas y pitos mezclados con ovación",
+  "formato": "noticia viral",
+  "resumen": "El 6 de noviembre de 2026, en su regreso a Cleveland con los 76ers, LeBron James fue recibido con ovaciones y algunos abucheos. Anotó 8 puntos con 3 de 12 en tiros y 6 pérdidas en la derrota 119-95 ante los Cavaliers, que cortaron la racha de cinco victorias de Filadelfia. Donovan Mitchell hizo 23 y Evan Mobley 22. LeBron admitió: «I did not feel in a good rhythm offensively».",
+  "por_que": "El regreso emocional de LeBron a su casa que acaba fatal sigue un guion que engancha, con una cita del propio jugador.",
+  "datos_clave": [
+   "8 puntos, 3/12 en tiros, 6 pérdidas (ESPN, Türkiye Today)",
+   "Cavaliers 119-95 Sixers; fin de racha de 5 victorias de Filadelfia (ESPN/Yahoo)",
+   "Mitchell 23 y Mobley 22 (Türkiye Today)",
+   "Cita: «I did not feel in a good rhythm offensively» (ESPN)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50405401/lebron-james-find-good-rhythm-cleveland-return"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/cavs-thump-76ers-james-return-042638628.html"
+   },
+   {
+    "n": "Al Jazeera",
+    "u": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "25-35",
+  "fotograma1": "LeBron en el túnel de Cleveland con texto enorme 'HOMECOMING GONE WRONG 💔' y '8 PTS · 6 TO'",
+  "gancho": "LeBron went home… and it was a disaster.",
+  "estructura": "1) Presentación con ovación y pitos (0-8 s). 2) Estadística 3/12 y 6 pérdidas (8-16 s). 3) Marcador 119-95 (16-24 s). 4) Cita de LeBron (24-32 s).",
+  "cierre": "Vuelve a la presentación inicial con el contador final de 8 puntos.",
+  "clips": "Buscar en YouTube highlights oficiales NBA/ESPN del Sixers-Cavs del 6-nov-2026 y la rueda de prensa de LeBron (1080p+ NO verificado; no hay enlace concreto aún)",
+  "grafismos": "1) Ficha estadística de LeBron (8 pts, 3/12, 6 TO) en el segundo 9. 2) Marcador 119-95 con la racha cortada. 3) Cita de LeBron en pantalla. 4) Cara a cara con Mitchell y Mobley.",
+  "titulo_yt": "LeBron's Cleveland return went WRONG 💔",
+  "descripcion": "LeBron James struggles in his return to Cleveland as the Cavs rout the Sixers 😳",
+  "hashtags": "#lebronjames #sixers #cavaliers #nba #shorts",
+  "musica": "Cinderella de Mac Miller",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Sin clip concreto verificado en 1080p. Evitar tono burlón: usar tono neutro con la cita de LeBron.",
+  "analizado": "2026-11-07T18:55:00+00:00"
+ },
+ "88d2136dbd": {
+  "titular": "Doncic mete 40 otra vez y ya es el único Laker con 6 partidos seguidos de 35+ junto a Kobe y Baylor",
+  "formato": "INSANE",
+  "resumen": "Luka Doncic anotó 40 puntos, 9 rebotes y 7 asistencias en la victoria de los Lakers por 116-103 en Sacramento (4 de noviembre de 2026), con lo que los Lakers quedan 7-2. Antes había metido 42 puntos y 13 asistencias en el 138-117 ante los Heat (2 de noviembre). Según AP, es el único jugador de los Lakers con seis partidos seguidos de 35+ puntos aparte de Kobe Bryant y Elgin Baylor.",
+  "por_que": "Un jugador estrella en racha histórica con cifras que se entienden en un segundo y comparación directa con Kobe, el nombre que más para el dedo en EE. UU.",
+  "datos_clave": [
+   "40 pts, 9 reb, 7 ast vs Kings, 116-103, 4-nov-2026 (AP/ABC7)",
+   "42 pts, 13 ast, 7 reb vs Heat, 138-117, 2-nov-2026 (AP/ABC30)",
+   "Seis partidos seguidos de 35+, solo Kobe y Baylor antes (AP)",
+   "Lakers 7-2 (AP)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "AP vía ABC7",
+    "u": "https://abc7.com/post/luka-doncic-puts-40-torrid-stretch-continues-lakers-win/20017197/"
+   },
+   {
+    "n": "AP vía ABC30",
+    "u": "https://abc30.com/post/luka-doncic-puts-40-torrid-stretch-continues-lakers-win/20017197/"
+   },
+   {
+    "n": "AP vía ABC30 (Heat)",
+    "u": "https://abc30.com/post/luka-doncic-scores-42-points-another-brilliant-game-leading-lakers-past-heat-138-117/20010582/"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-40",
+  "fotograma1": "Doncic armando el step-back de tres en plano cerrado, con el texto enorme 'KOBE. BAYLOR. LUKA.' y un contador de 6 partidos seguidos de 35+",
+  "gancho": "Only two Lakers ever did this... and Luka just joined them.",
+  "estructura": "1) Gancho con el mejor triple del partido ante Kings. 2) Gráfico con los seis partidos seguidos de 35+. 3) Jugadas de los 42 ante Heat. 4) Cara a cara con Kobe y Baylor. 5) Último triple y vuelta al texto del inicio.",
+  "cierre": "Termina con el mismo triple del primer plano en bucle y la pregunta '35+... how many more?', para que enlace con el gancho.",
+  "clips": "https://www.youtube.com/watch?v=3cnDTxMx3QE (NBA on ESPN, 40 pts vs Kings); https://www.youtube.com/watch?v=nX2ksTFuqwU (House of Highlights); https://www.youtube.com/watch?v=jGcOFY0Sxz8 (highlights completos 4-nov). Calidad 1080p no comprobada: confirmar al descargar.",
+  "grafismos": "1) Contador animado de 35+ puntos seguidos (0:00-0:05). 2) Cara a cara Kobe/Baylor/Luka con el récord (0:12). 3) Ficha de línea 40/9/7 (0:08). 4) Marcador 7-2 de los Lakers al cierre.",
+  "titulo_yt": "Luka Doncic just did what only Kobe did 😳",
+  "descripcion": "Luka Doncic keeps cooking for the Lakers 🔥",
+  "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
+  "musica": "Canción de ritmo alto del catálogo del canal (trap/hype)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "La racha de 6 partidos de 35+ es lo que cuenta AP; no decir 'récord de la franquicia'. Los promedios de temporada no están contrastados: no ponerlos. Clips de la NBA: posible copyright.",
+  "analizado": "2026-11-08T12:30:00+00:00"
+ },
+ "b763d8f1fa": {
+  "titular": "Mason McCormick lanza de cabeza a Jared Verse en un punto extra y Verse estalla",
+  "formato": "noticia viral",
+  "resumen": "El 1 de noviembre de 2026, en la victoria de los Steelers 27-6 sobre los Browns, el guard Mason McCormick derribó a Jared Verse (Browns) en un intento de punto extra y recibió un castigo de 15 yardas por unnecessary roughness. Verse había hablado mucho durante la semana y después criticó la jugada; McCormick dijo que seguía su asignación. Un titular de Yahoo afirma que la NFL no multó a McCormick, pero no hay segunda fuente.",
+  "por_que": "Un placaje viral con trash talk previo y respuesta del propio jugador: pelea, drama y un remate fácil de entender en dos segundos.",
+  "datos_clave": [
+   "Steelers 27-6 Browns, 1-nov-2026 (Newsweek/HITC)",
+   "15 yardas por unnecessary roughness (Newsweek)",
+   "McCormick: seguía su asignación (Newsweek)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Newsweek",
+    "u": "https://newsweek.com/sports/nfl/steelers-og-goes-viral-for-body-slamming-trash-talking-browns-de-jared-verse-12647997"
+   },
+   {
+    "n": "HITC",
+    "u": "https://www.hitc.com/jared-verse-breaks-silence-after-mason-mccormick-body-slams-him-during-browns-27-6-loss/"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/mason-mccormick-wasnt-fined-dumping-214557725.html"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-40",
+  "fotograma1": "Verse boca abajo en el aire en el momento del derribo, con el texto grande 'TALKED ALL WEEK 💀'",
+  "gancho": "Jared Verse talked all week... then this happened.",
+  "estructura": "1) Derribo en cámara lenta. 2) Cita de Verse sobre el trash talk de la semana. 3) Reacción de Verse tras el partido (YouTube 'Uncalled For'). 4) Respuesta de McCormick. 5) Repetición del derribo.",
+  "cierre": "Vuelve al derribo del inicio con el marcador 27-6 en grande.",
+  "clips": "https://www.youtube.com/watch?v=mOfri41kghc (derribo); https://www.youtube.com/watch?v=BBlQNUuxGi8 (McCormick responde); https://www.youtube.com/shorts/KeHC0blx9vc (Verse). Resolución 1080p no comprobada.",
+  "grafismos": "1) Marcador 27-6 (0:00). 2) Cita de Verse en pantalla (0:08). 3) Flag '15 yds' (0:05). 4) Ficha cara a cara Verse vs McCormick (0:15).",
+  "titulo_yt": "Jared Verse got SLAMMED after talking trash all week 😳",
+  "descripcion": "Mason McCormick dumped Jared Verse on an extra point 😳",
+  "hashtags": "#jaredverse #steelers #browns #nfl #football",
+  "musica": "Tema agresivo del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No decir que 'no fue multado' sin segunda fuente (solo Yahoo). No afirmar quién empezó. Algunos resultados mezclan otro Browns-Steelers: verificar fecha del clip. Copyright NFL.",
+  "analizado": "2026-11-08T12:30:00+00:00"
+ },
+ "7d739cc1cf": {
+  "titular": "Myles Garrett vuelve con los Rams tras 7 partidos fuera por la rodilla",
+  "formato": "noticia viral",
+  "resumen": "Myles Garrett, defensive end de los Rams, volvería este domingo (8 de noviembre de 2026) en Washington tras perderse siete partidos por una lesión de rodilla operada en septiembre. Según los reportes, la lesión se fue acumulando en el campo de entrenamiento y empeoró en Melbourne. Todavía no ha jugado junto a Aaron Donald; Garrett dijo que los ataques tendrán que 'elegir su veneno'.",
+  "por_que": "Dos de los mejores pass rushers del siglo juntos por primera vez: el cara a cara con Aaron Donald engancha a cualquier fan de la NFL.",
+  "datos_clave": [
+   "7 partidos de baja (Baltimore Sun/AP)",
+   "Operado de la rodilla en septiembre (FantasyNerds)",
+   "Aún no ha jugado con Aaron Donald (AP)",
+   "Cita: 'offenses really have to pick their poison' (AP)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "AP vía News4Jax",
+    "u": "https://www.news4jax.com/sports/2026/11/06/myles-garrett-expected-to-return-for-rams-this-weekend-after-7-game-injury-absence/"
+   },
+   {
+    "n": "TSN",
+    "u": "https://www.tsn.ca/nfl/article/garrett-returning-to-rams-practice-after-seven-game-absence-because-of-knee-injury/"
+   },
+   {
+    "n": "theScore",
+    "u": "https://www.thescore.com/nfl/news/3642978"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-40",
+  "fotograma1": "Garrett y Donald lado a lado, texto grande 'PICK YOUR POISON ☠️'",
+  "gancho": "Offenses really have to pick their poison.",
+  "estructura": "1) Cita de Garrett. 2) Gráfico de 7 partidos de baja. 3) Jugadas de Garrett. 4) Jugadas de Donald. 5) Cara a cara.",
+  "cierre": "Vuelve a la cita del inicio sobre el cara a cara de ambos.",
+  "clips": "https://www.youtube.com/watch?v=TimayRlsIGk (Stephen A. sobre Donald-Garrett); https://www.youtube.com/watch?v=na06IK17Xe8 (Donald sobre Garrett). No he localizado la rueda de prensa original de Garrett; resolución no comprobada.",
+  "grafismos": "1) Contador '7 games' (0:03). 2) Cita en pantalla (0:00). 3) Ficha comparada Garrett/Donald (0:15).",
+  "titulo_yt": "Myles Garrett is BACK for the Rams 😳",
+  "descripcion": "Myles Garrett returns next to Aaron Donald 💀",
+  "hashtags": "#mylesgarrett #aarondonald #rams #nfl #football",
+  "musica": "Tema oscuro/hype del catálogo del canal",
+  "caducidad": "🔴 publicar antes del domingo 8-nov (partido)",
+  "avisos": "Es un regreso 'esperado', no confirmado hasta el partido. No dar estadísticas de Garrett o Donald sin comprobarlas. Falta clip de calidad de la cita.",
+  "analizado": "2026-11-08T12:30:00+00:00"
+ },
+ "0c8092ae5a": {
+  "titular": "Curry mete 41 puntos y los Warriors ganan en la prórroga a los Magic (7.ª seguida)",
+  "formato": "noticia viral",
+  "resumen": "El 7 de noviembre de 2026, en el Chase Center, los Warriors ganaron 126-119 en la prórroga a los Magic. Stephen Curry firmó 41 puntos, 6 rebotes y 6 asistencias, y anotó 17 de ellos en los últimos siete minutos (ESPN). Orlando había remontado de -16 a +6 en el cuarto periodo antes de que Curry tirase del equipo. Es la séptima victoria seguida de Golden State tras empezar 0-3.",
+  "por_que": "Curry carga con el equipo en un final de locos y hay un récord de por medio (más partidos de 40+ puntos con más de 35 años); es fácil de entender en 30 s y los clips están disponibles.",
+  "datos_clave": [
+   "41 pts, 6 reb, 6 ast; 17 de los 41 en los últimos 7 minutos (ESPN)",
+   "Es su 16.º partido de 40+ puntos pasados los 35 años, récord NBA (ESPN)",
+   "Golden State, segundo equipo en encadenar 7 victorias tras un 0-3 inicial, junto a los Celtics 1950-51 (ESPN)",
+   "Canasta que puso 110-108 con 25,2 s; Orlando empató con un rebote ofensivo y forzó la prórroga (ESPN)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50417316/remarkable-curry-latest-history-making-night-keeps-warriors-rolling"
+   },
+   {
+    "n": "NBA.com Warriors",
+    "u": "https://www.nba.com/warriors/news/gameday-recap-20261107"
+   },
+   {
+    "n": "The Washington Post (AP)",
+    "u": "https://www.washingtonpost.com/sports/nba/2026/11/07/magic-warriors-score/8ee48f14-db2e-11f1-930a-e08f8086f5ac_story.html"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Curry celebrando tras un triple en la prórroga, con texto enorme '41 PTS 🔥' y debajo '16th 40-pt game after 35'",
+  "gancho": "Steph Curry just did it again.",
+  "estructura": "1) Plano de Curry con el marcador 0-3 → 7 victorias (0-5 s). 2) Remontada de Orlando de -16 a +6 (5-12 s). 3) Canastas clave de Curry en los últimos minutos (12-22 s). 4) Prórroga y récord de 40+ con más de 35 años (22-30 s). Minutos exactos a fijar al ver los vídeos.",
+  "cierre": "Vuelve al plano inicial de Curry con el contador de 41 puntos y el récord, para que se repita el bucle.",
+  "clips": "Highlights completos https://www.youtube.com/watch?v=mNYr5rutO0Q ; OT https://www.youtube.com/watch?v=Wr1dw6aQYXU ; postpartido https://www.youtube.com/watch?v=fVl2pDVJ4r8 ; récord 40+ https://www.youtube.com/watch?v=mGmFJNewwY8 (resolución 1080p+ sin comprobar; minutos clave por fijar)",
+  "grafismos": "1) Contador de puntos hasta 41 en la prórroga. 2) Gráfico 0-3 → 7 victorias seguidas. 3) Ficha 'Curry 40+ pts después de los 35: 16'. 4) Cronología del último cuarto (-16 a +6).",
+  "titulo_yt": "Steph Curry was UNSTOPPABLE in OT 🔥",
+  "descripcion": "Stephen Curry drops 41 as the Warriors win their 7th straight 🔥",
+  "hashtags": "#stephcurry #warriors #nba #basketball #shorts",
+  "musica": "Canción enérgica del catálogo del canal (hype/trap), no emocional",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "El marcador final varía: la mayoría de medios dan 126-119 y el recap de NBA.com 124-119; usar 126-119 (ESPN/AP) o no mostrarlo. No se ha verificado ningún récord frente a LeBron o Jordan. Los clips de la NBA pueden dar problemas de copyright.",
+  "analizado": "2026-11-08T17:30:00+00:00"
+ },
+ "42a28863da": {
+  "titular": "Jaylen Brown ignora a Tatum y los Celtics arrasan a los Sixers (123-101)",
+  "formato": "noticia viral",
+  "resumen": "El 10 de noviembre de 2026, en su primer partido contra los Celtics como jugador de los 76ers, Jaylen Brown ignoró a Jayson Tatum cuando este intentó saludarle antes del salto inicial. Boston ganó 123-101 en Filadelfia con 36 puntos de Paul George. Brown ya había dicho que no había hablado con Tatum antes del partido.",
+  "por_que": "Revancha, examigos que ya no se hablan y un saludo rechazado en directo: un momento que se entiende en un segundo y que ya circula por todas partes.",
+  "datos_clave": [
+   "Celtics 123, 76ers 101, 10-nov-2026 en Filadelfia (ESPN, NBA.com)",
+   "Paul George anotó 36 puntos (NBC Sports Philadelphia/ESPN)",
+   "Boston abrió el último cuarto con un 14-0 y subió al 1.º puesto del Este (NBA.com/recap)",
+   "Tyrese Maxey: 24 puntos para Filadelfia (ESPN)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN (marcador)",
+    "u": "https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers"
+   },
+   {
+    "n": "NBA.com Celtics",
+    "u": "https://www.nba.com/celtics/news/game-recap-keys-20261110-bosphi"
+   },
+   {
+    "n": "NBC Sports Philadelphia",
+    "u": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/live-updates-sixers-vs-celtics-jaylen-brown-jayson-tatum-paul-george/765634/"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-30",
+  "fotograma1": "Plano del saludo rechazado: Tatum con la mano levantada y Brown pasando de largo, con el texto grande «HE IGNORED HIM 😳» y el marcador 123-101 pequeño",
+  "gancho": "Jaylen Brown just walked right past Jayson Tatum.",
+  "estructura": "1) Clip del saludo ignorado (0-6 s). 2) Corte a Brown hablando de que no han hablado (6-14 s). 3) Resumen del partido con jugadas de Paul George en el 14-0 (14-24 s). 4) Brown sin chocar la mano con Tatum al acabar (24-30 s).",
+  "cierre": "Termina con el mismo plano del saludo ignorado, ahora con el marcador final 123-101 en pantalla, para enlazar con el principio.",
+  "clips": "Saludo ignorado: https://www.youtube.com/watch?v=E-pz5MRhksA ; https://www.youtube.com/watch?v=NSoVwSirnWc ; Brown tras el partido: https://www.youtube.com/watch?v=jdA-I1m0PYY ; post-partido sin chocar con Tatum: https://www.youtube.com/watch?v=w6egjwWvMS4. Minutos clave por localizar al editar.",
+  "grafismos": "1) Cara a cara Brown vs Tatum con años juntos en Boston (solo si se verifican las cifras). 2) Marcador final 123-101 al llegar al resumen. 3) Ficha de Paul George: 36 pts. 4) Cronología: pregame, 14-0 del último cuarto, final.",
+  "titulo_yt": "Jaylen Brown IGNORED Jayson Tatum 😳",
+  "descripcion": "Jaylen Brown snubs Jayson Tatum as the Celtics rout the Sixers 😳🔥",
+  "hashtags": "#jaylenbrown #jaytatum #celtics #nba #shorts",
+  "musica": "Cinderella de Mac Miller o tema tenso del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No afirmar el motivo de la ruptura entre ambos: no está confirmado. Resolución de los clips no comprobada (se ha de revisar que sean 1080p+). Varios son de canales de terceros: riesgo de copyright, preferir material de la NBA.",
+  "analizado": "2026-11-11T18:55:00+00:00"
+ },
+ "88a4ca7f29": {
+  "titular": "Cooper Flagg anota 43 y los Mavericks remontan a los Pacers (125-122)",
+  "formato": "INSANE",
+  "resumen": "El 9 de noviembre de 2026, Cooper Flagg firmó 43 puntos, su récord de la temporada, con 10 rebotes, 6 asistencias y 3 robos en la victoria de Dallas 125-122 ante Indiana. Anotó 30 de ellos tras el descanso y los Mavericks remontaron una desventaja de dos dígitos. Kyrie Irving sumó 35.",
+  "por_que": "Un chaval de 19 años que le gana un partido a la NBA con 43 puntos es historia viral inmediata y se ilustra muy bien con cifras.",
+  "datos_clave": [
+   "43 puntos, 16/25 en tiros, 3/6 en triples, 8/8 en libres, 10 reb, 6 ast, 3 robos (Mavs Moneyball)",
+   "30 de los 43 puntos, tras el descanso (Yahoo Sports)",
+   "Kyrie Irving: 35 puntos; Mavericks 125, Pacers 122 (NBA.com/Mavs, Dallas Weekly)",
+   "Quinto partido de 40+ de su carrera según ESPN (reportado, ver avisos)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50440099/flagg-finishes-43-points-mavericks-outlast-pacers"
+   },
+   {
+    "n": "Mavs Moneyball",
+    "u": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/63809/mavericks-vs-pacers-recap-3-takeaways-from-dallas-thrilling-125-122-win-over-indiana"
+   },
+   {
+    "n": "NBA.com Mavs",
+    "u": "https://www.nba.com/mavs/news/monster-tandem-of-irving-flagg-push-mavericks-over-pacers"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "25-35",
+  "fotograma1": "Mate o triple de Flagg en el último cuarto, con el texto enorme «43 POINTS» y «AGE 19»",
+  "gancho": "Cooper Flagg just dropped 43 on Indiana.",
+  "estructura": "1) Mejor jugada de Flagg del final (0-5 s). 2) Contador de puntos subiendo hasta 43 (5-12 s). 3) Jugadas de la segunda parte: 30 puntos tras el descanso (12-24 s). 4) Cita del entrenador sobre Flagg (24-32 s).",
+  "cierre": "Vuelve a la jugada inicial con el contador congelado en 43.",
+  "clips": "Resumen completo: https://www.youtube.com/watch?v=RAPmPkOUf20 ; extendido: https://www.youtube.com/watch?v=y-jR93AytPc ; resumen Mavs: https://www.youtube.com/watch?v=JzYmV1wTDUs ; reacción: https://www.youtube.com/watch?v=Th8Rnarz-os. Minutos clave por localizar al editar.",
+  "grafismos": "1) Contador 0→43. 2) Ficha de Flagg con 10 reb, 6 ast, 3 robos. 3) Gráfico 13 antes del descanso / 30 después. 4) Cita de Dusty May en pantalla.",
+  "titulo_yt": "Cooper Flagg went OFF for 43 💀",
+  "descripcion": "Cooper Flagg drops 43 as the Mavs beat the Pacers 🔥",
+  "hashtags": "#cooperflagg #mavericks #nba #basketball #shorts",
+  "musica": "Tema de energía alta del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Distintas webs dan datos distintos sobre récords y totales históricos (p. ej. «n.º 3 de todos los tiempos antes de los 20»): no usarlos sin verificar en una fuente primaria. Resolución de los clips no comprobada; la NBA suele bloquear por copyright.",
+  "analizado": "2026-11-11T18:55:00+00:00"
+ },
+ "db8127adef": {
+  "titular": "Cousins traspasado a los Vikings: Mendoza será titular de los Raiders",
+  "formato": "noticia viral",
+  "resumen": "Los Raiders traspasaron a Kirk Cousins a los Vikings en la fecha límite de traspasos, el martes 10 de noviembre de 2026. El general manager John Spytek confirmó el cambio y dijo que Fernando Mendoza, número 1 del draft, «pasó todas las pruebas». Mendoza debutará como titular el domingo ante los Seahawks, campeones de la Super Bowl, en Las Vegas.",
+  "por_que": "El número 1 del draft por fin sale de titular y el rival es el campeón: curiosidad y debate garantizados entre aficionados de la NFL.",
+  "datos_clave": [
+   "Cousins, a los Vikings en la fecha límite (Bleacher Report, Fox News/OutKick)",
+   "Mendoza titular ante Seattle el domingo (Fox News/OutKick, Yahoo Sports)",
+   "Cousins: 2.340 yardas, 20 TD y 8 intercepciones esta temporada (Fox News/OutKick)",
+   "Los Seahawks son los campeones defensores y lideran la liga en defensa (Fox News/OutKick)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/raiders-gm-says-fernando-mendoza-122536895.html"
+   },
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25521149-fernando-mendoza-set-be-raiders-qb1-after-kirk-cousins-trade-vikings-nfl-deadline"
+   },
+   {
+    "n": "Las Vegas Review-Journal",
+    "u": "https://www.reviewjournal.com/sports/raiders/why-fernando-mendoza-is-replacing-kirk-cousins-as-raiders-qb-3912823/"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Mendoza lanzando con el casco del revés en el logo, texto grande «NO. 1 PICK FINALLY STARTS»",
+  "gancho": "The Raiders just traded their starting quarterback.",
+  "estructura": "1) Clip de la rueda de prensa de Spytek/Kubiak anunciando el cambio (0-8 s). 2) Imágenes de Mendoza en el equipo (8-16 s). 3) Ficha del rival: Seahawks, campeones (16-24 s). 4) Mensaje de Cousins a Mendoza si se localiza (24-30 s).",
+  "cierre": "Vuelve a la frase del arranque con el cartel del domingo: Mendoza vs Seahawks.",
+  "clips": "Anuncio del traspaso: https://www.youtube.com/watch?v=dOpPbw_pIRY ; Amy Trask: https://www.youtube.com/watch?v=FVyV9JllZpI ; Mendoza y Cousins: https://www.youtube.com/watch?v=3oGDd94LqyU. Resolución y minutos clave por comprobar.",
+  "grafismos": "1) Cara a cara Cousins → Vikings con flecha. 2) Ficha de Mendoza (n.º 1 del draft 2026). 3) Cita de Spytek «passed every test». 4) Cartel del partido Raiders–Seahawks, domingo.",
+  "titulo_yt": "The Raiders just TRADED Kirk Cousins 😳",
+  "descripcion": "Fernando Mendoza takes over as the Raiders QB1 🏈",
+  "hashtags": "#fernandomendoza #raiders #nfl #football #shorts",
+  "musica": "Tema épico del catálogo del canal",
+  "caducidad": "🔴 publicar antes del domingo 15 de noviembre (partido ante Seattle)",
+  "avisos": "Fuentes discrepan sobre si es la semana 9 o la 10; no poner el número de semana. No mencionar el contrato ni lo recibido por Cousins: no verificado. Resolución de los clips no comprobada.",
+  "analizado": "2026-11-11T18:55:00+00:00"
+ },
+ "fde5796bf0": {
+  "duracion": "20-40",
+  "analizado": "2026-11-12T07:55:00Z",
+  "titular": "Rex Ryan confirma que iba a pegar un puñetazo a Belichick antes del playoff de 2010",
+  "formato": "gracioso",
+  "resumen": "En el podcast Bussin' With The Boys, Taylor Lewan le preguntó a Rex Ryan por la historia que contó LaDainian Tomlinson: antes del playoff divisional de enero de 2011, Ryan prometió a sus jugadores darle un puñetazo a Bill Belichick. Ryan lo confirmó: «If you guys want me to, I'll punch him right in the face». El puñetazo nunca ocurrió y los Jets ganaron 28-21 en Foxborough.",
+  "por_que": "Es una anécdota contada por el propio protagonista, con remate y con Belichick de por medio: el tipo de historia tipo Shaq que engancha.",
+  "datos_clave": [
+   "Jets 28-21 Patriots en Foxborough el 16-01-2011 (CBS Sports, Awful Announcing)",
+   "Los Jets habían perdido 45-3 contra los Patriots esa misma temporada (Irish Star, Yahoo)",
+   "La historia la contó primero LaDainian Tomlinson (NFL.com)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Awful Announcing",
+    "u": "https://awfulannouncing.com/nfl/rex-ryan-how-close-punching-bill-belichick-face.html"
+   },
+   {
+    "n": "CBS Sports",
+    "u": "https://www.cbssports.com/nfl/news/tomlinson-rex-ryan-joked-about-punching-bill-belichick-in-the-face/"
+   },
+   {
+    "n": "NFL.com",
+    "u": "https://www.nfl.com/news/lt-rex-ryan-said-he-was-going-to-punch-bill-belichick-0ap1000000242538"
+   }
+  ],
+  "potencial": 7,
+  "fotograma1": "Plano de Rex Ryan en el podcast diciendo «I'll punch him right in the face», con el texto grande «RYAN vs BELICHICK» y una foto de Belichick",
+  "gancho": "I'll punch him right in the face.",
+  "estructura": "1) Gancho con la frase de Ryan. 2) Lewan sacando la historia de Tomlinson. 3) Ryan confirmándola y la reacción de los presentadores. 4) Resultado: Jets 28-21 en Foxborough.",
+  "cierre": "Terminar con la misma frase del principio tras el marcador final 28-21 para que se vuelva a ver.",
+  "clips": "Pendiente: no se ha localizado el enlace exacto del episodio de Bussin' With The Boys en YouTube; buscarlo en el canal del podcast y comprobar que sea 1080p+. Para el playoff de 2011, buscar el resumen oficial de la NFL.",
+  "grafismos": "Contador 45-3 → 28-21 (al mencionar el playoff); cita animada de Ryan; cara a cara Ryan vs Belichick; cronología 2010-2011.",
+  "titulo_yt": "Rex Ryan was ready to PUNCH Belichick 😭",
+  "descripcion": "Rex Ryan confirms he almost fought Bill Belichick 🥊😭",
+  "hashtags": "#rexryan #billbelichick #nfl #football #shorts",
+  "musica": "Una de humor/épica del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Era una amenaza dicha a los jugadores, no ocurrió. No decir que hubo pelea. Comprobar los derechos del podcast."
+ },
+ "d4b5ce140e": {
+  "duracion": "20-40",
+  "analizado": "2026-11-12T07:55:00Z",
+  "titular": "Puka Nacua, de baja al menos 4 semanas: los Rams no lo ponen en IR por ahora",
+  "formato": "noticia viral",
+  "resumen": "Puka Nacua se lesionó en la última jugada ofensiva de la victoria de los Rams 20-13 en Washington (semana 9): esguince de MCL y PCL y turf toe. McVay dijo el lunes que probablemente iría a IR, pero el miércoles 11 de noviembre aclaró que por ahora no, por cuestiones de gestión de plantilla. Se espera que falte al menos cuatro semanas.",
+  "por_que": "Lesión de una estrella de la liga con giro inesperado: afecta a fantasy y a las apuestas, y es tema de conversación inmediato.",
+  "datos_clave": [
+   "Esguince MCL/PCL y turf toe (ESPN, CBS Sports)",
+   "Baja de al menos 4 semanas (Yahoo, ESPN)",
+   "Rams 20-13 en Washington; se lesionó en la última jugada ofensiva (Yahoo)",
+   "Sin IR por ahora; regreso estimado semana 14-15, sin fecha oficial (Yahoo, PFT)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nfl/story/_/id/50435879/rams-nacua-likely-hit-ir-mcl-pcl-sprain-turf-toe"
+   },
+   {
+    "n": "CBS Sports",
+    "u": "https://www.cbssports.com/nfl/news/rams-all-pro-puka-nacua-likely-to-go-on-injured-reserve/"
+   },
+   {
+    "n": "NBC Sports PFT",
+    "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-puka-nacua-injury-id-be-lying-if-i-said-i-wasnt-questioning-that-play-call"
+   }
+  ],
+  "potencial": 6,
+  "fotograma1": "Jugada de la lesión de Nacua con texto grande «PUKA OUT 4+ WEEKS»",
+  "gancho": "Puka Nacua is out. And the Rams won't even put him on IR.",
+  "estructura": "1) Jugada de la lesión. 2) Parte médico en gráfico. 3) Clip de McVay en rueda de prensa. 4) Qué significa para los Rams.",
+  "cierre": "Volver a la jugada de la lesión con el contador de semanas.",
+  "clips": "Pendiente: buscar en YouTube el vídeo de la jugada (Rams-Commanders, semana 9) y la rueda de prensa de McVay del 11-11 en 1080p+; no se han podido verificar enlaces.",
+  "grafismos": "Ficha de Nacua con sus cifras (verificar antes de poner); contador «4+ semanas»; cronología lunes IR → miércoles sin IR.",
+  "titulo_yt": "Puka Nacua INJURED: Rams lose their star 😳",
+  "descripcion": "Puka Nacua out at least 4 weeks 💔",
+  "hashtags": "#pukanacua #rams #nfl #football #shorts",
+  "musica": "Cinderella de Mac Miller",
+  "caducidad": "🔴 publicar antes del próximo partido de los Rams",
+  "avisos": "Tono sobrio. Fecha de regreso no confirmada: no poner semana concreta. Posible cambio de la decisión de IR."
+ },
+ "735a3c9485": {
+  "duracion": "20-40",
+  "analizado": "2026-11-12T07:55:00Z",
+  "titular": "Kenyon Martin: «El nepotismo es real» con Bronny y LeBron",
+  "formato": "noticia viral",
+  "resumen": "En el podcast TFU, Kenyon Martin dijo que con Bronny y LeBron «nepotism is real. We all know it and we all would do it». Considera que Bronny no estaba listo y que habría ganado con otro año en USC, pero también que el trato es injusto para él. Bronny fue elegido el puesto 55 del draft de 2024 por los Lakers.",
+  "por_que": "Combina LeBron, Bronny y una opinión polémica de un excampeón: gancho clásico de debate.",
+  "datos_clave": [
+   "Bronny, 55.º del draft de 2024 (Yahoo, Athlon)",
+   "Cita: «nepotism is real. We all know it and we all would do it» (Yahoo)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/nepotism-real-kenyon-martin-admits-042040224.html"
+   },
+   {
+    "n": "Athlon Sports",
+    "u": "https://athlonsports.com/nba/nepotism-is-real-kenyon-martin-admits-bronny-james-was-never-ready-for-the-nba"
+   }
+  ],
+  "potencial": 5,
+  "fotograma1": "Kenyon Martin hablando con el texto grande «NEPOTISM IS REAL» y foto de Bronny",
+  "gancho": "Nepotism is real. We all know it.",
+  "estructura": "1) Cita de Martin. 2) Su defensa de LeBron. 3) «Unfair to the kid». 4) Dato del puesto 55.",
+  "cierre": "Volver a la cita inicial con la frase «unfair to the kid».",
+  "clips": "Pendiente: no se ha localizado el vídeo del podcast TFU en YouTube; buscarlo y comprobar la calidad (1080p+). Solo hay texto verificado.",
+  "grafismos": "Cita animada; ficha de Bronny (puesto 55, 2024); cara a cara Martin/LeBron.",
+  "titulo_yt": "Kenyon Martin on Bronny: 'Nepotism is real' 😳",
+  "descripcion": "Kenyon Martin speaks on Bronny and LeBron 🏀",
+  "hashtags": "#bronnyjames #lebronjames #kenyonmartin #nba #shorts",
+  "musica": "Cinderella de Mac Miller",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Citas literales solo las confirmadas por Yahoo; el resto, paráfrasis. Sin clip verificado, el potencial es medio."
+ },
+ "f5036c791f": {
+  "duracion": "20-40",
+  "analizado": "2026-11-12T07:55:00Z",
+  "titular": "Bronca masiva en el 49ers-Raiders: 11 detenidos y 45 expulsados (cifras iniciales)",
+  "formato": "noticia viral",
+  "resumen": "Tras el 49ers-Raiders del 8 de noviembre de 2026 en el Levi's Stadium (38-17), la policía de Santa Clara informó de 11 detenidos y 45 expulsados por peleas en grada, accesos y aparcamientos. Hay vídeos virales, entre ellos un hombre inconsciente en el aparcamiento. Los 49ers hablaron de «tolerancia cero». Un titular de CBS Sports habla de 31 detenidos y 93 expulsados, cifras posteriores que no he podido comprobar.",
+  "por_que": "Peleas de aficionados con vídeos virales y rivalidad histórica: contenido que se comparte solo.",
+  "datos_clave": [
+   "11 detenidos y 45 expulsados según la primera cifra policial (Review-Journal, ABC7, Yahoo)",
+   "Partido 49ers 38-17 Raiders, 8-11-2026 (resúmenes)",
+   "Posible actualización: 31 detenidos y 93 expulsados (titular de CBS Sports, sin verificar el texto)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "ABC7 San Francisco",
+    "u": "https://abc7news.com/post/san-francisco-49ers-las-vegas-raiders-fans-ejected-arrested-violent-fights-levis-stadium-santa-clara-police/20029103/"
+   },
+   {
+    "n": "Las Vegas Review-Journal",
+    "u": "https://www.reviewjournal.com/sports/raiders/11-arrested-45-ejected-from-raiders-49ers-game-as-videos-of-fan-brawls-go-viral-3912317/"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/49ers-raiders-fans-ejected-arrested-172410599.html"
+   }
+  ],
+  "potencial": 5,
+  "fotograma1": "Imagen del vídeo viral de la pelea con el texto grande «11 ARRESTED • 45 EJECTED»",
+  "gancho": "11 arrested. 45 ejected. This is what happened at Levi's Stadium.",
+  "estructura": "1) Cifras en gráfico. 2) Clips de las peleas (solo de medios). 3) Comunicado de los 49ers. 4) Contexto rivalidad.",
+  "cierre": "Volver a las cifras con el dato actualizado, si se confirma.",
+  "clips": "Hay un Short en YouTube (https://www.youtube.com/shorts/6CGUsLCn0q4) pero es vertical y de baja calidad: no sirve. Buscar la versión de los noticieros locales (KTVU, ABC7) en 1080p+; no verificado.",
+  "grafismos": "Contador de detenidos/expulsados; cronología del día; mapa de Levi's Stadium.",
+  "titulo_yt": "49ers vs Raiders fans went WILD 😳",
+  "descripcion": "Chaos at Levi's Stadium after 49ers-Raiders 🏈",
+  "hashtags": "#49ers #raiders #nfl #football #shorts",
+  "musica": "Una del catálogo con tono tenso",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Violencia real: tono sobrio, sin bromas. Actualizar cifras si CBS las confirma. No mostrar caras de aficionados identificables. Riesgo de copyright y de contenido sensible en YouTube."
+ },
+ "2635124d0a": {
+  "titular": "Marcus Smart, expulsado por lanzar un puñetazo a Charles Bassey en el Rockets-Warriors",
+  "formato": "noticia viral",
+  "resumen": "El 11 de noviembre de 2026, en Houston, Marcus Smart lanzó un gancho de derecha que rozó la nariz de Charles Bassey. Tras revisar la jugada le pusieron una falta flagrante 2 y fue expulsado. Los Rockets ganaron 115-108 y cortaron la racha de 8 victorias de los Warriors. Smart dijo que se enredaron y que su codo, lesionado antes, se dobló; Bassey dijo que Smart jugaba sucio «todo el partido».",
+  "por_que": "Pelea con puñetazo y expulsión entre dos equipos de moda, con versiones enfrentadas de los dos jugadores: se entiende sin contexto y genera debate en comentarios.",
+  "datos_clave": [
+   "Flagrant 2 y expulsión tras revisión de la jugada (TSN/AP)",
+   "Rockets 115-108 Warriors, 11-nov-2026; fin de la racha de 8 victorias de GSW (Yahoo/AP, ESPN)",
+   "Curry se fue en el primer cuarto con molestias abdominales tras 6 minutos y 3 puntos (Yahoo/AP)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "TSN (AP/CP)",
+    "u": "https://www.tsn.ca/nba/article/rockets-smart-ejected-for-throwing-punch-at-warriors-charles-bassey-n1-50459125/"
+   },
+   {
+    "n": "ESPN (crónica)",
+    "u": "https://www.espn.com/nba/recap?gameId=401909974"
+   },
+   {
+    "n": "Yahoo Sports (AP)",
+    "u": "https://ca.sports.yahoo.com/news/rockets-beat-warriors-115-108-051956633.html"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Plano de la jugada en el instante del gancho de Smart, con texto grande «SMART THREW A PUNCH 😳» (sin emoji pegado: usar icono gráfico) y la cara de Bassey",
+  "gancho": "Marcus Smart just threw a punch at Charles Bassey.",
+  "estructura": "1) Jugada del puñetazo a cámara lenta (0-6 s). 2) Revisión y flagrant 2, expulsión (6-12 s). 3) Versión de Smart y de Bassey en declaraciones (12-24 s). 4) Marcador final y racha cortada (24-30 s).",
+  "cierre": "Vuelve a la jugada del puñetazo a velocidad normal con la pregunta «Who's right?», que enlaza con el primer fotograma.",
+  "clips": "Vídeo de ESPN en YouTube enlazado por el radar: https://www.youtube.com/watch?v=oNx2FFBvSzs (calidad 1080p NO comprobada desde la sesión; verificar antes de editar). No se han podido comprobar más clips.",
+  "grafismos": "1) Ficha Smart vs Bassey al inicio. 2) Etiqueta «Flagrant 2 = EJECTED» en el momento de la revisión. 3) Marcador 115-108 y contador «8-game streak: over» al final.",
+  "titulo_yt": "Marcus Smart got EJECTED for this 😳",
+  "descripcion": "Marcus Smart throws a punch at Charles Bassey and gets ejected 🥊😳",
+  "hashtags": "#marcussmart #rockets #nba #basketball #shorts",
+  "musica": "Tema de tensión del catálogo del canal (no emocional)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No afirmar que el puñetazo conectó: las fuentes dicen que rozó la nariz. Las declaraciones de Smart y Bassey vienen de la crónica de AP; no inventar citas. Clip de la NBA/ESPN: riesgo de copyright.",
+  "analizado": "2026-11-12T19:00:00Z"
+ },
+ "1fb1f90dcd": {
+  "titular": "Cooper Flagg firma 43 puntos y es el segundo adolescente con un 40-10-5",
+  "formato": "INSANE",
+  "resumen": "El 9 de noviembre de 2026 los Mavericks ganaron 125-122 a los Pacers. Cooper Flagg anotó 43 puntos (30 en la segunda mitad), con 10 rebotes, 6 asistencias y 3 robos, y 16 de 25 en tiros. Es el segundo adolescente con un partido de 40 puntos, 10 rebotes y 5 asistencias. Kyrie Irving añadió 35 y Dallas remontó 13 puntos.",
+  "por_que": "Un chaval de 19 años haciendo historia con una remontada: cifras redondas, fáciles de ilustrar y comparables con leyendas.",
+  "datos_clave": [
+   "43 puntos, 10 rebotes, 6 asistencias, 3 robos; 16/25 (Field Level Media/Fanatik)",
+   "Mavericks 125-122 Pacers, 9-nov-2026; Kyrie Irving 35 (Field Level Media)",
+   "Segundo adolescente con 40-10-5 (Field Level Media)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Field Level Media",
+    "u": "https://fieldlevelmedia.com/nba/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game/"
+   },
+   {
+    "n": "Fanatik (roundup)",
+    "u": "https://www.fanatik.com.tr/en/nba-roundup-cooper-flagg-becomes-second-teenager-with-forty-ten-five-game-2644068"
+   }
+  ],
+  "potencial": 5,
+  "duracion": "20-30",
+  "fotograma1": "Flagg anotando en la segunda mitad con contador gigante «43 PTS»",
+  "gancho": "Cooper Flagg just did something only one other teenager has done.",
+  "estructura": "1) Contador de 43 puntos (0-5 s). 2) Mejores jugadas de la segunda mitad (5-20 s). 3) Ficha 43-10-6-3 y 16/25 (20-27 s). 4) Remontada de 13 puntos y 125-122 (27-30 s).",
+  "cierre": "Vuelve al contador «43» del principio con el texto «Age 19».",
+  "clips": "No se ha localizado ningún clip en 1080p desde la sesión; buscar resumen oficial de los Mavericks o NBA en YouTube antes de editar. Por eso el potencial se baja.",
+  "grafismos": "1) Contador de puntos por cuarto. 2) Ficha estadística 43-10-6-3. 3) Gráfico de la remontada de 13 puntos.",
+  "titulo_yt": "Cooper Flagg went OFF for 43 😳",
+  "descripcion": "Cooper Flagg drops 43 and makes teenage NBA history 🔥",
+  "hashtags": "#cooperflagg #mavericks #nba #basketball #shorts",
+  "musica": "Tema enérgico del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No poner la comparación con Kevin Durant: las fuentes discrepan en su línea estadística. La edad exacta de Flagg no está verificada aquí: no la pongas en pantalla sin comprobarla. Las cifras vienen de agencias, sin crónica primaria leída.",
+  "analizado": "2026-11-12T19:00:00Z"
+ },
+ "d3f2e51799": {
+  "titular": "Curry se rompe el oblicuo abdominal: al menos 2 semanas de baja con los Warriors 8-4",
+  "formato": "noticia viral",
+  "resumen": "Stephen Curry dejó el partido del 11 de noviembre ante los Rockets en el primer cuarto, tras unos 6 minutos y 3 puntos. Los Warriors informaron de que la resonancia confirma un desgarro del oblicuo abdominal y que será reevaluado en dos semanas. Kerr dijo antes del diagnóstico: \"la preocupación es alta, pero no sé el alcance\". Algunos medios hablan de hasta 4 semanas, sin confirmar.",
+  "por_que": "Es la mayor estrella de la liga cayendo en directo, con el entrenador admitiendo miedo; todo el mundo quiere saber cuánto tiempo estará fuera y qué pasa con los Warriors.",
+  "datos_clave": [
+   "Salió en el primer cuarto del 115-108 de Houston el 11-nov (NBC Sports Bay Area)",
+   "Desgarro de oblicuo abdominal, reevaluación en 2 semanas (comunicado de los Warriors, vía NBA.com)",
+   "Promediaba 27,8 puntos antes de la lesión (medios; contrastar antes de poner gráfico)",
+   "Warriors 8-4 tras la derrota"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NBA.com",
+    "u": "https://www.nba.com/news/stephen-curry-out-abdominal-soreness"
+   },
+   {
+    "n": "NBC Sports Bay Area",
+    "u": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-injury-update-steph-curry/1979395/"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Curry saliendo hacia el vestuario con texto grande: \"CURRY IS OUT 🚨\" sin emojis pegados, con rótulo 2+ WEEKS",
+  "gancho": "Concern is high, but I have no idea the extent of the injury.",
+  "estructura": "1) Kerr con la frase \"concern is high\" (rueda de prensa tras el partido). 2) Plano de Curry saliendo lesionado. 3) Comunicado: oblicuo abdominal, 2 semanas. 4) Contexto: Warriors 8-4 y sus números. 5) Vuelta a la frase de Kerr.",
+  "cierre": "Termina con la duda de Kerr (\"no sé el alcance\"), que reenlaza con el gancho para que se vuelva a ver.",
+  "clips": "Kerr: https://www.youtube.com/watch?v=ZNR2qxLA87w y https://www.youtube.com/watch?v=mt8N6C6o_MQ (rueda de prensa; resolución sin comprobar, verificar 1080p antes de descargar)",
+  "grafismos": "1) Ficha de Curry con 27,8 PPG al inicio (solo si se verifica). 2) Contador \"6 MIN\" sobre el momento de la salida. 3) Cita de Kerr en grande. 4) Calendario de reevaluación: 2 semanas.",
+  "titulo_yt": "Steph Curry just got INJURED and Kerr is worried 😳",
+  "descripcion": "Steph Curry tears his oblique and Steve Kerr says concern is high 🚨",
+  "hashtags": "#stephcurry #warriors #nba #basketball #shorts",
+  "musica": "Una pista seria y tensa del catálogo (no cómica)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No decir que está fuera toda la temporada (un vídeo lo titula así pero no hay fuente). Plazo de 2 semanas es de reevaluación, no de vuelta. Resolución de los clips sin comprobar. Tono sobrio.",
+  "analizado": "2026-11-13T18:55:00Z"
+ },
+ "fb86137839": {
+  "titular": "Lamar Jackson, operado del pulgar: 6-10 semanas de baja según Minter",
+  "formato": "noticia viral",
+  "resumen": "Lamar Jackson se fracturó y dislocó el pulgar derecho en la derrota 36-10 ante los Bills en la semana 8. Los Ravens anunciaron que fue operado y lo pasaron a la lista de lesionados. El entrenador Jesse Minter dijo que este tipo de lesiones suele tardar entre 6 y 10 semanas. Rapoport habla de 6-9 semanas y de que probablemente no vuelva en la temporada.",
+  "por_que": "Un MVP fuera con los Ravens 4-4 y la duda de si volverá a jugar este año; la gente quiere saber cuándo vuelve.",
+  "datos_clave": [
+   "Fractura y dislocación del pulgar derecho, operado (CBS Sports)",
+   "6-10 semanas según Minter (ESPN/AP)",
+   "Derrota 36-10 ante Buffalo; Ravens 4-4 (medios)",
+   "Posible regreso en la semana 16 ante Cleveland si es lo más rápido (ESPN)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks"
+   },
+   {
+    "n": "CBS Sports",
+    "u": "https://www.cbssports.com/nfl/news/ravens-announce-lamar-jackson-surgery-broken-dislocated-thumb-out-6-10-weeks/"
+   },
+   {
+    "n": "NBC Sports",
+    "u": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-13/minter-confirms-jackson-thumb-is-out-6-10-weeks"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Lamar en la banda con texto grande \"6-10 WEEKS\"",
+  "gancho": "These injuries typically take six to ten weeks to heal.",
+  "estructura": "1) Minter diciendo la frase. 2) Plano de la jugada/lesión (sin imágenes explícitas). 3) Gráfico de calendario con las semanas. 4) Ravens 4-4 y Brissett como sustituto. 5) Pregunta final.",
+  "cierre": "Cierra con la cifra \"6-10 semanas\" en grande, enlazando con el texto del primer fotograma.",
+  "clips": "https://www.youtube.com/watch?v=1481k9p0bVE y https://www.youtube.com/watch?v=cdt4FyxQhDo (comentario/análisis; resolución sin comprobar, buscar la rueda de prensa original de Minter en 1080p)",
+  "grafismos": "1) Calendario semana 8 a semana 16 con la ventana de regreso. 2) Marcador 36-10. 3) Ficha Lamar con récord 4-4 de los Ravens. 4) Cita de Minter.",
+  "titulo_yt": "Lamar Jackson is OUT for weeks after thumb surgery 💔",
+  "descripcion": "Lamar Jackson's thumb injury could keep him out 6-10 weeks 🏈",
+  "hashtags": "#lamarjackson #ravens #nfl #football #shorts",
+  "musica": "Cinderella de Mac Miller (tono sobrio)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Tono sobrio, no bromear. No decir que está fuera de la temporada: es lo que dice Rapoport, no el equipo. Un resultado dice que la lesión fue ante los Patriots y es erróneo. Resolución de los clips sin comprobar.",
+  "analizado": "2026-11-13T18:55:00Z"
+ },
+ "02ff0fe233": {
+  "titular": "Los Raiders traspasan a Kirk Cousins a los Vikings por una tercera ronda de 2027",
+  "formato": "noticia viral",
+  "resumen": "El 10 de noviembre, antes del cierre de fichajes, los Raiders enviaron a Kirk Cousins a los Vikings por una tercera ronda del draft de 2027. Cousins había firmado con Las Vegas en abril de 2026. El traspaso deja a Fernando Mendoza, número 1 del draft, como titular. El acuerdo dependía de que Cousins pasara el examen físico.",
+  "por_que": "Vuelta de Cousins a su antiguo equipo, un titular con humor y rencor, y los Vikings 6-2 con ambiciones de playoffs.",
+  "datos_clave": [
+   "Traspaso el 10-nov-2026 por una tercera ronda de 2027 (Raiders.com / MPR News)",
+   "Sujeto al examen físico (medios)",
+   "Mendoza pasa a ser el titular (AP vía KOMO)",
+   "Vikings 6-2 al hacerse el trato (medios)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Raiders.com",
+    "u": "https://www.raiders.com/news/raiders-acquire-2027-third-round-pick-nfl-2026"
+   },
+   {
+    "n": "MPR News",
+    "u": "https://www.mprnews.org/story/2026/11/10/minnesota-vikings-reacquire-qb-kirk-cousins-from-las-vegas-raiders"
+   },
+   {
+    "n": "theScore",
+    "u": "https://www.thescore.com/nfl/news/3651397"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Cousins con camiseta de los Raiders y de los Vikings partida en dos, texto grande \"TRADED BACK\"",
+  "gancho": "Kirk Cousins is a Viking again.",
+  "estructura": "1) Plano de Cousins con los Vikings. 2) Camiseta de los Raiders en abril. 3) Reacción de Cousins al traspaso. 4) Mendoza al mando. 5) Vuelta al inicio.",
+  "cierre": "Cierra con Cousins otra vez de morado, enlazando con el primer fotograma.",
+  "clips": "Reacción de Cousins: https://www.youtube.com/watch?v=FCvR0WuyhSs; análisis: https://www.youtube.com/watch?v=rGQR6ahaWL4 (resolución sin comprobar)",
+  "grafismos": "1) Cronología abril-noviembre. 2) Contador \"3rd round, 2027\". 3) Cara a cara Cousins/Mendoza. 4) Cita de Cousins.",
+  "titulo_yt": "Kirk Cousins is back with the Vikings 😳",
+  "descripcion": "Raiders trade Kirk Cousins to the Vikings for a 2027 third-round pick 🏈",
+  "hashtags": "#kirkcousins #vikings #raiders #nfl #shorts",
+  "musica": "Una pista de ritmo medio del catálogo",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No he verificado el vídeo viral de Cousins saludando a sus excompañeros (The Athletic); no lo uses. Confirmar que pasó el físico antes de decir que está hecho. Resolución de los clips sin comprobar.",
+  "analizado": "2026-11-13T18:55:00Z"
+ },
+ "2fe7ac8d3d": {
+  "titular": "Jameis Winston canta «Who Let the Dogs Out» como cuenta en 4.º y 1",
+  "formato": "gracioso",
+  "resumen": "En el partido de jueves noche entre los Giants y los Commanders, Jameis Winston usó «Who Let the Dogs Out» como cuenta falsa para intentar que Washington cayera en fuera de juego en un 4.º y 1. No funcionó: el equipo fue sancionado por retraso de juego y tuvo que despejar, y los Giants perdieron. Harbaugh dijo después que la cuenta formaba parte del plan y los Commanders se burlaron en redes.",
+  "por_que": "Es absurdo, se entiende sin contexto y tiene remate (el fallo y la burla posterior). Winston es un personaje viral fijo.",
+  "datos_clave": [
+   "Cuenta en un 4.º y 1 del partido Giants-Commanders, jueves noche (Bleacher Report, Athlon)",
+   "Penalización por retraso de juego y despeje (Bleacher Report)",
+   "Harbaugh confirma que fue parte del plan (Newsweek, Athlon)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25532820-watch-jameis-winstons-funny-who-let-dogs-out-hard-count-video-giants-vs-commanders"
+   },
+   {
+    "n": "Athlon Sports",
+    "u": "https://athlonsports.com/nfl/new-york-giants/jameis-winston-who-let-the-dogs-out-hard-count-giants-commanders"
+   },
+   {
+    "n": "Newsweek",
+    "u": "https://www.newsweek.com/sports/nfl/giants-hc-john-harbaugh-addresses-jameis-winstons-viral-cadence-after-loss-12710667"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-30",
+  "fotograma1": "Plano de la retransmisión con Winston en el centro cantando la cuenta; texto grande «WHO LET THE DOGS OUT?!» y un emoji-gráfico de perro animado (motion graphic, no emoji pegado).",
+  "gancho": "Who let the dogs out?!",
+  "estructura": "1) Audio de la cuenta desde el segundo 0. 2) Reacción de los comentaristas. 3) Resultado de la jugada: retraso de juego y despeje. 4) Explicación de Winston/Harbaugh en rueda de prensa. 5) Burla de los Commanders.",
+  "cierre": "Vuelve a la cuenta cantada en bucle para que el final enlace con el primer segundo.",
+  "clips": "Jugada: https://www.youtube.com/watch?v=6RDXtbkn9do y https://www.youtube.com/watch?v=-E3-JDzD-GM (resolución por comprobar antes de editar). Explicación de Harbaugh: https://www.youtube.com/shorts/f5mLy6ucpgI (vertical, solo referencia).",
+  "grafismos": "1) Cartel de situación «4th & 1» al inicio de la jugada. 2) Contador de la sanción «Delay of game». 3) Cita de Harbaugh en pantalla cuando la dice.",
+  "titulo_yt": "Jameis Winston sang \"Who Let the Dogs Out\" on 4th & 1 🐶😭",
+  "descripcion": "Jameis Winston's hard count on 4th & 1 was something else 😭🐶",
+  "hashtags": "#jameiswinston #giants #nfl #football #shorts",
+  "musica": "Tema ligero del catálogo del canal; el audio original de la cuenta manda.",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No afirmar el marcador exacto ni el momento del partido: las fuentes consultadas no coinciden del todo. Clips de la NFL: riesgo de copyright, usar recortes cortos.",
+  "analizado": "2026-11-14T18:55:00Z"
+ },
+ "eeac611c83": {
+  "titular": "Cade Cunningham, primero en la historia con 50 puntos, 10 asistencias y 0 pérdidas",
+  "formato": "INSANE",
+  "resumen": "Cade Cunningham anotó 52 puntos con 11 asistencias y ninguna pérdida en la victoria de los Pistons 144-140 en dos prórrogas ante los Wizards. Según NBA.com citado por Yahoo, es el primer jugador desde que se registran pérdidas (1977-78) con al menos 50 puntos, 10 asistencias y 0 pérdidas. Fue su récord personal y el partido incluyó los triples sobre la bocina de Trae Young y AJ Dybantsa para forzar las prórrogas.",
+  "por_que": "Récord histórico con cifras limpias y fáciles de ilustrar, de una estrella en ascenso, con final de partido de locura.",
+  "datos_clave": [
+   "52 puntos, 11 asistencias, 0 pérdidas (Yahoo/AP, ESPN)",
+   "Primero desde 1977-78 con 50+ pts, 10+ ast y 0 pérdidas (NBA.com citado por Yahoo)",
+   "Pistons 144, Wizards 140 en dos prórrogas (Yahoo, ESPN)",
+   "Récord personal anterior: 46 puntos (Yahoo)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards"
+   },
+   {
+    "n": "Yahoo Sports (AP)",
+    "u": "https://sports.yahoo.com/articles/cunninghams-incredible-night-52-points-051215195.html"
+   },
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25532813-cade-cunningham-makes-history-pistons-beat-wizards-box-score-stats-highlights-trae-more"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "25-35",
+  "fotograma1": "Cade en plena jugada del último cuarto con un marcador gigante «52 PTS · 11 AST · 0 TOV».",
+  "gancho": "Nobody in NBA history had ever done this.",
+  "estructura": "1) Cifra 52/11/0 en pantalla. 2) Canastas de Cade del cuarto cuarto. 3) Los dos triples sobre la bocina que alargan el partido. 4) Canasta decisiva en la 2.ª prórroga. 5) Dato del récord histórico.",
+  "cierre": "Vuelve al marcador 52/11/0 con el «0» resaltado, enlazando con el primer fotograma.",
+  "clips": "https://www.youtube.com/watch?v=fJdCpbP1rtE (52 pts, 2OT); https://www.youtube.com/watch?v=zuONQSnmSDk (bocinazos de Trae y Dybantsa y canasta de Cade); resumen completo https://www.youtube.com/watch?v=T181H-5F4so. Comprobar resolución antes de editar.",
+  "grafismos": "1) Contador de puntos subiendo hasta 52. 2) Ficha «0 TOV» en grande. 3) Cronología de las dos prórrogas. 4) Cara a cara con los otros jugadores de 50+ y 0 pérdidas solo si se comprueba.",
+  "titulo_yt": "Cade Cunningham did something NO ONE has ever done 🤯",
+  "descripcion": "Cade Cunningham's 52-point, 0-turnover masterpiece 🔥",
+  "hashtags": "#cadecunningham #pistons #nba #basketball #shorts",
+  "musica": "Tema épico/rápido del catálogo del canal.",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "ESPN lo presenta como el quinto doble-doble de 50 puntos sin pérdidas, mientras NBA.com/Yahoo dicen «primero» en 50+/10+/0: decir exactamente «primero con 50 puntos, 10 asistencias y 0 pérdidas». Clips NBA: copyright.",
+  "analizado": "2026-11-14T18:55:00Z"
+ },
+ "abf2783d28": {
+  "titular": "Draymond empuja a Wembanyama por la espalda y recibe una flagrante 1",
+  "formato": "noticia viral",
+  "resumen": "Draymond Green recibió una falta flagrante 1 por empujar por la espalda a Victor Wembanyama en la derrota de los Warriors ante los Spurs en la Copa NBA. Steve Kerr criticó a Green en rueda de prensa tras el partido. Wembanyama respondió brevemente después del partido, pero no he podido confirmar su frase literal.",
+  "por_que": "Draymond contra Wemby es un enfrentamiento con historia reciente y la jugada se ve clara en un solo plano.",
+  "datos_clave": [
+   "Flagrant 1 a Draymond por empujar a Wembanyama por la espalda (Bleacher Report, Yahoo)",
+   "Warriors perdieron ante Spurs en la Copa NBA (Yahoo)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Bleacher Report (vídeo)",
+    "u": "https://www.youtube.com/watch?v=RsPRToVXQDU"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/victor-wembanyama-gives-blunt-three-221544926.html"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Plano de la jugada justo antes del empujón con el texto grande «FLAGRANT 1».",
+  "gancho": "Draymond just shoved Wemby in the back.",
+  "estructura": "1) Empujón y flagrante. 2) Repetición lenta. 3) Reacción de Kerr en la rueda de prensa. 4) Respuesta de Wembanyama (solo si se verifica la cita).",
+  "cierre": "Repite el empujón con el sello «FLAGRANT 1» para enlazar con el primer fotograma.",
+  "clips": "https://www.youtube.com/watch?v=RsPRToVXQDU (jugada); https://www.youtube.com/watch?v=2_PbKFBimhI (Kerr en rueda de prensa). Comprobar resolución.",
+  "grafismos": "1) Sello «FLAGRANT 1». 2) Cara a cara Draymond/Wemby con alturas solo si se verifican. 3) Cita de Kerr con subtítulo exacto.",
+  "titulo_yt": "Draymond got a FLAGRANT for shoving Wemby 😳",
+  "descripcion": "Draymond Green shoves Victor Wembanyama and gets a flagrant 1 😳",
+  "hashtags": "#draymondgreen #wembanyama #warriors #nba #basketball",
+  "musica": "Tema tenso del catálogo del canal.",
+  "caducidad": "🔴 publicar antes del siguiente partido de Warriors o Spurs",
+  "avisos": "No poner marcador ni la frase de tres palabras de Wemby sin verificar. Solo he visto descripciones, no los vídeos.",
+  "analizado": "2026-11-14T18:55:00Z"
+ },
+ "616a95c136": {
+  "titular": "Hutchinson, posible rotura de LCA al celebrar un sack a Maye en Múnich",
+  "formato": "noticia viral",
+  "resumen": "El 15 de noviembre de 2026, en la victoria de los Lions 35-10 sobre los Patriots en Múnich, Aidan Hutchinson se lesionó la rodilla derecha al celebrar un sack a Drake Maye en el primer cuarto. Según Ian Rapoport (NFL Network), las pruebas iniciales apuntan a rotura de LCA; AP lo cita como lesión de final de temporada. Dan Campbell no dio diagnóstico tras el partido y se esperan segundas opiniones.",
+  "por_que": "Una estrella lesionada celebrando un sack es un momento viral e inesperado que la gente quiere ver y comentar. Se entiende en un segundo.",
+  "datos_clave": [
+   "Lions 35-10 Patriots en Múnich (Chicago Sun-Times)",
+   "Pruebas iniciales: posible LCA, según Rapoport; diagnóstico aún preliminar (NFL.com, ESPN)",
+   "Maye también salió lesionado en la misma jugada; ESPN cita temor a fractura de tobillo"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nfl/story/_/id/50501291/sources-aidan-hutchinson-season-torn-acl"
+   },
+   {
+    "n": "NBC Sports PFT",
+    "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aidan-hutchinson-injured-celebrating-after-sacking-drake-maye-in-germany"
+   },
+   {
+    "n": "Chicago Sun-Times (AP)",
+    "u": "https://chicago.suntimes.com/nfl/2026/11/15/lions-patriots-munich-drake-maye-aiden-hutchinson-injuries"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Hutchinson celebrando el sack justo antes de caer, con texto enorme 'WORST CELEBRATION EVER 💔' y el nombre 'Hutchinson' en grande",
+  "gancho": "Aidan Hutchinson got hurt celebrating a sack.",
+  "estructura": "1) Sack a Maye y celebración (0-6 s). 2) Hutchinson al suelo y salida del campo (6-14 s). 3) Rapoport / informe de posible LCA en pantalla (14-22 s). 4) Reacción de Campbell: 'we'll know more when we get back' (22-30 s).",
+  "cierre": "Vuelve al plano de la celebración con el texto 'Season over?' sin afirmar el diagnóstico, para enlazar con el gancho.",
+  "clips": "Clips candidatos (resolución por comprobar en el editor; priorizar canal oficial NFL/Lions): https://www.youtube.com/watch?v=_X0GCX2P73A ; https://www.youtube.com/watch?v=DZm-Rp9ptbY ; rueda de prensa de Campbell: buscar vídeo oficial de Lions. No se ha comprobado que sean 1080p+.",
+  "grafismos": "1) Ficha de Hutchinson (sacks, equipo) solo con cifras verificadas antes de usarla. 2) Titular 'Initial tests: torn ACL (Rapoport)'. 3) Cita de Campbell en pantalla. 4) Marcador 35-10.",
+  "titulo_yt": "Aidan Hutchinson got hurt celebrating a sack 💔",
+  "descripcion": "Lions star Aidan Hutchinson goes down in Munich 😳",
+  "hashtags": "#aidanhutchinson #lions #nfl #football #shorts",
+  "musica": "Cinderella – Mac Miller",
+  "caducidad": "🔴 publicar antes de que los Lions confirmen el diagnóstico (próximos días)",
+  "avisos": "Tema de lesión: tono sobrio, sin bromas. No afirmar LCA como confirmado: es informe preliminar. Clips de la NFL pueden dar copyright.",
+  "analizado": "2026-11-16T17:30:00Z"
+ },
+ "c110f909e4": {
+  "titular": "Josh Allen supera a Peyton Manning en TD totales tras diez temporadas",
+  "formato": "INSANE",
+  "resumen": "El 15 de noviembre de 2026, en el 31-12 de los Bills a los Jets, Josh Allen anotó un touchdown de 1 yarda en el primer cuarto, el 323.º de su carrera, superando los 322 de Peyton Manning en sus primeros 10 años. Además igualó el récord NFL de cuatro temporadas seguidas con 10 o más TD de carrera.",
+  "por_que": "Superar a Manning en un récord es un dato de peso, fácil de ilustrar con un contador y comparable con una leyenda.",
+  "datos_clave": [
+   "323.º TD total, frente a los 322 de Manning en 10 temporadas (Yahoo Sports)",
+   "Allen: 136 partidos; Manning: 160 (Yahoo Sports)",
+   "Bills 31-12 Jets (Yahoo Sports)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/bills-qb-josh-allen-breaks-183208655.html"
+   },
+   {
+    "n": "Yahoo Sports (2)",
+    "u": "https://sports.yahoo.com/articles/move-over-peyton-manning-josh-184005851.html"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Allen entrando en la zona de anotación con texto gigante 'PASSED PEYTON MANNING' y contador '323'",
+  "gancho": "Josh Allen just passed Peyton Manning.",
+  "estructura": "1) TD de 1 yarda (0-6 s). 2) Contador 322 → 323 (6-12 s). 3) Comparativa de partidos 136 vs 160 (12-20 s). 4) Reacción y marcador 31-12 (20-28 s).",
+  "cierre": "Vuelve al contador 323 con el texto 'Faster than Peyton'.",
+  "clips": "Highlights del partido Bills-Jets: buscar canal oficial Buffalo Bills / NFL en YouTube (no he podido verificar un enlace concreto 1080p+ de esta jugada).",
+  "grafismos": "1) Contador 322 vs 323. 2) Cara a cara Allen-Manning (partidos: 136 vs 160). 3) Cronología de la carrera de Allen. 4) Marcador 31-12.",
+  "titulo_yt": "Josh Allen just passed Peyton Manning 🤯",
+  "descripcion": "Josh Allen breaks Peyton Manning's touchdown record 🔥",
+  "hashtags": "#joshallen #bills #nfl #football #shorts",
+  "musica": "Catálogo del canal: tema épico/motivacional",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Algunos medios cuentan 325 TD al final del partido; usar 323 solo para el momento del récord. Sin clip 1080p verificado: potencial limitado.",
+  "analizado": "2026-11-16T17:30:00Z"
+ },
+ "0cd6349f74": {
+  "titular": "Doncic suma 43 y los Lakers aguantan la remontada de los Suns (131-123)",
+  "formato": "noticia viral",
+  "resumen": "El 15 de noviembre de 2026, los Lakers ganaron 131-123 en Phoenix, su octava victoria seguida (12-2). Luka Doncic metió 43 puntos con 9 asistencias. LA llegó a ganar de 31 y los Suns remontaron con un parcial de 43-27 en el último cuarto; Quentin Grimes anotó un triple a 34 s del final y Doncic cerró desde la línea.",
+  "por_que": "Estrella global, 43 puntos y una remontada casi imposible de los Suns con final ajustado: tensión y gancho inmediato.",
+  "datos_clave": [
+   "43 pts, 9 asist., 13/28 TC, 5/13 T3, 12/14 TL (IBTimes/ESPN)",
+   "Ventaja máxima de 31; Suns 43-27 en el último cuarto (Yahoo Sports)",
+   "Lakers 12-2, octava victoria seguida (IBTimes)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/recap?gameId=401909986"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/lakers-survive-suns-furious-rally-001516674.html"
+   },
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25533827-luka-doncic-stays-hot-lakers-beat-suns-box-score-stats-highlights-booker-top-players"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-35",
+  "fotograma1": "Doncic anotando con texto 'LAKERS UP 31... THEN THIS HAPPENED 😳' y marcador gigante",
+  "gancho": "The Lakers were up 31 and almost blew it.",
+  "estructura": "1) Ventaja de 31 (0-6 s). 2) Mejores jugadas de Doncic (6-14 s). 3) Remontada 43-27 de los Suns (14-23 s). 4) Triple de Grimes y tiros libres de Luka (23-32 s).",
+  "cierre": "Vuelve a la ventaja de 31 con el marcador final 131-123.",
+  "clips": "Highlights NBA on ESPN https://www.youtube.com/watch?v=NyRkpzqZ_ew ; https://www.youtube.com/watch?v=WK8zR5EXJKo ; https://www.youtube.com/watch?v=ADllxVjtk7g (resolución 1080p+ por comprobar).",
+  "grafismos": "1) Línea de Doncic 43/9. 2) Gráfico de ventaja (31 → 8). 3) Contador de victorias seguidas (8). 4) Récord de la franquicia en pantalla solo si se verifica.",
+  "titulo_yt": "Luka dropped 43 and the Lakers almost blew a 31-point lead 😳",
+  "descripcion": "Luka Doncic carries the Lakers past the Suns 🔥",
+  "hashtags": "#lukadoncic #lakers #nba #basketball #shorts",
+  "musica": "Catálogo del canal: tema de energía alta",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Hay un vídeo que habla de 'pasar a Harden en puntos tras 12 partidos'; no verificado con fuente de prensa, no usar. La fecha varía por zona horaria (15/16 nov).",
+  "analizado": "2026-11-16T17:30:00Z"
+ },
+ "18b9b1f08d": {
+  "titular": "Burrow, 302 yardas en el primer tiempo ante los Steelers; 409 en total",
+  "formato": "INSANE",
+  "resumen": "El 15 de noviembre de 2026, en Sunday Night Football, los Bengals vencieron 38-18 a los Steelers. Joe Burrow llevó 302 yardas y 3 TD al descanso (26/34, 24-3) y acabó con 409 yardas y 4 TD (35/44). Ja'Marr Chase tuvo 146 yardas al descanso y 231 en total.",
+  "por_que": "Cifras de locura y dos estrellas en un partido de máxima audiencia contra un rival clásico.",
+  "datos_clave": [
+   "Descanso: 26/34, 302 yds, 3 TD; 24-3 (Yahoo/NBC Sports)",
+   "Final: 35/44, 409 yds, 4 TD; 38-18 (Bengals.com)",
+   "Chase: 231 yardas (vídeo oficial NFL)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NBC Sports PFT",
+    "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-joe-burrow-torching-steelers-bengals-lead-24-3-at-halftime"
+   },
+   {
+    "n": "Bengals.com",
+    "u": "https://www.bengals.com/news/bengals-steelers-recap-postgame-notes-quotes-stats-week-10-2026-sunday-night-football"
+   },
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nfl/story/_/id/50499235/bengals-joe-burrow-4-touchdowns-win-vs-steelers-puts-company-tom-brady-peyton-manning"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Burrow lanzando con contador gigante '302 YARDS IN A HALF'",
+  "gancho": "Joe Burrow threw for 302 yards in one half.",
+  "estructura": "1) Contador 302 yds (0-5 s). 2) Pase de 53 yardas a Chase (5-13 s). 3) Marcador 24-3 al descanso (13-20 s). 4) Línea final 409 yds y 231 de Chase (20-28 s).",
+  "cierre": "Vuelve al contador 302 y cierra con 409.",
+  "clips": "Postpartido y reacciones: https://www.youtube.com/watch?v=f6BpB1MR1Sc ; Chase 231 yds: https://www.youtube.com/watch?v=eoacs_74tPM (resolución 1080p+ por comprobar).",
+  "grafismos": "1) Contador de yardas. 2) Cara a cara Burrow vs Steelers. 3) Ficha de Chase (146 al descanso, 231 final). 4) Marcador por cuartos.",
+  "titulo_yt": "Joe Burrow threw for 302 yards in ONE HALF 🤯",
+  "descripcion": "Joe Burrow and Ja'Marr Chase torch the Steelers 🔥",
+  "hashtags": "#joeburrow #jamarrchase #bengals #nfl #shorts",
+  "musica": "Catálogo del canal: tema de energía alta",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Verificar con boxscore oficial antes de rotular cifras de Chase.",
+  "analizado": "2026-11-16T17:30:00Z"
+ }
 }
