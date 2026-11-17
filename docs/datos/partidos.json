@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T00:26:06.237299+00:00",
+ "actualizado": "2026-11-17T08:22:33.730719+00:00",
  "lista": [
   {
    "id": "nba-401910002",
@@ -46,7 +46,7 @@
      "nombre": "Portland Trail Blazers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
      "casa": false,
-     "balance": "9-3",
+     "balance": "9-4",
      "puntos": "0"
     },
     {
@@ -54,7 +54,7 @@
      "nombre": "Minnesota Timberwolves",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
      "casa": true,
-     "balance": "9-4",
+     "balance": "10-4",
      "puntos": "0"
     }
    ],
@@ -175,7 +175,7 @@
      "nombre": "Memphis Grizzlies",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
      "casa": false,
-     "balance": "9-4",
+     "balance": "10-4",
      "puntos": "0"
     },
     {
@@ -183,7 +183,7 @@
      "nombre": "Cleveland Cavaliers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
      "casa": true,
-     "balance": "7-7",
+     "balance": "8-7",
      "puntos": "0"
     }
    ],
@@ -206,7 +206,7 @@
      "nombre": "Houston Rockets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
      "casa": false,
-     "balance": "11-3",
+     "balance": "11-4",
      "puntos": "0"
     },
     {
@@ -247,7 +247,7 @@
      "nombre": "Miami Heat",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
      "casa": true,
-     "balance": "7-6",
+     "balance": "8-6",
      "puntos": "0"
     }
    ],
@@ -268,7 +268,7 @@
      "nombre": "Philadelphia 76ers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
      "casa": false,
-     "balance": "11-3",
+     "balance": "12-3",
      "puntos": "0"
     },
     {
@@ -276,7 +276,7 @@
      "nombre": "Orlando Magic",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
      "casa": true,
-     "balance": "5-7",
+     "balance": "6-7",
      "puntos": "0"
     }
    ],
@@ -299,7 +299,7 @@
      "nombre": "Chicago Bulls",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
      "casa": false,
-     "balance": "3-9",
+     "balance": "3-10",
      "puntos": "0"
     },
     {
@@ -307,7 +307,7 @@
      "nombre": "Brooklyn Nets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
      "casa": true,
-     "balance": "3-9",
+     "balance": "3-10",
      "puntos": "0"
     }
    ],
@@ -330,7 +330,7 @@
      "nombre": "Washington Wizards",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
      "casa": false,
-     "balance": "4-10",
+     "balance": "4-11",
      "puntos": "0"
     },
     {
@@ -370,7 +370,7 @@
      "nombre": "New Orleans Pelicans",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
      "casa": true,
-     "balance": "4-10",
+     "balance": "5-10",
      "puntos": "0"
     }
    ],
@@ -426,7 +426,7 @@
      "nombre": "Golden State Warriors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
      "casa": false,
-     "balance": "8-5",
+     "balance": "8-6",
      "puntos": "0"
     },
     {
@@ -457,7 +457,7 @@
      "nombre": "Boston Celtics",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
      "casa": false,
-     "balance": "11-2",
+     "balance": "11-3",
      "puntos": "0"
     },
     {
@@ -465,7 +465,7 @@
      "nombre": "Denver Nuggets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
      "casa": true,
-     "balance": "7-4",
+     "balance": "7-5",
      "puntos": "0"
     }
    ],
@@ -523,7 +523,7 @@
      "nombre": "Phoenix Suns",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
      "casa": false,
-     "balance": "5-7",
+     "balance": "6-7",
      "puntos": "0"
     },
     {
@@ -554,7 +554,7 @@
      "nombre": "Golden State Warriors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
      "casa": false,
-     "balance": "8-5",
+     "balance": "8-6",
      "puntos": "0"
     },
     {
@@ -562,7 +562,7 @@
      "nombre": "Memphis Grizzlies",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
      "casa": true,
-     "balance": "9-4",
+     "balance": "10-4",
      "puntos": "0"
     }
    ],
@@ -588,7 +588,7 @@
      "nombre": "Portland Trail Blazers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
      "casa": false,
-     "balance": "9-3",
+     "balance": "9-4",
      "puntos": "0"
     },
     {
@@ -628,7 +628,7 @@
      "nombre": "Minnesota Timberwolves",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
      "casa": true,
-     "balance": "9-4",
+     "balance": "10-4",
      "puntos": "0"
     }
    ],
