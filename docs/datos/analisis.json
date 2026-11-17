@@ -1436,5 +1436,134 @@
   "caducidad": "🟡 publicar esta semana",
   "avisos": "Verificar con boxscore oficial antes de rotular cifras de Chase.",
   "analizado": "2026-11-16T17:30:00Z"
+ },
+ "7478b5fd04": {
+  "titular": "LeBron supera a Kidd y es tercero de la historia en asistencias (12.092)",
+  "formato": "noticia viral",
+  "resumen": "El 15 de noviembre de 2026, en la victoria de los 76ers ante los Pacers (131-124), LeBron James sirvió a VJ Edgecombe una asistencia en el último cuarto: la 12.092 de su carrera, que le sitúa tercero de la historia por delante de Jason Kidd. Terminó con 15 puntos, 11 asistencias y 7 rebotes (ESPN; The Source da 6 rebotes). Solo le quedan por delante Chris Paul y John Stockton.",
+  "por_que": "Un récord histórico de LeBron con una jugada concreta y cifras que se ilustran solas: el aficionado quiere ver el pase exacto que le hizo pasar a Kidd.",
+  "datos_clave": [
+   "Asistencia nº 12.092 de su carrera, pase a VJ Edgecombe en el 4.º cuarto (ESPN, AP)",
+   "76ers 131, Pacers 124 (ESPN, AP)",
+   "Por delante: Chris Paul (12.552) y John Stockton (15.806) (resumen de búsqueda sobre ESPN; contrastar con la tabla de ESPN, que aún mostraba a Kidd en 12.091)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50493152/lebron-james-passes-jason-kidd-nba-assists-list"
+   },
+   {
+    "n": "Eurohoops (AP)",
+    "u": "https://www.eurohoops.net/en/nba-news/2035808/lebron-james-passes-jason-kidd-for-third-in-career-assists/"
+   },
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25534326-jason-kidd-reacts-lebron-james-making-history-passing-him-all-time-nba-assists-list"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-30",
+  "fotograma1": "Plano del pase de LeBron a Edgecombe congelado en el instante de la asistencia, con texto enorme '#3 ALL-TIME' y contador 12,092",
+  "gancho": "LeBron James just passed Jason Kidd.",
+  "estructura": "1) La jugada de la asistencia 12.092 (0-6 s). 2) Reacción del banquillo y del pabellón (6-12 s). 3) Reacción de Kidd y declaraciones de LeBron (12-22 s). 4) Ranking Stockton-Paul-LeBron (22-30 s). Minutos exactos por determinar al ver el vídeo.",
+  "cierre": "Vuelve al pase inicial con el contador 12,092 y la pregunta de a cuánto está de Chris Paul, para enlazar con el principio.",
+  "clips": "NO verificados: no se pudo acceder a YouTube desde este entorno. Buscar en YouTube 'LeBron passes Kidd assist 12,092' (NBA, House of Highlights, Bleacher Report) y comprobar que sean 1080p+ antes de editar.",
+  "grafismos": "1) Contador de asistencias que sube hasta 12,092 en el momento del pase. 2) Ranking top 4 histórico (Stockton, Paul, LeBron, Kidd) tras el pase. 3) Cita de LeBron o de Kidd en pantalla. 4) Ficha de la noche: 15 pts, 11 ast.",
+  "titulo_yt": "LeBron just PASSED Jason Kidd 👑",
+  "descripcion": "LeBron James moves to 3rd all-time in career assists 👑🔥",
+  "hashtags": "#lebronjames #76ers #nba #basketball #shorts",
+  "musica": "Catálogo del canal: tema épico/emocional (p. ej. Cinderella de Mac Miller)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Confirmar la cifra de Paul/Stockton con la tabla oficial antes de rotularla; ESPN y The Source difieren en rebotes (6 o 7): no poner rebotes. Clips sin verificar en calidad.",
+  "analizado": "2026-11-17T18:30:00Z"
+ },
+ "99208afab1": {
+  "titular": "Tarheeb Still provoca el fumble de Flowers y da a los Chargers su primera victoria",
+  "formato": "noticia viral",
+  "resumen": "En el Monday Night Football (noche del 16 de noviembre de 2026) los Chargers ganaron 23-20 a los Ravens y lograron su primera victoria de la temporada. La jugada decisiva llegó antes del aviso de los dos minutos: Zay Flowers recibió un pase corto de Jacoby Brissett, el cornerback Tarheeb Still le arrancó el balón y Elijah Molden lo recuperó. Los Ravens jugaron sin Lamar Jackson.",
+  "por_que": "Una jugada decisiva en prime time con remate dramático, fácil de entender en un segundo y con el drama de la primera victoria tras una racha de derrotas.",
+  "datos_clave": [
+   "Chargers 23, Ravens 20 (NFL.com)",
+   "Primera victoria de los Chargers en 2026 (NFL.com, Larry Brown Sports)",
+   "Flowers: 6 recepciones de 7 objetivos, 74 yardas; quinto fumble perdido de su carrera, incluidos playoffs (NFL.com)",
+   "Balón suelto recuperado por Elijah Molden (The Big Lead)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NFL.com",
+    "u": "https://www.nfl.com/news/chargers-ravens-on-monday-night-football-what-we-learned-from-los-angeles-23-20-win-over-baltimore"
+   },
+   {
+    "n": "Larry Brown Sports",
+    "u": "https://larrybrownsports.com/football/chargers-first-win-ravens-zay-flowers-fumble/778743"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/ravens-wr-zay-flowers-commits-053255480.html"
+   },
+   {
+    "n": "ESPN (YouTube)",
+    "u": "https://www.youtube.com/watch?v=LBocJICm5K8"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Plano del strip de Still sobre Flowers con texto enorme 'FIRST WIN 😳' y marcador 23-20",
+  "gancho": "The Chargers waited ten games for this.",
+  "estructura": "1) El strip de Still (0-6 s). 2) Recuperación de Molden y reacción del estadio (6-12 s). 3) Contexto: racha de derrotas y Ravens sin Lamar (12-20 s). 4) Final del partido y reacción de Still/Herbert (20-30 s). Minutos exactos por determinar.",
+  "cierre": "Repite el strip a cámara lenta con el marcador final 23-20.",
+  "clips": "ESPN (NFL on ESPN) https://www.youtube.com/watch?v=LBocJICm5K8 (resolución 1080p+ NO comprobada; no se pudo acceder a YouTube desde este entorno).",
+  "grafismos": "1) Marcador 23-20 con cronología. 2) Ficha de Tarheeb Still. 3) Contador de derrotas previas de los Chargers. 4) Línea de Flowers (6 rec, 74 yds, 5.º fumble perdido).",
+  "titulo_yt": "Tarheeb Still STRIPPED Zay Flowers to seal the Chargers' first win 😳",
+  "descripcion": "Chargers finally get their first win of the season over the Ravens 🔥",
+  "hashtags": "#tarheebstill #chargers #ravens #nfl #football",
+  "musica": "Catálogo del canal: tema de energía alta",
+  "caducidad": "🔴 publicar antes del jueves (Thursday Night Football)",
+  "avisos": "No afirmar cuántas derrotas encadenaban los Chargers sin comprobarlo. No cargar las tintas contra Flowers. Los clips de la NFL pueden dar copyright.",
+  "analizado": "2026-11-17T18:30:00Z"
+ },
+ "9dce13e46a": {
+  "titular": "Doncic le quita la pizarra a Redick en un tiempo muerto durante el Lakers-Suns",
+  "formato": "noticia viral",
+  "resumen": "El 15 de noviembre de 2026 los Lakers ganaron 131-123 a los Suns y Luka Doncic anotó 43 puntos con 9 asistencias. Con 3:04 por jugar y los Lakers ganando 122-114 tras una remontada de Phoenix, Doncic cogió la pizarra (o carpeta, según el medio) de la entrenadora Lindsey Harding en un tiempo muerto. JJ Redick explicó que el mensaje era defensivo; Doncic dijo: «That stays in the team».",
+  "por_que": "Un momento viral de una estrella enfadada que toma el mando, con clip corto y debate abierto: ¿está bien lo que hizo?",
+  "datos_clave": [
+   "43 puntos y 9 asistencias de Doncic; Lakers 131, Suns 123 (Bleacher Report)",
+   "Tiempo muerto con 3:04 por jugar y 122-114 (resumen de búsqueda; contrastar con vídeo)",
+   "Redick: el mensaje fue defensivo (Basketnews, Yahoo)",
+   "Racha de 8 victorias de los Lakers (resumen de búsqueda; no rotular sin confirmar)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25533827-luka-doncic-stays-hot-lakers-beat-suns-box-score-stats-highlights-booker-top-players"
+   },
+   {
+    "n": "Basketnews",
+    "u": "https://basketnews.com/news-259572-jj-redick-luka-doncic-lakers-viral-coaching-clipboard-moment-explained.html"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/tricky-derek-fisher-offers-lakers-030822286.html"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Doncic con la pizarra en la mano frente al banquillo, texto grande 'LUKA TOOK OVER 😳'",
+  "gancho": "Luka just took the coach's board.",
+  "estructura": "1) Doncic coge la pizarra (0-6 s). 2) Reacción de Redick y los jugadores (6-14 s). 3) Explicación de Redick y frase de Luka (14-22 s). 4) Canasta o jugada final del partido (22-30 s). Minutos por determinar.",
+  "cierre": "Vuelve al plano de la pizarra con la cita 'That stays in the team'.",
+  "clips": "NO verificados: no se pudo acceder a YouTube. Buscar 'Luka Doncic takes clipboard Lakers Suns timeout' y comprobar 1080p+.",
+  "grafismos": "1) Ficha de la noche: 43 pts, 9 ast. 2) Marcador y reloj del tiempo muerto (3:04) tras confirmarlo en el vídeo. 3) Cita de Redick. 4) Cita de Luka.",
+  "titulo_yt": "Luka Doncic TOOK OVER the Lakers timeout 😳",
+  "descripcion": "Luka Doncic grabs the board in a Lakers timeout vs the Suns 😳🔥",
+  "hashtags": "#lukadoncic #lakers #redick #nba #basketball",
+  "musica": "Catálogo del canal: tema de energía alta",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Los medios discrepan: pizarra o carpeta, y a quién se la quitó (Harding). No inventar lo que dijo Luka. Confirmar el marcador del momento.",
+  "analizado": "2026-11-17T18:30:00Z"
  }
 }
