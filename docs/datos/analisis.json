@@ -1652,5 +1652,87 @@
   "caducidad": "🟡 publicar esta semana",
   "avisos": "No poner fecha de regreso. No afirmar el resultado del Warriors-Suns: no verificado. Tono sobrio.",
   "analizado": "2026-11-18T07:30:00Z"
+ },
+ "6a39cbebbe": {
+  "titular": "Rajakovic imita el 'flop' de Brunson y Brunson remata con un 4+1 en Toronto",
+  "formato": "noticia viral",
+  "resumen": "El 17 de noviembre de 2026, en el Raptors-Knicks (111-102 para Nueva York), las cámaras captaron al entrenador de Toronto, Darko Rajakovic, imitando con los brazos al aire la caída de Jalen Brunson tras un contacto mínimo con Ja'Kobe Walter y gritando 'Flop!'. Más tarde, con 1:25 por jugar y el partido empatado, Walter hizo falta a Brunson en un triple y Brunson convirtió el 4+1 que desempató. Brunson acabó con 31 puntos y fue la 15.ª victoria seguida de los Knicks sobre los Raptors (según la AP).",
+  "por_que": "Es un momento viral con remate: el que se burla del 'flop' acaba pagándolo en el mismo partido. Tiene rival famoso, polémica clásica (¿flopper o no?) y final con justicia poética.",
+  "datos_clave": [
+   "Knicks 111-102 Raptors, 17-nov-2026 (AP / Yahoo Sports)",
+   "Brunson: 31 puntos y 4+1 desempatador con 1:25 en el 4.º cuarto (AP / theScore)",
+   "15.ª victoria seguida de NY sobre Toronto; algún medio dice 14, usar la cifra de la AP (AP)",
+   "Mike Brown tras el partido: 'Darko does a heckuva job' (Yardbarker)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports (AP)",
+    "u": "https://sports.yahoo.com/articles/jalen-brunson-converts-tiebreaking-4-030838550.html"
+   },
+   {
+    "n": "theScore",
+    "u": "https://www.thescore.com/nba/news/3658489/brunson-converts-tiebreaking-4-point-play-as-knicks-beat-raptors-for-15-th-straight-time"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/raptors-darko-rajakovic-gets-hilariously-032030684.html"
+   },
+   {
+    "n": "Yardbarker",
+    "u": "https://www.yardbarker.com/nba/articles/knicks_coach_mike_brown_compliments_raptors_coach_despite_him_mocking_jalen_brunson_during_clash/s1_17664_44579090"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Rajakovic con los brazos en alto gritando 'Flop!' y texto enorme: 'COACH MOCKED BRUNSON… 😳'",
+  "gancho": "Flop! (Rajakovic, en el clip de la banda)",
+  "estructura": "1) Clip de Rajakovic imitando el flop (0-6 s). 2) Contexto: jugada con Walter y marcador con gráfico (6-12 s). 3) Final de partido: falta de Walter y el 4+1 de Brunson con 1:25 (12-24 s). 4) Contador de 31 puntos y 15 victorias seguidas (24-28 s).",
+  "cierre": "Vuelve al gesto de Rajakovic con la frase 'Flop? Not tonight.' para que el bucle conecte con el gancho.",
+  "clips": "https://www.youtube.com/watch?v=S79fQS-K4ys (House of Highlights, Rajakovic) y https://www.youtube.com/watch?v=C2th1tIVBWo (imitación del flop). La resolución NO se ha podido comprobar desde este entorno: confirmar 1080p+ antes de editar. Falta localizar un clip del 4+1 (resumen oficial NBA/Knicks en YouTube).",
+  "grafismos": "1) Marcador 111-102 con fecha, al inicio. 2) Ficha de Brunson con 31 pts, a los 12 s. 3) Cronómetro 1:25 y '4-POINT PLAY' en la jugada decisiva. 4) Contador '15 straight wins vs TOR' al final.",
+  "titulo_yt": "Raptors coach MOCKED Brunson's flop… then this happened 😳",
+  "descripcion": "Darko Rajakovic mocks Jalen Brunson's flop, then Brunson hits the 4-point play 😳🔥",
+  "hashtags": "#jalenbrunson #knicks #nba #basketball #shorts",
+  "musica": "Algo de ritmo tenso/trap del catálogo del canal; subir en el 4+1",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No afirmar que fue 'flop' real: es opinión de Rajakovic; la falta se señaló y fue flagrante según los reportes. Clips de House of Highlights/NBA: riesgo de copyright. Cifra 15 victorias seguidas según AP; otros medios dicen 14.",
+  "analizado": "2026-11-18T17:30:00Z"
+ },
+ "e07ae281c5": {
+  "titular": "LeBron discute con un árbitro comiendo palomitas… sin jugar, desde el banquillo en Brooklyn",
+  "formato": "gracioso",
+  "resumen": "En el Sixers-Nets en el Barclays Center, LeBron James no jugó ningún minuto y estaba en el banquillo de paisano. Las cámaras lo captaron discutiendo una jugada con un árbitro mientras comía palomitas, y el clip se hizo viral (theScore lo subió a Instagram). Yahoo Sports y Lindy's Sports lo recogen.",
+  "por_que": "Imagen absurda y muy compartible: la estrella que no juega, con palomitas en la mano, sigue peleando con los árbitros. Se entiende sin sonido y en 15 s.",
+  "datos_clave": [
+   "LeBron no jugó ni un minuto en el partido en Brooklyn (Yahoo Sports / Lindy's Sports)",
+   "Clip viral: discute con un árbitro con una bolsa de palomitas (Yahoo Sports)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/lebron-argues-refs-while-eating-034801389.html"
+   },
+   {
+    "n": "Lindy's Sports",
+    "u": "https://lindyssports.com/nba/philadelphia-76ers/lebron-james-popcorn-refs-sixers-bench"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-25",
+  "fotograma1": "LeBron con las palomitas en la mano gesticulando al árbitro; texto grande: 'LEBRON ISN'T EVEN PLAYING 😭'",
+  "gancho": "LeBron isn't even playing and he's still arguing with the refs.",
+  "estructura": "1) Clip de LeBron con las palomitas (0-8 s). 2) Contexto: no jugó, Sixers en Brooklyn (8-14 s). 3) Repetición con zoom a la cara (14-20 s).",
+  "cierre": "Termina con el mismo plano y el texto 'Year 24. Still cares.' enlazando con el gancho.",
+  "clips": "No se ha localizado un clip en YouTube en 1080p+; el vídeo circula en Instagram (theScore). Buscar el original en un canal de la NBA/Sixers antes de editar; sin clip bueno, no hacer el Short.",
+  "grafismos": "1) Etiqueta '0 MIN PLAYED' sobre LeBron al inicio. 2) Círculo de zoom sobre las palomitas. 3) Texto 'YEAR 24' al cierre.",
+  "titulo_yt": "LeBron ARGUES with a ref while eating popcorn 😭",
+  "descripcion": "LeBron James argues with the ref... with popcorn in hand 🍿😂",
+  "hashtags": "#lebronjames #sixers #nba #basketball #shorts",
+  "musica": "Algo ligero y divertido del catálogo del canal",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Verificado solo por Yahoo y Lindy's (clip viral, sin fuente primaria en vídeo). No inventar qué dijo al árbitro. No confirmado el rival exacto de la jugada discutida.",
+  "analizado": "2026-11-18T17:30:00Z"
  }
 }
