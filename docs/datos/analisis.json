@@ -1565,5 +1565,92 @@
   "caducidad": "🟡 publicar esta semana",
   "avisos": "Los medios discrepan: pizarra o carpeta, y a quién se la quitó (Harding). No inventar lo que dijo Luka. Confirmar el marcador del momento.",
   "analizado": "2026-11-17T18:30:00Z"
+ },
+ "fd7e9ca3f2": {
+  "titular": "Hutchinson se lesiona celebrando un sack y Maye sale con el tobillo en Múnich",
+  "formato": "noticia viral",
+  "resumen": "El 15 de noviembre de 2026, en Múnich, los Lions arrasaron a los Patriots 35-10. En un sack del primer cuarto, Drake Maye se lesionó el tobillo derecho y Aidan Hutchinson se llevó la mano a la rodilla derecha mientras celebraba. Una fuente de AP dice que Hutchinson está fuera el resto de la temporada; los Lions aún esperan pruebas en Detroit. Maye está fuera indefinidamente y los Patriots temen una fractura, aún sin confirmar.",
+  "por_que": "Dos estrellas jóvenes caen en la misma jugada y se abre el debate sobre las celebraciones, con Dan Campbell respondiendo. Se entiende en segundos.",
+  "datos_clave": [
+   "Lions 35-10 Patriots en Múnich, 15-nov-2026 (Sun-Times, TSN)",
+   "Maye y Hutchinson, lesionados en el mismo sack del primer cuarto (TSN)",
+   "Hutchinson fuera el resto de la temporada según fuente de AP; sin diagnóstico oficial (Fox/AP)",
+   "Maye fuera indefinidamente; fractura temida, no confirmada por el equipo (AP, theScore)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "TSN",
+    "u": "https://www.tsn.ca/nfl/article/patriots-maye-lions-hutchinson-both-injured-on-same-play-in-munich-n1-50490533/"
+   },
+   {
+    "n": "Chicago Sun-Times",
+    "u": "https://chicago.suntimes.com/nfl/2026/11/15/lions-patriots-munich-drake-maye-aiden-hutchinson-injuries"
+   },
+   {
+    "n": "Fox 2 Detroit",
+    "u": "https://www.fox2detroit.com/news/lions-dominate-patriots-35-10-germany-lose-aidan-hutchinson-injury"
+   },
+   {
+    "n": "theScore",
+    "u": "https://www.thescore.com/nfl/news/3656720"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Plano del sack con Hutchinson agarrándose la rodilla y texto grande 'SAME PLAY. TWO STARS DOWN 💔'",
+  "gancho": "Two stars went down on the exact same play.",
+  "estructura": "1) Plano del sack (0-6 s). 2) Hutchinson cojeando (6-12 s). 3) Maye saliendo (12-18 s). 4) Respuesta de Campbell en rueda de prensa (18-28 s).",
+  "cierre": "Vuelve al sack del inicio con el texto del diagnóstico oficial solo si ya está confirmado.",
+  "clips": "Sin enlaces de YouTube verificados en 1080p+. Buscar highlights oficiales NFL del Lions-Patriots (Múnich) y la rueda de prensa de Campbell en el canal de los Lions.",
+  "grafismos": "1) Marcador 35-10 en el segundo 2. 2) Ficha de Maye con estado 'indefinido'. 3) Cita de Campbell al final.",
+  "titulo_yt": "Hutchinson & Maye both went down on the same play 💔",
+  "descripcion": "Aidan Hutchinson and Drake Maye hurt on the same sack in Munich 💔",
+  "hashtags": "#aidanhutchinson #drakemaye #lions #nfl #shorts",
+  "musica": "Cinderella de Mac Miller",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Tema serio: tono sobrio. No decir 'ACL' ni 'fractura' como hechos: ninguno está confirmado oficialmente. Clips de la NFL con riesgo de copyright.",
+  "analizado": "2026-11-18T07:30:00Z"
+ },
+ "d2fd65c3b5": {
+  "titular": "Curry, fuera al menos dos semanas por rotura de oblicuo; Warriors sin respuestas",
+  "formato": "noticia viral",
+  "resumen": "El 11 de noviembre de 2026, Stephen Curry salió en el primer cuarto de la derrota 115-108 ante los Rockets con molestias en el costado derecho. La resonancia confirmó una rotura de oblicuo abdominal derecho y los Warriors lo reevaluarán en dos semanas. Fuentes citadas por ESPN apuntan a que podría ser cerca de un mes.",
+  "por_que": "Curry es la mayor estrella de la liga con búsqueda constante y su baja afecta a todo el equipo.",
+  "datos_clave": [
+   "Salió en el primer cuarto con 3 puntos en 6 minutos (Bleacher Report/AP)",
+   "Rotura de oblicuo abdominal derecho; reevaluación en 2 semanas (comunicado de los Warriors, AP)",
+   "Fuentes de ESPN: podría ser cerca de un mes"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "AP (NY1)",
+    "u": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/12/warriors-star-stephen-curry-suffers-torn-oblique-muscle-and-will-be-sidelined-at-least-two-weeks"
+   },
+   {
+    "n": "TSN",
+    "u": "https://www.tsn.ca/nba/article/warriors-curry-out-at-least-two-weeks-with-oblique-tear-n1-50462899/"
+   },
+   {
+    "n": "Bleacher Report",
+    "u": "https://bleacherreport.com/articles/25513035-stephen-curry-injury-update-latest-news-and-timeline-return-warriors-star"
+   }
+  ],
+  "potencial": 7,
+  "duracion": "20-30",
+  "fotograma1": "Curry agarrándose el costado, texto 'CURRY OUT 💔' y contador '2 WEEKS+'",
+  "gancho": "Steph Curry just went down in the first quarter.",
+  "estructura": "1) Curry saliendo del partido (0-7 s). 2) Comunicado en pantalla (7-14 s). 3) Palabras de Kerr (14-24 s). 4) Calendario de los Warriors sin él (24-30 s).",
+  "cierre": "Vuelve al plano de Curry en el banquillo con la pregunta '¿Cuándo vuelve?'.",
+  "clips": "Sin enlaces de YouTube verificados en 1080p+. Buscar la jugada y la rueda de prensa de Kerr en canales de NBA/Warriors.",
+  "grafismos": "1) Comunicado oficial en pantalla. 2) Contador de semanas. 3) Cita de Kerr.",
+  "titulo_yt": "Steph Curry is OUT after this 💔",
+  "descripcion": "Stephen Curry out with an oblique tear, Warriors react 💔",
+  "hashtags": "#stephencurry #warriors #nba #basketball #shorts",
+  "musica": "Cinderella de Mac Miller",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "No poner fecha de regreso. No afirmar el resultado del Warriors-Suns: no verificado. Tono sobrio.",
+  "analizado": "2026-11-18T07:30:00Z"
  }
 }
