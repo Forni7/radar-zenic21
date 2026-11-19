@@ -1,386 +1,6 @@
 {
- "actualizado": "2026-11-18T22:59:15.351727+00:00",
+ "actualizado": "2026-11-19T04:04:13.046498+00:00",
  "lista": [
-  {
-   "id": "nba-401910007",
-   "liga": "nba",
-   "nombre": "Memphis Grizzlies at Cleveland Cavaliers",
-   "corto": "MEM @ CLE",
-   "fecha": "2026-11-19T00:00Z",
-   "cadenas": [
-    "DAZN CLE",
-    "DAZN MEM"
-   ],
-   "equipos": [
-    {
-     "abr": "MEM",
-     "nombre": "Memphis Grizzlies",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-     "casa": false,
-     "balance": "10-4",
-     "puntos": "0"
-    },
-    {
-     "abr": "CLE",
-     "nombre": "Cleveland Cavaliers",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-     "casa": true,
-     "balance": "8-7",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 7:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910008",
-   "liga": "nba",
-   "nombre": "Houston Rockets at Indiana Pacers",
-   "corto": "HOU @ IND",
-   "fecha": "2026-11-19T00:00Z",
-   "cadenas": [
-    "DAZN IND"
-   ],
-   "equipos": [
-    {
-     "abr": "HOU",
-     "nombre": "Houston Rockets",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-     "casa": false,
-     "balance": "11-4",
-     "puntos": "0"
-    },
-    {
-     "abr": "IND",
-     "nombre": "Indiana Pacers",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-     "casa": true,
-     "balance": "5-9",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 7:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910009",
-   "liga": "nba",
-   "nombre": "Milwaukee Bucks at Miami Heat",
-   "corto": "MIL @ MIA",
-   "fecha": "2026-11-19T00:00Z",
-   "cadenas": [
-    "ESPN",
-    "MyMi",
-    "Bucks App"
-   ],
-   "equipos": [
-    {
-     "abr": "MIL",
-     "nombre": "Milwaukee Bucks",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-     "casa": false,
-     "balance": "1-13",
-     "puntos": "0"
-    },
-    {
-     "abr": "MIA",
-     "nombre": "Miami Heat",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-     "casa": true,
-     "balance": "8-6",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 7:00 PM EST",
-   "grande": true
-  },
-  {
-   "id": "nba-401910010",
-   "liga": "nba",
-   "nombre": "Philadelphia 76ers at Orlando Magic",
-   "corto": "PHI @ ORL",
-   "fecha": "2026-11-19T00:00Z",
-   "cadenas": [],
-   "equipos": [
-    {
-     "abr": "PHI",
-     "nombre": "Philadelphia 76ers",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-     "casa": false,
-     "balance": "12-3",
-     "puntos": "0"
-    },
-    {
-     "abr": "ORL",
-     "nombre": "Orlando Magic",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-     "casa": true,
-     "balance": "6-7",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 7:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910011",
-   "liga": "nba",
-   "nombre": "Chicago Bulls at Brooklyn Nets",
-   "corto": "CHI @ BKN",
-   "fecha": "2026-11-19T00:30Z",
-   "cadenas": [
-    "DAZN (YES)"
-   ],
-   "equipos": [
-    {
-     "abr": "CHI",
-     "nombre": "Chicago Bulls",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-     "casa": false,
-     "balance": "3-10",
-     "puntos": "0"
-    },
-    {
-     "abr": "BKN",
-     "nombre": "Brooklyn Nets",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-     "casa": true,
-     "balance": "3-10",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 7:30 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910012",
-   "liga": "nba",
-   "nombre": "Washington Wizards at Toronto Raptors",
-   "corto": "WSH @ TOR",
-   "fecha": "2026-11-19T00:30Z",
-   "cadenas": [
-    "MNMT"
-   ],
-   "equipos": [
-    {
-     "abr": "WSH",
-     "nombre": "Washington Wizards",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-     "casa": false,
-     "balance": "4-11",
-     "puntos": "0"
-    },
-    {
-     "abr": "TOR",
-     "nombre": "Toronto Raptors",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-     "casa": true,
-     "balance": "5-9",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 7:30 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910013",
-   "liga": "nba",
-   "nombre": "Detroit Pistons at New Orleans Pelicans",
-   "corto": "DET @ NO",
-   "fecha": "2026-11-19T01:00Z",
-   "cadenas": [
-    "GCSEN",
-    "Pelicans.com"
-   ],
-   "equipos": [
-    {
-     "abr": "DET",
-     "nombre": "Detroit Pistons",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-     "casa": false,
-     "balance": "9-4",
-     "puntos": "0"
-    },
-    {
-     "abr": "NO",
-     "nombre": "New Orleans Pelicans",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-     "casa": true,
-     "balance": "5-10",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 8:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910014",
-   "liga": "nba",
-   "nombre": "Atlanta Hawks at Oklahoma City Thunder",
-   "corto": "ATL @ OKC",
-   "fecha": "2026-11-19T01:00Z",
-   "cadenas": [
-    "KSBI",
-    "Thunder App"
-   ],
-   "equipos": [
-    {
-     "abr": "ATL",
-     "nombre": "Atlanta Hawks",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-     "casa": false,
-     "balance": "8-6",
-     "puntos": "0"
-    },
-    {
-     "abr": "OKC",
-     "nombre": "Oklahoma City Thunder",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-     "casa": true,
-     "balance": "9-5",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 8:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910016",
-   "liga": "nba",
-   "nombre": "Golden State Warriors at Dallas Mavericks",
-   "corto": "GS @ DAL",
-   "fecha": "2026-11-19T01:00Z",
-   "cadenas": [
-    "KFAA-TV",
-    "MavsTV"
-   ],
-   "equipos": [
-    {
-     "abr": "GS",
-     "nombre": "Golden State Warriors",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-     "casa": false,
-     "balance": "8-6",
-     "puntos": "0"
-    },
-    {
-     "abr": "DAL",
-     "nombre": "Dallas Mavericks",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-     "casa": true,
-     "balance": "7-7",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 8:00 PM EST",
-   "grande": true
-  },
-  {
-   "id": "nba-401910015",
-   "liga": "nba",
-   "nombre": "Boston Celtics at Denver Nuggets",
-   "corto": "BOS @ DEN",
-   "fecha": "2026-11-19T02:30Z",
-   "cadenas": [
-    "ESPN"
-   ],
-   "equipos": [
-    {
-     "abr": "BOS",
-     "nombre": "Boston Celtics",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-     "casa": false,
-     "balance": "11-3",
-     "puntos": "0"
-    },
-    {
-     "abr": "DEN",
-     "nombre": "Denver Nuggets",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-     "casa": true,
-     "balance": "7-5",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 9:30 PM EST",
-   "grande": true
-  },
-  {
-   "id": "nba-401910017",
-   "liga": "nba",
-   "nombre": "Utah Jazz at Los Angeles Lakers",
-   "corto": "UTAH @ LAL",
-   "fecha": "2026-11-19T03:00Z",
-   "cadenas": [
-    "Spectrum Sports Net",
-    "Spectrum Sports Net +",
-    "KJZZ-TV",
-    "Jazz+"
-   ],
-   "equipos": [
-    {
-     "abr": "UTAH",
-     "nombre": "Utah Jazz",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-     "casa": false,
-     "balance": "2-13",
-     "puntos": "0"
-    },
-    {
-     "abr": "LAL",
-     "nombre": "Los Angeles Lakers",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-     "casa": true,
-     "balance": "13-2",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 10:00 PM EST",
-   "grande": false
-  },
-  {
-   "id": "nba-401910018",
-   "liga": "nba",
-   "nombre": "Phoenix Suns at Sacramento Kings",
-   "corto": "PHX @ SAC",
-   "fecha": "2026-11-19T03:00Z",
-   "cadenas": [
-    "Suns Live",
-    "Arizona's Family 3TV"
-   ],
-   "equipos": [
-    {
-     "abr": "PHX",
-     "nombre": "Phoenix Suns",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-     "casa": false,
-     "balance": "6-7",
-     "puntos": "0"
-    },
-    {
-     "abr": "SAC",
-     "nombre": "Sacramento Kings",
-     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-     "casa": true,
-     "balance": "1-12",
-     "puntos": "0"
-    }
-   ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/18 - 10:00 PM EST",
-   "grande": false
-  },
   {
    "id": "nba-401910019",
    "liga": "nba",
@@ -396,7 +16,7 @@
      "nombre": "Golden State Warriors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
      "casa": false,
-     "balance": "8-6",
+     "balance": "8-7",
      "puntos": "0"
     },
     {
@@ -404,7 +24,7 @@
      "nombre": "Memphis Grizzlies",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
      "casa": true,
-     "balance": "10-4",
+     "balance": "11-4",
      "puntos": "0"
     }
    ],
@@ -438,7 +58,7 @@
      "nombre": "Milwaukee Bucks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
      "casa": true,
-     "balance": "1-13",
+     "balance": "1-14",
      "puntos": "0"
     }
    ],
@@ -563,7 +183,7 @@
      "nombre": "Atlanta Hawks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
      "casa": true,
-     "balance": "8-6",
+     "balance": "9-6",
      "puntos": "0"
     }
    ],
@@ -586,7 +206,7 @@
      "nombre": "Orlando Magic",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
      "casa": false,
-     "balance": "6-7",
+     "balance": "6-8",
      "puntos": "0"
     },
     {
@@ -594,7 +214,7 @@
      "nombre": "Brooklyn Nets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
      "casa": true,
-     "balance": "3-10",
+     "balance": "3-11",
      "puntos": "0"
     }
    ],
@@ -617,7 +237,7 @@
      "nombre": "Indiana Pacers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
      "casa": false,
-     "balance": "5-9",
+     "balance": "5-10",
      "puntos": "0"
     },
     {
@@ -625,7 +245,7 @@
      "nombre": "Cleveland Cavaliers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
      "casa": true,
-     "balance": "8-7",
+     "balance": "8-8",
      "puntos": "0"
     }
    ],
@@ -648,7 +268,7 @@
      "nombre": "Toronto Raptors",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
      "casa": false,
-     "balance": "5-9",
+     "balance": "5-10",
      "puntos": "0"
     },
     {
@@ -656,7 +276,7 @@
      "nombre": "Detroit Pistons",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
      "casa": true,
-     "balance": "9-4",
+     "balance": "10-4",
      "puntos": "0"
     }
    ],
@@ -679,7 +299,7 @@
      "nombre": "Washington Wizards",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
      "casa": false,
-     "balance": "4-11",
+     "balance": "5-11",
      "puntos": "0"
     },
     {
@@ -687,7 +307,7 @@
      "nombre": "Chicago Bulls",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
      "casa": true,
-     "balance": "3-10",
+     "balance": "4-10",
      "puntos": "0"
     }
    ],
@@ -713,7 +333,7 @@
      "nombre": "New Orleans Pelicans",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
      "casa": false,
-     "balance": "5-10",
+     "balance": "5-11",
      "puntos": "0"
     },
     {
@@ -721,7 +341,7 @@
      "nombre": "Oklahoma City Thunder",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
      "casa": true,
-     "balance": "9-5",
+     "balance": "9-6",
      "puntos": "0"
     }
    ],
@@ -778,7 +398,7 @@
      "nombre": "Houston Rockets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
      "casa": false,
-     "balance": "11-4",
+     "balance": "12-4",
      "puntos": "0"
     },
     {
@@ -825,6 +445,200 @@
    "estado": "STATUS_SCHEDULED",
    "estado_txt": "11/20 - 10:00 PM EST",
    "grande": false
+  },
+  {
+   "id": "nba-401910023",
+   "liga": "nba",
+   "nombre": "Milwaukee Bucks at Philadelphia 76ers",
+   "corto": "MIL @ PHI",
+   "fecha": "2026-11-21T18:00Z",
+   "cadenas": [
+    "MyMi",
+    "Bucks App"
+   ],
+   "equipos": [
+    {
+     "abr": "MIL",
+     "nombre": "Milwaukee Bucks",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
+     "casa": false,
+     "balance": "1-14",
+     "puntos": "0"
+    },
+    {
+     "abr": "PHI",
+     "nombre": "Philadelphia 76ers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+     "casa": true,
+     "balance": "13-3",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/21 - 1:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401910024",
+   "liga": "nba",
+   "nombre": "Portland Trail Blazers at New York Knicks",
+   "corto": "POR @ NY",
+   "fecha": "2026-11-22T00:30Z",
+   "cadenas": [
+    "NBA TV",
+    "KUNP 16",
+    "BlazerVision"
+   ],
+   "equipos": [
+    {
+     "abr": "POR",
+     "nombre": "Portland Trail Blazers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+     "casa": false,
+     "balance": "9-5",
+     "puntos": "0"
+    },
+    {
+     "abr": "NY",
+     "nombre": "New York Knicks",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+     "casa": true,
+     "balance": "8-6",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/21 - 7:30 PM EST",
+   "grande": true
+  },
+  {
+   "id": "nba-401910025",
+   "liga": "nba",
+   "nombre": "LA Clippers at Dallas Mavericks",
+   "corto": "LAC @ DAL",
+   "fecha": "2026-11-22T01:00Z",
+   "cadenas": [
+    "KFAA-TV",
+    "MavsTV",
+    "ClipperVision"
+   ],
+   "equipos": [
+    {
+     "abr": "LAC",
+     "nombre": "LA Clippers",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+     "casa": false,
+     "balance": "4-9",
+     "puntos": "0"
+    },
+    {
+     "abr": "DAL",
+     "nombre": "Dallas Mavericks",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+     "casa": true,
+     "balance": "8-7",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/21 - 8:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401910026",
+   "liga": "nba",
+   "nombre": "Memphis Grizzlies at Minnesota Timberwolves",
+   "corto": "MEM @ MIN",
+   "fecha": "2026-11-22T01:00Z",
+   "cadenas": [
+    "DAZN MIN",
+    "DAZN MEM"
+   ],
+   "equipos": [
+    {
+     "abr": "MEM",
+     "nombre": "Memphis Grizzlies",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+     "casa": false,
+     "balance": "11-4",
+     "puntos": "0"
+    },
+    {
+     "abr": "MIN",
+     "nombre": "Minnesota Timberwolves",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+     "casa": true,
+     "balance": "11-4",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/21 - 8:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401910027",
+   "liga": "nba",
+   "nombre": "New Orleans Pelicans at San Antonio Spurs",
+   "corto": "NO @ SA",
+   "fecha": "2026-11-22T01:00Z",
+   "cadenas": [
+    "DAZN SAS",
+    "GCSEN",
+    "Pelicans.com"
+   ],
+   "equipos": [
+    {
+     "abr": "NO",
+     "nombre": "New Orleans Pelicans",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+     "casa": false,
+     "balance": "5-11",
+     "puntos": "0"
+    },
+    {
+     "abr": "SA",
+     "nombre": "San Antonio Spurs",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+     "casa": true,
+     "balance": "12-3",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/21 - 8:00 PM EST",
+   "grande": false
+  },
+  {
+   "id": "nba-401910028",
+   "liga": "nba",
+   "nombre": "Boston Celtics at Sacramento Kings",
+   "corto": "BOS @ SAC",
+   "fecha": "2026-11-22T03:00Z",
+   "cadenas": [
+    "NBA TV"
+   ],
+   "equipos": [
+    {
+     "abr": "BOS",
+     "nombre": "Boston Celtics",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+     "casa": false,
+     "balance": "11-3",
+     "puntos": "0"
+    },
+    {
+     "abr": "SAC",
+     "nombre": "Sacramento Kings",
+     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+     "casa": true,
+     "balance": "1-12",
+     "puntos": "0"
+    }
+   ],
+   "estado": "STATUS_SCHEDULED",
+   "estado_txt": "11/21 - 10:00 PM EST",
+   "grande": true
   }
  ]
 }
