@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T04:04:13.046498+00:00",
+ "actualizado": "2026-11-19T12:57:52.526839+00:00",
  "lista": [
   {
    "id": "nba-401910019",
@@ -367,7 +367,7 @@
      "nombre": "Phoenix Suns",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
      "casa": false,
-     "balance": "6-7",
+     "balance": "7-7",
      "puntos": "0"
     },
     {
@@ -375,7 +375,7 @@
      "nombre": "Utah Jazz",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
      "casa": true,
-     "balance": "2-13",
+     "balance": "3-13",
      "puntos": "0"
     }
    ],
@@ -406,7 +406,7 @@
      "nombre": "Denver Nuggets",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
      "casa": true,
-     "balance": "7-5",
+     "balance": "8-5",
      "puntos": "0"
     }
    ],
@@ -430,7 +430,7 @@
      "nombre": "Sacramento Kings",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
      "casa": false,
-     "balance": "1-12",
+     "balance": "1-13",
      "puntos": "0"
     },
     {
@@ -438,7 +438,7 @@
      "nombre": "Los Angeles Lakers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
      "casa": true,
-     "balance": "13-2",
+     "balance": "13-3",
      "puntos": "0"
     }
    ],
@@ -624,7 +624,7 @@
      "nombre": "Boston Celtics",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
      "casa": false,
-     "balance": "11-3",
+     "balance": "11-4",
      "puntos": "0"
     },
     {
@@ -632,7 +632,7 @@
      "nombre": "Sacramento Kings",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
      "casa": true,
-     "balance": "1-12",
+     "balance": "1-13",
      "puntos": "0"
     }
    ],
