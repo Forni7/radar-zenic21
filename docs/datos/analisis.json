@@ -1734,5 +1734,125 @@
   "caducidad": "🟡 publicar esta semana",
   "avisos": "Verificado solo por Yahoo y Lindy's (clip viral, sin fuente primaria en vídeo). No inventar qué dijo al árbitro. No confirmado el rival exacto de la jugada discutida.",
   "analizado": "2026-11-18T17:30:00Z"
+ },
+ "e7b5a90777": {
+  "titular": "Los Pistons cortan la racha de 12 victorias de los Spurs (105-93)",
+  "formato": "noticia viral",
+  "resumen": "El 17 de noviembre de 2026 Detroit ganó 105-93 en San Antonio y puso fin a la racha de 12 victorias seguidas de los Spurs. Los Pistons remontaron una desventaja de 14 puntos; Cade Cunningham anotó 27 y Daniss Jenkins 21 de sus 25 en la segunda mitad. Wembanyama firmó 25 puntos y Dylan Harper 20. Detroit jugó sin Jalen Duren, Duncan Robinson ni Isaiah Joe.",
+  "por_que": "Choque entre los dos mejores equipos del momento con final inesperado: el underdog sin tres jugadores rompe la racha de Wemby. Rivalidad que el público ya sigue desde la temporada pasada.",
+  "datos_clave": [
+   "Pistons 105-93 Spurs, 17-nov-2026 (ESPN, NBA.com)",
+   "Racha cortada: 12 victorias (Yahoo Sports, NBA.com)",
+   "Cunningham 27 pts; Jenkins 21 de 25 en la 2ª parte; Wembanyama 25, Harper 20 (ESPN/Yahoo)",
+   "93 puntos: mínimo de la temporada de los Spurs (reporte de recap; contrastar con el boxscore antes de rotularlo)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN recap",
+    "u": "https://www.espn.com/nba/recap?gameId=401910004"
+   },
+   {
+    "n": "NBA.com Starting 5",
+    "u": "https://www.nba.com/news/starting-5-november-18-2026"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/nba/breaking-news/article/pistons-overcome-highlight-reel-victor-wembanyama-to-stun-spurs-snap-san-antonios-12-game-win-streak-044107468.html"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Cade Cunningham celebrando con contador grande '12 → 0' tachado sobre la racha",
+  "gancho": "Twelve straight wins. Gone in one night.",
+  "estructura": "1) Gancho con el contador 12 en rojo. 2) Remontada de 14 puntos (jugadas del 3.er cuarto). 3) Jenkins 21 en la 2ª parte. 4) Wemby en el banquillo: parcial 21-7. 5) Cierre con el marcador final.",
+  "cierre": "Vuelve al contador 12 con el 105-93 final para enlazar con el primer fotograma.",
+  "clips": "PENDIENTE: no se han podido verificar enlaces de YouTube en esta ejecución. Buscar highlights oficiales NBA 'Pistons vs Spurs Nov 17 2026' y la rueda de prensa de Cunningham en 1080p.",
+  "grafismos": "Contador de racha 12 tachado (0:00); ficha Cunningham 27 pts (0:08); gráfico de remontada -14 a +6 (0:14); cara a cara Wemby vs Pistons con 25 pts (0:20).",
+  "titulo_yt": "Pistons just ENDED Wemby's Spurs win streak 😳",
+  "descripcion": "Cade Cunningham and the Pistons snap the Spurs' 12-game streak 🔥",
+  "hashtags": "#cadecunningham #pistons #nba #basketball #shorts",
+  "musica": "Cinderella – Mac Miller no; mejor tema de tensión/hype del catálogo",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Sin clip verificado, el potencial se ha limitado. Una fuente menciona una posible lesión de Harper al final: no confirmada, no mencionarla. Clips de la NBA con copyright.",
+  "analizado": "2026-11-19T06:00:00Z"
+ },
+ "73efc45835": {
+  "titular": "Maye, QB de los Patriots, podría tener el tobillo fracturado y perderse la temporada",
+  "formato": "I feel bad for",
+  "resumen": "Drake Maye se lesionó el tobillo derecho en una sack de Aidan Hutchinson en el primer cuarto de la derrota 35-10 ante los Lions en Alemania. Según Adam Schefter (ESPN), el equipo teme una fractura y Maye se quedó en Alemania para más pruebas y decidir si necesita cirugía. Mike Vrabel dijo que no se imagina a Maye disponible tras la semana de descanso. El próximo partido de los Patriots es el 29 de noviembre ante los Chargers.",
+  "por_que": "Es la lesión de un QB estrella joven y de un equipo en racha; búsqueda alta en EE. UU. Aun así, tono sobrio y con noticia detrás.",
+  "datos_clave": [
+   "Lesión en sack de Hutchinson, 1.er cuarto, derrota 35-10 vs Lions (AP/Boston Globe)",
+   "Fractura NO confirmada oficialmente; pruebas en Alemania (ESPN/Schefter, AP)",
+   "Próximo partido: 29-nov vs Chargers (WBUR/AP)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Boston Globe",
+    "u": "https://www.bostonglobe.com/2026/11/16/sports/drake-maye-injury/"
+   },
+   {
+    "n": "WBUR",
+    "u": "https://www.wbur.org/news/2026/11/17/patriots-drake-maye-ankle-injury-germany"
+   },
+   {
+    "n": "NBC Sports Boston",
+    "u": "https://www.nbcsportsboston.com/nfl/drake-maye-could-miss-the-rest-of-season-with-ankle-injury-report/814113/"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "25-35",
+  "fotograma1": "Plano de Maye en el suelo/saliendo del campo con texto grande 'MAYE: ANKLE FRACTURE FEARED'",
+  "gancho": "Drake Maye might be done for the season.",
+  "estructura": "1) Gancho con la sack. 2) Contexto: temporada de Maye (solo cifras verificadas). 3) Cita de Vrabel de la rueda de prensa. 4) Qué significa para los Patriots. 5) Cierre.",
+  "cierre": "Vuelve a la imagen de la sack con la pregunta '¿y ahora quién?' sin especular.",
+  "clips": "PENDIENTE: no verificados enlaces de YouTube. Buscar el vídeo de la jugada (NFL Highlights Patriots vs Lions Alemania) y la rueda de prensa de Vrabel.",
+  "grafismos": "Ficha de Maye con estado 'fractura temida' (0:00); cita de Vrabel (0:12); calendario con el partido del 29-nov (0:22).",
+  "titulo_yt": "Drake Maye's injury could change the Patriots' season 💔",
+  "descripcion": "Drake Maye's ankle injury update 💔",
+  "hashtags": "#drakemaye #patriots #nfl #football #shorts",
+  "musica": "Cinderella – Mac Miller",
+  "caducidad": "🔴 publicar antes de que se confirme el diagnóstico",
+  "avisos": "Tema de lesión: tono sobrio, sin bromas. No decir 'fractura confirmada'. No poner duración de baja hasta parte oficial.",
+  "analizado": "2026-11-19T06:00:00Z"
+ },
+ "4107bf97d6": {
+  "titular": "Humphrey (Ravens) se disculpa por decir que Baltimore es 'la mejor haciendo criminales'",
+  "formato": "noticia viral",
+  "resumen": "Marlon Humphrey bromeó en su pódcast con que Baltimore es lo que mejor sabe hacer 'criminales' y después se disculpó en el vestuario, diciendo que es inversor en la ciudad y el estado. El alcalde Brandon Scott dijo que una disculpa verbal no basta. El episodio fue borrado de su canal de YouTube, aunque seguirá con el pódcast.",
+  "por_que": "Polémica con un jugador conocido, alcalde de por medio y clip eliminado: curiosidad inmediata.",
+  "datos_clave": [
+   "Frase dicha en 'The Marlon Humphrey Show' (ESPN, Yahoo)",
+   "Disculpa en el vestuario (ESPN)",
+   "Episodio borrado de YouTube (reportes de Yahoo/Fox Baltimore)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast"
+   },
+   {
+    "n": "Fox Baltimore",
+    "u": "https://foxbaltimore.com/newsletter-daily/baltimore-criminals-ravens-player-marlon-humphrey"
+   }
+  ],
+  "potencial": 4,
+  "duracion": "20-30",
+  "fotograma1": "Humphrey hablando a cámara con texto grande 'BALTIMORE... BEST AT MAKING WHAT?'",
+  "gancho": "Marlon Humphrey just said what about Baltimore?",
+  "estructura": "1) Gancho con la frase (si hay clip permitido). 2) Reacción del alcalde. 3) Disculpa en el vestuario. 4) Cierre.",
+  "cierre": "Vuelve a la frase con el sello 'apologized'.",
+  "clips": "Sin clip utilizable: el episodio original fue borrado. Solo rueda de prensa/vestuario, por buscar.",
+  "grafismos": "Cita de la frase (0:00); cita de la disculpa (0:10); cita del alcalde (0:18).",
+  "titulo_yt": "Marlon Humphrey APOLOGIZES to Baltimore 😳",
+  "descripcion": "Marlon Humphrey's Baltimore comment and apology 🏈",
+  "hashtags": "#marlonhumphrey #ravens #nfl #football #shorts",
+  "musica": "Tema de tensión del catálogo",
+  "caducidad": "🔴 publicar esta semana: tema se enfría rápido",
+  "avisos": "Tema sensible: sin bromas. No reproducir el pódcast borrado. Citar solo las palabras publicadas por ESPN.",
+  "analizado": "2026-11-19T06:00:00Z"
  }
 }
