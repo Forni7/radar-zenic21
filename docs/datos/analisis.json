@@ -1854,5 +1854,131 @@
   "caducidad": "🔴 publicar esta semana: tema se enfría rápido",
   "avisos": "Tema sensible: sin bromas. No reproducir el pódcast borrado. Citar solo las palabras publicadas por ESPN.",
   "analizado": "2026-11-19T06:00:00Z"
+ },
+ "ba62e47245": {
+  "titular": "Harden anota 51 ante los Pacers y supera a Kobe en partidos de 50 puntos",
+  "formato": "INSANE",
+  "resumen": "El 20 de noviembre de 2026, James Harden anotó 51 puntos (15/26 en tiros, 7/11 en triples y 14/14 en libres) en la victoria de los Cavaliers por 128-119 ante los Pacers, en la NBA Cup. Llevaba 42 puntos tras tres cuartos. Fue su 26.º partido de 50 o más puntos, lo que le deja por delante de Kobe Bryant en esa lista histórica.",
+  "por_que": "Una leyenda de 37 años 'rebobinando el reloj' y superando a Kobe es un dato que el aficionado entiende al instante y comparte; el clip de los triples es muy visual.",
+  "datos_clave": [
+   "51 puntos, 6 rebotes y 6 asistencias; 15/26 en tiros, 7/11 en triples, 14/14 en libres (ESPN/ABC)",
+   "42 puntos tras el tercer cuarto, con Cleveland 103-82 arriba (ABC)",
+   "26.º partido de 50+ puntos; supera a Kobe Bryant y queda tercero de la historia en ese ranking (Greenfield Reporter/ESPN)",
+   "Cavaliers 128-119 Pacers; Donovan Mitchell sumó 20 (ABC)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "ESPN",
+    "u": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers"
+   },
+   {
+    "n": "ABC News (AP)",
+    "u": "https://abcnews.com/Sports/wireStory/james-harden-scores-51-points-propel-cleveland-past-138337596"
+   },
+   {
+    "n": "Yahoo Sports",
+    "u": "https://sports.yahoo.com/articles/james-harden-turns-back-clock-031319605.html"
+   }
+  ],
+  "potencial": 8,
+  "duracion": "20-30",
+  "fotograma1": "Plano de Harden anotando un triple con texto enorme '51 PTS' y un contador '26th 50-point game'",
+  "gancho": "Harden just passed Kobe… at 37.",
+  "estructura": "1) Triple de Harden con contador de puntos (0-6 s). 2) Racha de 42 puntos en tres cuartos (6-15 s). 3) Los libres perfectos 14/14 (15-22 s). 4) Ranking de partidos de 50+ con Kobe superado (22-30 s). Segundos exactos por determinar al ver el vídeo.",
+  "cierre": "Vuelve al triple inicial con el contador final en 51 y el ranking, enlazando con el gancho del primer segundo.",
+  "clips": "House of Highlights https://www.youtube.com/watch?v=2rIN6Mhg2VI (51 PTS vs Pacers; verificar que sea 1080p+). Buscar también highlights oficiales de la NBA del Cavaliers-Pacers.",
+  "grafismos": "1) Contador de puntos por cuarto al segundo 6 (42 tras el tercero). 2) Línea de tiro 15/26, 7/11 triples, 14/14 libres. 3) Ranking de partidos de 50+ con Harden pasando a Kobe, hacia el segundo 22.",
+  "titulo_yt": "Harden just passed Kobe with 51 points 🔥",
+  "descripcion": "James Harden drops 51 vs the Pacers and passes Kobe on the 50-point games list 🔥",
+  "hashtags": "#jamesharden #cavaliers #nba #basketball #shorts",
+  "musica": "Pista de hype/trap del catálogo del canal (energía alta)",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Confirmar el puesto exacto en el ranking histórico (fuentes: pasa a Kobe, 26 partidos de 50+) antes de poner la cifra en pantalla. Clip de House of Highlights: posible copyright.",
+  "analizado": "2026-11-21T08:00:00Z"
+ },
+ "dd92a3fd0e": {
+  "titular": "Drake Maye, con fractura de peroné tras el sack en Múnich; duda para el resto de la temporada",
+  "formato": "noticia viral",
+  "resumen": "Drake Maye se lesionó en la primera serie del partido de los Patriots ante los Lions en Múnich (derrota 35-10) tras un sack de Aidan Hutchinson, y no volvió. Según informó ESPN, tiene una fractura de peroné derecho; un reporte añade que no necesitaría cirugía. Los primeros reportes hablaban de tobillo roto y la franquicia no ha dado calendario oficial. Tommy DeVito entró en su lugar y los Patriots (5-5) tienen semana de descanso antes de recibir a los Chargers el 29 de noviembre.",
+  "por_que": "Es la lesión de un QB estrella que cambia la temporada de New England y hay mucha búsqueda; el momento exacto del sack se entiende en un segundo.",
+  "datos_clave": [
+   "Fractura de peroné derecho, según ESPN/Yahoo/PFT; diagnóstico inicial apuntaba a tobillo (Schefter)",
+   "Se lesionó en la primera serie; sack de Aidan Hutchinson (Newsweek/TheScore)",
+   "Patriots 5-5; derrota 35-10 ante Lions en Múnich; siguiente partido ante Chargers el 29/11 (Boston25/Newsweek)",
+   "Posible baja el resto de la temporada, aún sin confirmar por el equipo"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "ESPN (vía Google News)",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVE4VUpLa1JRQWU0MDRZYzZDUTNESmpZb3p1NllYUlhDd21EWk5WZ1BicnpQb0JZSU5IRk1jTkhMaVFnaVlGTWtsRk1uOU8tdlRScDVDeFZXdmlCSHVpVm96Mmx0bnZ1RmphT1ctZjVwVGduYTh2UFVGTWdhRFlGNU5SZ25xN3oteFJRaU9ZMmFsb3Q3bWpNUi1KSTY?oc=5"
+   },
+   {
+    "n": "Boston 25 News",
+    "u": "https://www.boston25news.com/news/local/reports-drake-maye-suffered-fractured-ankle-against-lions-stayed-behind-germany-tests/7Q3NZRV2SBCSFPRGKW3GMYTNS4/"
+   },
+   {
+    "n": "Newsweek",
+    "u": "https://newsweek.com/patriots-fear-qb-drake-mayes-injury-could-be-season-ending-12722380"
+   }
+  ],
+  "potencial": 6,
+  "duracion": "20-30",
+  "fotograma1": "Plano del sack de Hutchinson sobre Maye con texto grande 'MAYE OUT?' y la ficha del QB",
+  "gancho": "Drake Maye's season might be over.",
+  "estructura": "1) Plano de la jugada del sack (0-6 s). 2) Maye saliendo del campo (6-12 s). 3) Qué dicen los reportes: fractura de peroné (12-20 s). 4) Calendario: bye y Chargers, DeVito al mando (20-28 s). Buscar el vídeo de la jugada para los segundos exactos.",
+  "cierre": "Repite el plano del sack con el texto 'Out how long?' y pregunta abierta, para enlazar con el inicio.",
+  "clips": "Pendiente: buscar en YouTube el resumen oficial NFL del Patriots-Lions en Múnich (1080p+) y el momento de la lesión; no se ha verificado un enlace concreto.",
+  "grafismos": "1) Ficha de Maye con estadísticas verificadas de la temporada antes de usarlas. 2) Cronología: lesión, tests, regreso a EE. UU. 3) Calendario con la bye y los Chargers el 29/11.",
+  "titulo_yt": "Drake Maye suffers fractured fibula in Munich 💔",
+  "descripcion": "Patriots QB Drake Maye hurt vs the Lions in Munich — here's what we know 🤕",
+  "hashtags": "#drakemaye #patriots #nfl #football #shorts",
+  "musica": "Cinderella de Mac Miller (tono sobrio)",
+  "caducidad": "🔴 publicar antes de que el equipo anuncie el diagnóstico y calendario oficiales",
+  "avisos": "Tono sobrio. No afirmar que se pierde la temporada: es posibilidad, no confirmación. Los medios discrepan entre tobillo y peroné; decir 'según ESPN'. Clip pendiente de verificar.",
+  "analizado": "2026-11-21T08:00:00Z"
+ },
+ "1ce616ef4e": {
+  "titular": "La NFL suspende tres partidos a Puka Nacua por conducta personal (ya estaba lesionado)",
+  "formato": "noticia viral",
+  "resumen": "El 19 de noviembre de 2026 la NFL suspendió tres partidos al receptor de los Rams Puka Nacua por violar la política de conducta personal; podrá volver el 14 de diciembre. Ya está en la lista de lesionados (rodilla y dedo del pie), así que no se pierde partidos extra, pero perderá unos 961.167 dólares en sueldo. La sanción es un acuerdo entre la NFL y el sindicato. Los reportes la vinculan a un presunto incidente en un local de Los Ángeles que su abogado niega; hay una demanda civil abierta.",
+  "por_que": "Una estrella joven sancionada por la liga genera mucha búsqueda, pero el caso es delicado y apenas hay imagen nueva.",
+  "datos_clave": [
+   "Suspensión de 3 partidos, efectiva ya; vuelve el 14/12 (reportes de NBC LA/TSN)",
+   "Pérdida de unos 961.167 $ (reportes)",
+   "Está en IR con lesiones de rodilla y dedo del pie (reportes)",
+   "Su abogado niega las acusaciones; demanda civil activa (reportes)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NFL.com",
+    "u": "https://nfl.com/news/puka-nacua-suspension-rams-nfl"
+   },
+   {
+    "n": "NBC Los Angeles",
+    "u": "https://www.nbclosangeles.com/news/local/nfl-suspends-rams-star-receiver-puka-nacua-for-3-games/3973039/"
+   },
+   {
+    "n": "TSN",
+    "u": "https://www.tsn.ca/nfl/article/injured-rams-wr-nacua-suspended-three-games/"
+   }
+  ],
+  "potencial": 4,
+  "duracion": "20-30",
+  "fotograma1": "Foto de Nacua con texto 'SUSPENDED: 3 GAMES' y su ficha",
+  "gancho": "The NFL just suspended Puka Nacua.",
+  "estructura": "1) Titular de la sanción (0-5 s). 2) Qué implica: IR, sueldo perdido (5-15 s). 3) Fecha de regreso (15-22 s). 4) Su rendimiento antes de la lesión, solo con cifras verificadas.",
+  "cierre": "Vuelve a la ficha con la fecha 14 de diciembre.",
+  "clips": "Sin clip verificado; buscar highlights de Nacua de la temporada en el canal oficial NFL (1080p+).",
+  "grafismos": "1) Contador '3 games'. 2) Calendario con el regreso el 14/12. 3) Ficha de Nacua.",
+  "titulo_yt": "Puka Nacua suspended 3 games by the NFL ⚠️",
+  "descripcion": "The NFL suspends Rams WR Puka Nacua for 3 games — here's what to know ⚠️",
+  "hashtags": "#pukanacua #rams #nfl #football #shorts",
+  "musica": "Tono sobrio, sin música animada",
+  "caducidad": "🟡 publicar esta semana",
+  "avisos": "Tema legal serio: tono sobrio, nada de bromas. No describir el incidente: la NFL no lo detalló y las versiones sobre fecha y lugar discrepan. Decir 'reportes' y que él lo niega.",
+  "analizado": "2026-11-21T08:00:00Z"
  }
 }
