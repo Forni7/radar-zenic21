@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T15:31:18.630762+00:00",
+ "actualizado": "2026-11-21T21:03:56.197830+00:00",
  "lista": [
   {
    "id": "nba-401910023",
@@ -17,20 +17,20 @@
      "nombre": "Milwaukee Bucks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
      "casa": false,
-     "balance": "1-15",
-     "puntos": "0"
+     "balance": "1-16",
+     "puntos": "129"
     },
     {
      "abr": "PHI",
      "nombre": "Philadelphia 76ers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
      "casa": true,
-     "balance": "13-3",
-     "puntos": "0"
+     "balance": "14-3",
+     "puntos": "132"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/21 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -805,7 +805,7 @@
      "nombre": "Philadelphia 76ers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
      "casa": true,
-     "balance": "13-3",
+     "balance": "14-3",
      "puntos": "0"
     }
    ],
@@ -862,7 +862,7 @@
      "nombre": "Milwaukee Bucks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
      "casa": false,
-     "balance": "1-15",
+     "balance": "1-16",
      "puntos": "0"
     },
     {
