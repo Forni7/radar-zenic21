@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T01:14:11.204589+00:00",
+ "actualizado": "2026-11-22T08:11:16.209698+00:00",
  "lista": [
   {
    "id": "nfl-401873070",
@@ -450,7 +450,7 @@
      "nombre": "Dallas Mavericks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
      "casa": false,
-     "balance": "8-7",
+     "balance": "9-7",
      "puntos": "0"
     },
     {
@@ -489,7 +489,7 @@
      "nombre": "New York Knicks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
      "casa": true,
-     "balance": "9-6",
+     "balance": "10-6",
      "puntos": "0"
     }
    ],
@@ -541,7 +541,7 @@
      "nombre": "Boston Celtics",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
      "casa": false,
-     "balance": "11-4",
+     "balance": "11-5",
      "puntos": "0"
     },
     {
@@ -572,7 +572,7 @@
      "nombre": "Memphis Grizzlies",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
      "casa": false,
-     "balance": "12-4",
+     "balance": "12-5",
      "puntos": "0"
     },
     {
@@ -603,7 +603,7 @@
      "nombre": "Portland Trail Blazers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
      "casa": false,
-     "balance": "10-5",
+     "balance": "10-6",
      "puntos": "0"
     },
     {
@@ -708,7 +708,7 @@
      "nombre": "Minnesota Timberwolves",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
      "casa": true,
-     "balance": "11-5",
+     "balance": "12-5",
      "puntos": "0"
     }
    ],
@@ -773,7 +773,7 @@
      "nombre": "New Orleans Pelicans",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
      "casa": true,
-     "balance": "5-12",
+     "balance": "5-13",
      "puntos": "0"
     }
    ],
@@ -827,7 +827,7 @@
      "nombre": "LA Clippers",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
      "casa": false,
-     "balance": "4-10",
+     "balance": "4-11",
      "puntos": "0"
     },
     {
@@ -893,7 +893,7 @@
      "nombre": "San Antonio Spurs",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
      "casa": false,
-     "balance": "13-3",
+     "balance": "14-3",
      "puntos": "0"
     },
     {
@@ -901,7 +901,7 @@
      "nombre": "Sacramento Kings",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
      "casa": true,
-     "balance": "1-14",
+     "balance": "2-14",
      "puntos": "0"
     }
    ],
@@ -953,7 +953,7 @@
      "nombre": "Boston Celtics",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
      "casa": false,
-     "balance": "11-4",
+     "balance": "11-5",
      "puntos": "0"
     },
     {
@@ -986,7 +986,7 @@
      "nombre": "Dallas Mavericks",
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
      "casa": false,
-     "balance": "8-7",
+     "balance": "9-7",
      "puntos": "0"
     },
     {
