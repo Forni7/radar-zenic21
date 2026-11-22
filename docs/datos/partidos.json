@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T16:17:09.486399+00:00",
+ "actualizado": "2026-11-22T21:55:10.307523+00:00",
  "lista": [
   {
    "id": "nfl-401873070",
@@ -16,20 +16,20 @@
      "nombre": "Miami Dolphins",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
      "casa": false,
-     "balance": "1-8",
-     "puntos": "0"
+     "balance": "1-9",
+     "puntos": "9"
     },
     {
      "abr": "BUF",
      "nombre": "Buffalo Bills",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
      "casa": true,
-     "balance": "8-1",
-     "puntos": "0"
+     "balance": "9-1",
+     "puntos": "26"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -47,20 +47,20 @@
      "nombre": "New Orleans Saints",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
      "casa": false,
-     "balance": "3-6",
-     "puntos": "0"
+     "balance": "3-7",
+     "puntos": "13"
     },
     {
      "abr": "CHI",
      "nombre": "Chicago Bears",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
      "casa": true,
-     "balance": "7-2",
-     "puntos": "0"
+     "balance": "8-2",
+     "puntos": "21"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -78,20 +78,20 @@
      "nombre": "Tennessee Titans",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
      "casa": false,
-     "balance": "1-8",
-     "puntos": "0"
+     "balance": "1-9",
+     "puntos": "30"
     },
     {
      "abr": "DAL",
      "nombre": "Dallas Cowboys",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
      "casa": true,
-     "balance": "4-6",
-     "puntos": "0"
+     "balance": "5-6",
+     "puntos": "51"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -109,20 +109,20 @@
      "nombre": "Tampa Bay Buccaneers",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
      "casa": false,
-     "balance": "3-6",
-     "puntos": "0"
+     "balance": "3-7",
+     "puntos": "21"
     },
     {
      "abr": "DET",
      "nombre": "Detroit Lions",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
      "casa": true,
-     "balance": "7-2",
-     "puntos": "0"
+     "balance": "8-2",
+     "puntos": "31"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -140,20 +140,20 @@
      "nombre": "Arizona Cardinals",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
      "casa": false,
-     "balance": "3-7",
-     "puntos": "0"
+     "balance": "3-8",
+     "puntos": "7"
     },
     {
      "abr": "KC",
      "nombre": "Kansas City Chiefs",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
      "casa": true,
-     "balance": "7-2",
-     "puntos": "0"
+     "balance": "8-2",
+     "puntos": "34"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -171,20 +171,20 @@
      "nombre": "Pittsburgh Steelers",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
      "casa": false,
-     "balance": "6-3",
-     "puntos": "0"
+     "balance": "6-4",
+     "puntos": "16"
     },
     {
      "abr": "PHI",
      "nombre": "Philadelphia Eagles",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
      "casa": true,
-     "balance": "2-7",
-     "puntos": "0"
+     "balance": "3-7",
+     "puntos": "19"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -202,20 +202,20 @@
      "nombre": "Baltimore Ravens",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
      "casa": false,
-     "balance": "4-6",
-     "puntos": "0"
+     "balance": "4-7",
+     "puntos": "33"
     },
     {
      "abr": "CAR",
      "nombre": "Carolina Panthers",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
      "casa": true,
-     "balance": "4-5",
-     "puntos": "0"
+     "balance": "5-5",
+     "puntos": "35"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
@@ -232,7 +232,7 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
      "casa": false,
      "balance": "10-5",
-     "puntos": "0"
+     "puntos": "54"
     },
     {
      "abr": "ATL",
@@ -240,11 +240,11 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
      "casa": true,
      "balance": "10-6",
-     "puntos": "0"
+     "puntos": "51"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 3:30 PM EST",
+   "estado": "STATUS_IN_PROGRESS",
+   "estado_txt": "11:34 - 3rd",
    "grande": false
   },
   {
@@ -263,7 +263,7 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
      "casa": false,
      "balance": "2-8",
-     "puntos": "0"
+     "puntos": "10"
     },
     {
      "abr": "LAC",
@@ -271,11 +271,11 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
      "casa": true,
      "balance": "1-8",
-     "puntos": "0"
+     "puntos": "3"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 4:05 PM EST",
+   "estado": "STATUS_IN_PROGRESS",
+   "estado_txt": "8:53 - 2nd",
    "grande": false
   },
   {
@@ -302,11 +302,11 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
      "casa": true,
      "balance": "7-2",
-     "puntos": "0"
+     "puntos": "3"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 4:25 PM EST",
+   "estado": "STATUS_IN_PROGRESS",
+   "estado_txt": "2:24 - 1st",
    "grande": false
   },
   {
@@ -325,7 +325,7 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
      "casa": false,
      "balance": "7-2",
-     "puntos": "0"
+     "puntos": "3"
     },
     {
      "abr": "NYG",
@@ -333,11 +333,11 @@
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
      "casa": true,
      "balance": "5-3-1",
-     "puntos": "0"
+     "puntos": "3"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/22 - 4:25 PM EST",
+   "estado": "STATUS_IN_PROGRESS",
+   "estado_txt": "5:47 - 1st",
    "grande": false
   },
   {
