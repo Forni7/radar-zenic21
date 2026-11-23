@@ -2064,5 +2064,214 @@
     "caducidad": "🟡 publicar esta semana",
     "avisos": "Las fuentes difieren en las pérdidas del equipo (17 o 18); usa solo las 9 de Luka. No confirmada la resolución de los clips.",
     "analizado": "2026-11-21T18:55:00Z"
+  },
+  "685c5d3703": {
+    "titular": "DK Metcalf expulsado por intentar meter el dedo en el ojo a Cooper DeJean (Eagles 19-16 Steelers)",
+    "formato": "noticia viral",
+    "resumen": "El 22 de noviembre de 2026, DK Metcalf (Steelers) fue expulsado en el tercer cuarto de la derrota 19-16 ante los Eagles tras una segunda falta de conducta antideportiva, después de una falta por bloqueo tardío a Cooper DeJean. Los árbitros lo expulsaron por un supuesto intento de meterle el dedo en el ojo. DeJean dijo que Metcalf 'just missed'; Metcalf lo negó. La NFL revisará el incidente por una posible sanción.",
+    "por_que": "Es un momento de pelea con dos versiones enfrentadas y una estrella con historial polémico; el aficionado quiere ver el vídeo y decidir quién tiene razón.",
+    "datos_clave": [
+      "Eagles 19-16 Steelers, 22-nov-2026 (CBS Pittsburgh, ESPN)",
+      "Expulsado en el tercer cuarto tras dos faltas (CBS Pittsburgh)",
+      "DeJean: Metcalf 'just missed' (NFL.com)",
+      "Metcalf lo niega y dice que solo le pedía que dejara de empujar (ESPN / Yardbarker)",
+      "La NFL revisa una posible sanción (NFL.com, vía Ian Rapoport)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "CBS Pittsburgh",
+        "u": "https://www.cbsnews.com/pittsburgh/news/dk-metcalf-ejected-steelers-eagles-cooper-dejean-philadelphia/"
+      },
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye"
+      },
+      {
+        "n": "NFL.com",
+        "u": "https://www.nfl.com/news/cooper-dejean-dk-metcalf-just-missed-poking-eye-ejection-steelers-eagles"
+      },
+      {
+        "n": "Philadelphia Inquirer",
+        "u": "https://www.inquirer.com/eagles/cooper-dejean-dk-metcalf-ejection-poked-eye-steelers-20261122.html"
+      }
+    ],
+    "potencial": 7,
+    "fotograma1": "Plano de Metcalf siendo echado del campo con texto enorme 'EJECTED 😳' y 'Metcalf vs DeJean'",
+    "gancho": "He tried to poke my eyes... he just missed.",
+    "estructura": "1) Frase de DeJean en la rueda de prensa. 2) Jugada del bloqueo tardío y primera falta. 3) La segunda falta y la expulsión. 4) Negación de Metcalf. 5) Pregunta final: ¿sanción?",
+    "cierre": "Vuelve a la frase de DeJean 'he just missed' para que el bucle conecte con el inicio.",
+    "clips": "Sin enlace de YouTube verificado: buscar en el canal oficial de la NFL/NBA o en el podcast original el vídeo en 1080p+ antes de editar. Buscar: rueda de prensa de DeJean, rueda de prensa de Metcalf y resumen NFL del Steelers-Eagles.",
+    "grafismos": "Ficha cara a cara Metcalf vs DeJean (seg. 2); cronología de las dos faltas (seg. 10); cita de DeJean en pantalla (seg. 1); marcador 19-16 (seg. 8).",
+    "titulo_yt": "DK Metcalf got EJECTED for this 😳",
+    "descripcion": "DK Metcalf ejected after clash with Cooper DeJean 😳",
+    "hashtags": "#dkmetcalf #steelers #eagles #nfl #shorts",
+    "musica": "Tema de tensión del catálogo del canal (estilo trap oscuro)",
+    "caducidad": "🔴 publicar antes de que la NFL anuncie la sanción",
+    "avisos": "No afirmar que metió el dedo en el ojo como hecho: hay dos versiones. No hay sanción confirmada. Cuidado con el copyright del vídeo del partido.",
+    "analizado": "2026-11-23T19:00:00Z",
+    "duracion": "20-40"
+  },
+  "5888c1fdac": {
+    "titular": "Murray anota 45 y Jokic firma triple-doble 202: Nuggets 151-145 a los Bulls en la prórroga",
+    "formato": "INSANE",
+    "resumen": "El 22 de noviembre de 2026, los Nuggets vencieron 151-145 a los Bulls en prórroga. Jamal Murray hizo 45 puntos, récord de la temporada para él, y Nikola Jokić 37 puntos, 18 rebotes y 11 asistencias, su triple-doble 202. Denver ganó su tercer partido seguido.",
+    "por_que": "Dos estrellas en modo leyenda y un dato de récord histórico que se ilustra fácil con gráficos.",
+    "datos_clave": [
+      "Nuggets 151-145 Bulls en prórroga (Washington Post, AP)",
+      "Murray: 45 pts, 13/22 en tiros, 6/11 en triples (Yardbarker, TalkBasket)",
+      "Jokić: 37 pts, 18 reb, 11 ast; triple-doble n.º 202 (AP / Denver7)",
+      "Octava vez que Murray hace 40+ y Jokić triple-doble en el mismo partido, récord entre dúos (AP / NBA.com)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Washington Post (AP)",
+        "u": "https://www.washingtonpost.com/sports/nba/2026/11/22/nuggets-bulls-score/3c37c56e-e6ec-11f1-8db0-6f1e3c389e7c_story.html"
+      },
+      {
+        "n": "Denver7 (AP)",
+        "u": "https://www.denver7.com/sports/nuggets/jokics-triple-double-murrays-45-points-lead-nuggets-to-151-145-overtime-win-over-bulls"
+      },
+      {
+        "n": "NBA.com",
+        "u": "https://www.nba.com/news/nuggets-murray-jokic-make-history-in-win-over-bulls"
+      }
+    ],
+    "potencial": 7,
+    "fotograma1": "Murray celebrando con el contador gigante '45 PTS' y 'JOKIC 202 TRIPLE-DOUBLES'",
+    "gancho": "Murray and Jokic just did it again.",
+    "estructura": "1) Mejor jugada de Murray con contador 45. 2) Triple de Jokic al final de la reglamentaria. 3) Primeros ocho puntos de Denver en la prórroga. 4) Dato histórico del dúo. 5) Remate con el 202.",
+    "cierre": "Termina con el contador 45 y vuelve a la primera jugada de Murray.",
+    "clips": "Sin enlace de YouTube verificado: buscar en el canal oficial de la NFL/NBA o en el podcast original el vídeo en 1080p+ antes de editar. Buscar highlights oficiales NBA Nuggets vs Bulls 22-nov-2026.",
+    "grafismos": "Contador de puntos de Murray (seg. 0-10); ficha Jokić 37-18-11 (seg. 12); gráfico de las 8 veces del dúo (seg. 20); marcador final (seg. 28).",
+    "titulo_yt": "Jamal Murray dropped 45 and Jokic did THIS 💀",
+    "descripcion": "Jamal Murray 45 + Nikola Jokic triple-double in OT 🔥",
+    "hashtags": "#jamalmurray #jokic #nuggets #nba #basketball",
+    "musica": "Tema épico del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "El dato de 'récord de dúos' viene de la crónica de AP/NBA.com; no ampliarlo. Copyright de los highlights de la NBA.",
+    "analizado": "2026-11-23T19:00:00Z",
+    "duracion": "20-40"
+  },
+  "6f146559bb": {
+    "titular": "Dwight Howard se arrepiente de rechazar un traspaso por Steph Curry en 2011-12",
+    "formato": "I feel bad for",
+    "resumen": "Dwight Howard contó en The AM Hoops Show, de Casey Kiernan, que los Magic le consultaron traer a Steph Curry y que él dijo que no porque quería a Monta Ellis. Lo llamó una decisión estúpida y dijo que se arrepiente. También dijo que rechazó a los Warriors en 2013. Los medios sitúan la conversación en 2011-12; Curry estaba lesionado del tobillo.",
+    "por_que": "Es una historia de 'what if' con Curry, el nombre más fuerte del baloncesto, contada por el propio protagonista.",
+    "datos_clave": [
+      "Howard dice que los Magic le preguntaron por Curry (Yahoo Sports, SI)",
+      "Quería a Monta Ellis (Yahoo Sports)",
+      "Rechazó a los Warriors en 2013 (Yardbarker)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/dwight-howard-regrets-rejecting-stephen-164046290.html"
+      },
+      {
+        "n": "Sports Illustrated",
+        "u": "https://www.si.com/nba/warriors/onsi/dwight-howard-reveals-steph-curry-regret-that-might-have-saved-warriors-dynasty-01m7zqm4nddk"
+      },
+      {
+        "n": "Yardbarker",
+        "u": "https://www.yardbarker.com/nba/articles/dwight_howard_regrets_rejecting_stephen_curry_trade_in_2011_and_passing_on_warriors_in_2013/s1_16751_44601631"
+      }
+    ],
+    "potencial": 6,
+    "fotograma1": "Howard visiblemente arrepentido con texto 'I REGRET IT' y foto de Curry",
+    "gancho": "That was stupid... I regret it.",
+    "estructura": "1) Clip de Howard en el podcast diciendo que se arrepiente. 2) Gráfico de Curry en 2012. 3) Rechazo de 2013. 4) Remate: los títulos de los Warriors.",
+    "cierre": "Vuelve a la frase 'I regret it'.",
+    "clips": "Sin enlace de YouTube verificado: buscar en el canal oficial de la NFL/NBA o en el podcast original el vídeo en 1080p+ antes de editar. Buscar el episodio de The AM Hoops Show con Dwight Howard.",
+    "grafismos": "Cita en pantalla (seg. 0); cronología 2011-12 / 2013 (seg. 12); cara a cara Howard-Curry (seg. 20).",
+    "titulo_yt": "Dwight Howard regrets turning down Steph Curry 💔",
+    "descripcion": "Dwight Howard on the Steph Curry trade he turned down 💔",
+    "hashtags": "#dwighthoward #stephcurry #warriors #nba #basketball",
+    "musica": "Cinderella de Mac Miller",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Los medios citan a Howard con ligeras diferencias y el año no es del todo claro; usar solo lo que se oiga en el clip. No afirmar que el traspaso se habría hecho.",
+    "analizado": "2026-11-23T19:00:00Z",
+    "duracion": "20-40"
+  },
+  "f81178d0c6": {
+    "titular": "McKivitz (49ers) se fractura y luxa el tobillo y se pierde la temporada",
+    "formato": "I feel bad for",
+    "resumen": "El 22 de noviembre de 2026, en la victoria 35-10 de los 49ers ante los Vikings en Ciudad de México, el tackle derecho Colton McKivitz se lesionó en el segundo cuarto y salió en camilla con férula neumática. Shanahan confirmó una fractura con luxación del tobillo izquierdo y que acaba su temporada. Llevaba 61 partidos seguidos como titular.",
+    "por_que": "Lesión grave con abrazo de los compañeros, ligada a la de Fred Warner la temporada pasada. Es un tema serio con interés humano.",
+    "datos_clave": [
+      "Fractura y luxación del tobillo izquierdo; fuera de temporada (ESPN, Yardbarker)",
+      "49ers 35-10 Vikings en Ciudad de México (ESPN)",
+      "61 partidos seguidos como titular (ESPN)",
+      "Lesión parecida a la de Warner el año pasado (Yahoo Sports)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nfl/story/_/id/50568995/49ers-colton-mckivitz-exits-game-vs-vikings-injuring-lower-leg"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/49ers-kyle-shanahan-heartbroken-over-150359961.html"
+      }
+    ],
+    "potencial": 5,
+    "fotograma1": "Plano de los compañeros abrazando a McKivitz con texto 'Season over'",
+    "gancho": "This one hurts for the whole team.",
+    "estructura": "1) Plano de la lesión sin imágenes crudas. 2) Abrazo de Trent Williams. 3) Cifra de 61 partidos. 4) Declaración de Shanahan.",
+    "cierre": "Termina con el abrazo de Trent Williams.",
+    "clips": "Sin enlace de YouTube verificado: buscar en el canal oficial de la NFL/NBA o en el podcast original el vídeo en 1080p+ antes de editar. Buscar rueda de prensa de Shanahan y resumen del partido.",
+    "grafismos": "Contador de 61 partidos (seg. 5); ficha de McKivitz (seg. 2).",
+    "titulo_yt": "49ers lose Colton McKivitz for the season 💔",
+    "descripcion": "Colton McKivitz suffers a season-ending ankle injury 💔",
+    "hashtags": "#mckivitz #49ers #nfl #football #shorts",
+    "musica": "Cinderella de Mac Miller",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "Tono sobrio. No usar imágenes explícitas de la lesión. Los detalles del contrato no están verificados: no ponerlos. No atribuir reacciones de Mahomes, no verificadas.",
+    "analizado": "2026-11-23T19:00:00Z",
+    "duracion": "20-40"
+  },
+  "b97af6b8f7": {
+    "titular": "Loveland salta a un safety de los Saints y Tom Brady grita en directo",
+    "formato": "INSANE",
+    "resumen": "El 22 de noviembre de 2026, el tight end Colston Loveland saltó por encima del safety Julian Blackmon en un touchdown de 15 yardas de Caleb Williams que puso el 16-0 para los Bears. Tom Brady, que comentaba para FOX, reaccionó a gritos. Los Bears ganaron 21-13 a los Saints y están 8-2.",
+    "por_que": "Una jugada espectacular con la reacción de Brady, que es contenido fácil de compartir.",
+    "datos_clave": [
+      "TD de 15 yardas, 16-0 (Yahoo Sports)",
+      "Bears 21-13 Saints, 8-2 (Yahoo Sports / Chicago Sun-Times)",
+      "Hurdle sobre Julian Blackmon (Yahoo Sports)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/bears-colston-loveland-gets-tom-203012270.html"
+      },
+      {
+        "n": "NFL.com",
+        "u": "https://www.nfl.com/videos/can-t-miss-play-huge-hurdle-for-a-td-colston-loveland-leapfrogs-a-saint-for-end-zone-access"
+      },
+      {
+        "n": "Chicago Sun-Times",
+        "u": "https://chicago.suntimes.com/bears/2026/11/22/bears-grades-saints-chicago-new-orleans-caleb-williams-ben-johnson-jeffery-simmons-nfl-soldier-field"
+      }
+    ],
+    "potencial": 6,
+    "fotograma1": "Loveland en el aire sobre el defensor con texto 'BRADY LOST IT 💀'",
+    "gancho": "Brady was NOT ready for this hurdle.",
+    "estructura": "1) Salto en cámara lenta. 2) Audio de Brady. 3) Repetición con ficha. 4) Marcador.",
+    "cierre": "Vuelve al salto en cámara lenta.",
+    "clips": "Sin enlace de YouTube verificado: buscar en el canal oficial de la NFL/NBA o en el podcast original el vídeo en 1080p+ antes de editar. Buscar el vídeo de la jugada en el canal de los Bears o de la NFL.",
+    "grafismos": "Ficha de Loveland (seg. 3); flecha sobre el salto (seg. 1); marcador 16-0 (seg. 12).",
+    "titulo_yt": "Colston Loveland just HURDLED a defender and Brady lost it 💀",
+    "descripcion": "Colston Loveland's hurdle TD had Tom Brady screaming 💀",
+    "hashtags": "#colstonloveland #bears #tombrady #nfl #football",
+    "musica": "Tema enérgico del catálogo del canal",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No citar literalmente a Brady: las fuentes difieren en las palabras. Copyright de FOX/NFL.",
+    "analizado": "2026-11-23T19:00:00Z",
+    "duracion": "20-40"
   }
 }
