@@ -2273,5 +2273,51 @@
     "avisos": "No citar literalmente a Brady: las fuentes difieren en las palabras. Copyright de FOX/NFL.",
     "analizado": "2026-11-23T19:00:00Z",
     "duracion": "20-40"
+  },
+  "4eaccfd87c": {
+    "titular": "DK Metcalf, expulsado ante los Eagles tras tocar la cara a Cooper DeJean",
+    "formato": "noticia viral",
+    "resumen": "El domingo 22 de noviembre de 2026, en la derrota de los Steelers 19-16 ante los Eagles en Filadelfia, DK Metcalf fue expulsado en el tercer cuarto tras dos faltas personales consecutivas. La segunda llegó cuando parecía meter la mano por la máscara de Cooper DeJean. Metcalf negó haberlo hecho a propósito y McCarthy calificó la expulsión de inaceptable. Según fuentes citadas por Sky Sports, la NFL no lo suspenderá, aunque podría multarlo.",
+    "por_que": "Pelea + estrella polémica + un posible 'eye poke' que cada aficionado querrá ver en repetición y opinar sobre ello.",
+    "datos_clave": [
+      "Expulsado en el 3.er cuarto por dos faltas personales (ESPN, Yahoo Sports, Post-Gazette, Bleacher Report)",
+      "Derrota 19-16 de Pittsburgh en Filadelfia (resumen de búsqueda ESPN/Sky Sports; confirmar marcador en el recap)",
+      "Tercera expulsión de su carrera (Post-Gazette)",
+      "Sin suspensión según fuentes citadas por Sky Sports; posible multa (no oficial)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "ESPN",
+        "u": "https://www.espn.com/nfl/story/_/id/50564475/steelers-wr-dk-metcalf-ejected-game-eagles"
+      },
+      {
+        "n": "Yahoo Sports",
+        "u": "https://sports.yahoo.com/articles/steelers-dk-metcalf-ejected-game-201632750.html"
+      },
+      {
+        "n": "Pittsburgh Post-Gazette",
+        "u": "https://www.post-gazette.com/sports/steelers/dk-metcalf-ejected-steelers-eagles-R5TEM2PWK5ES3NGI4DBQ5BQRSQ/"
+      },
+      {
+        "n": "Sky Sports",
+        "u": "https://skysports.com/nfl/news/13615745/dk-metcalf-denies-poking-cooper-dejean-in-the-eyes-after-ejection-from-pittsburgh-steelers-philadelphia-eagles-game"
+      }
+    ],
+    "potencial": 6,
+    "duracion": "20-30",
+    "fotograma1": "Plano de Metcalf y DeJean cara a cara con texto enorme 'EJECTED 😳' y el rótulo '3rd career ejection'",
+    "gancho": "DK Metcalf just got ejected for this.",
+    "estructura": "1) Primer rifirrafe y falta personal (0-8 s). 2) Segunda jugada con la mano en la máscara, en cámara lenta (8-16 s). 3) Salida del campo y reacción de McCarthy (16-24 s). 4) Metcalf negándolo (24-30 s).",
+    "cierre": "Vuelve a la repetición en cámara lenta con la pregunta '¿lo hizo o no?' para enlazar con el gancho.",
+    "clips": "Pendiente: no se ha podido verificar ningún enlace de YouTube ni su resolución desde este entorno. Buscar el vídeo oficial de la NFL / highlights del Steelers-Eagles del 22-nov-2026 en 1080p+ y la rueda de prensa de McCarthy.",
+    "grafismos": "1) Contador '3rd career ejection' en el segundo 3. 2) Cita de McCarthy en pantalla. 3) Cronología del 3.er cuarto con las dos faltas. 4) Marcador final 19-16.",
+    "titulo_yt": "DK Metcalf got EJECTED for this 😳",
+    "descripcion": "DK Metcalf ejected vs the Eagles after clash with Cooper DeJean 😳🏈",
+    "hashtags": "#dkmetcalf #steelers #nfl #football #shorts",
+    "musica": "Tema de tensión del catálogo del canal (estilo trap oscuro)",
+    "caducidad": "🟡 publicar esta semana",
+    "avisos": "No afirmar que Metcalf pinchó el ojo: él lo niega y solo hay 'parecía'. La no suspensión es de fuentes, no oficial. Sin clip verificado: no publicar hasta localizarlo. Sin confirmar el comentario de Kevin Harlan.",
+    "analizado": "2026-11-24T07:00:00Z"
   }
 }
