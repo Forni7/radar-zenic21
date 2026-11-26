@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T12:20:54.690647+00:00",
+ "actualizado": "2026-11-26T21:45:08.624371+00:00",
  "lista": [
   {
    "id": "nfl-401873081",
@@ -16,20 +16,20 @@
      "nombre": "Chicago Bears",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
      "casa": false,
-     "balance": "8-2",
-     "puntos": "0"
+     "balance": "9-2",
+     "puntos": "39"
     },
     {
      "abr": "DET",
      "nombre": "Detroit Lions",
      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
      "casa": true,
-     "balance": "8-2",
-     "puntos": "0"
+     "balance": "8-3",
+     "puntos": "35"
     }
    ],
-   "estado": "STATUS_SCHEDULED",
-   "estado_txt": "11/26 - 1:00 PM EST",
+   "estado": "STATUS_FINAL",
+   "estado_txt": "Final",
    "grande": false
   },
   {
